@@ -9,14 +9,23 @@ Welcome to Qucs Reference Manual's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   component_description
+   quick_reference
+   component_reference
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+
+
+
+.. usefull links:
+   http://sphinx-doc.org/contents.html
+   http://rest-sphinx-memo.readthedocs.org/en/latest/index.html
+   https://pythonhosted.org/sphinxjp.themes.basicstrap/index.html
 
