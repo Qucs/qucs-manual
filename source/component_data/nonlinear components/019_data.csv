@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Tunnel Diode
+Description; resonance tunnel diode
+Schematic entry; ``RTD``
+Netlist entry; ``D``
+Type; AnalogComponent
+Bitmap file; tunneldiode
+Properties; 16
+Category; nonlinear components

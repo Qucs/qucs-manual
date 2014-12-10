@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; T-FlipFlop w/ SR
+Description; T flip flop with set and reset verilog device
+Schematic entry; ``tff_SR``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; tff_SR
+Properties; 3
+Category; digital components

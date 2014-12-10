@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Transformer
+Description; ideal transformer
+Schematic entry; ``Tr``
+Netlist entry; ``Tr``
+Type; AnalogComponent
+Bitmap file; transformer
+Properties; 1
+Category; lumped components

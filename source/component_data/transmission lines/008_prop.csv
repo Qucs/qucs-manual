@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+er; "9.8"; yes; "relative permittivity"
+h; "1 mm"; yes; "thickness in meters"
+t; "35 um"; yes; "thickness of metalization"
+tand; "2e-4"; yes; "loss tangent"
+rho; "0.022e-6"; yes; "specific resistance of metal"
+D; "0.15e-6"; yes; "rms substrate roughness"

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Line
+Description; microstrip line
+Schematic entry; ``MLIN``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; msline
+Properties; 6
+Category; transmission lines

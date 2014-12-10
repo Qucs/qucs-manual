@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Amplifier
+Description; ideal amplifier
+Schematic entry; ``Amp``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; amplifier
+Properties; 4
+Category; lumped components

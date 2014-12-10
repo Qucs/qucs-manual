@@ -1,0 +1,6 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+U; "1 V"; yes; "peak voltage in Volts"
+f; "1 GHz"; no; "frequency in Hertz"
+Phase; "0"; no; "initial phase in degrees"
+m; "1.0"; no; "modulation level"

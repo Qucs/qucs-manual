@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; n-port XOR
+Description; logical XOR
+Schematic entry; ``XOR``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; xor
+Properties; 5
+Category; digital components

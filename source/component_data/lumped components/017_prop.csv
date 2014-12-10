@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+phi; "90"; yes; "phase shift in degree"
+Zref; "50 Ohm"; no; "reference impedance"

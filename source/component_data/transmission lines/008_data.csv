@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Substrate
+Description; substrate definition
+Schematic entry; ``SUBST``
+Netlist entry; ``Subst``
+Type; AnalogComponent
+Bitmap file; substrate
+Properties; 6
+Category; transmission lines

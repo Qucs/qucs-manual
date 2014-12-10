@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+L; "1 uH"; no; "for transient simulation: inductance in Henry"
+C; "1 uF"; no; "for transient simulation: capacitance in Farad"

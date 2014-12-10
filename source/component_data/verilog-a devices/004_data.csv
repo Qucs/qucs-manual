@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; HICUM L2 v2.22
+Description; HICUM Level 2 v2.22 verilog device
+Schematic entry; ``hic2_full``
+Netlist entry; ``T``
+Type; AnalogComponent
+Bitmap file; npnsub_therm
+Properties; 114
+Category; verilog-a devices

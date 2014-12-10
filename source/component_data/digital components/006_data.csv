@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; n-port NAND
+Description; logical NAND
+Schematic entry; ``NAND``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; nand
+Properties; 5
+Category; digital components

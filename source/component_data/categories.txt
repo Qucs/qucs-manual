@@ -1,0 +1,12 @@
+lumped components
+sources
+probes
+transmission lines
+nonlinear components
+verilog-a devices
+digital components
+file components
+simulations
+diagrams
+external sim components
+paintings

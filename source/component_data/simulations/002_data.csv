@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Transient simulation
+Description; transient simulation
+Schematic entry; ``.TR``
+Netlist entry; ``TR``
+Type; AnalogComponent
+Bitmap file; tran
+Properties; 20
+Category; simulations

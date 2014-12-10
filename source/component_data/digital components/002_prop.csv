@@ -1,0 +1,6 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+V; "1 V"; no; "voltage of high level"
+t; "0"; no; "delay time"
+TR; "10"; no; "transfer function scaling factor"
+Symbol; "old"; no; "schematic symbol [old, DIN40900]"

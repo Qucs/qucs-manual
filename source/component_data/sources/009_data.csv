@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Current Controlled Current Source
+Description; current controlled current source
+Schematic entry; ``CCCS``
+Netlist entry; ``SRC``
+Type; AnalogComponent
+Bitmap file; cccs
+Properties; 2
+Category; sources

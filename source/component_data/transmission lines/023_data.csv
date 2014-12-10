@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Coplanar Short
+Description; coplanar short
+Schematic entry; ``CSHORT``
+Netlist entry; ``CL``
+Type; AnalogComponent
+Bitmap file; cpwshort
+Properties; 4
+Category; transmission lines

@@ -1,0 +1,6 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Type; "explicit"; no; "type of equations [explicit, implicit]"
+Branches; "1"; no; "number of branches"
+I1; "0"; yes; "current equation 1"
+Q1; "0"; no; "charge equation 1"

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Via
+Description; microstrip via
+Schematic entry; ``MVIA``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; msvia
+Properties; 3
+Category; transmission lines

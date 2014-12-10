@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; EPFL-EKV PMOS 2.6
+Description; EPFL-EKV MOS 2.6 verilog device
+Schematic entry; ``EKV26MOS``
+Netlist entry; ``M``
+Type; AnalogComponent
+Bitmap file; EKV26pMOS
+Properties; 55
+Category; verilog-a devices

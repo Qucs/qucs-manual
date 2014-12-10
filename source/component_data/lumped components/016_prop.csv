@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+R; "50 Ohm"; yes; "gyrator ratio"
+Zref; "50 Ohm"; no; "reference impedance"

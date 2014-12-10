@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Subst; "Subst1"; yes; "name of substrate definition"
+W1; "1 mm"; yes; "width of the line 1"
+W2; "1 mm"; yes; "width of the line 2"
+S; "1 mm"; yes; "spacing between the microstrip ends"
+MSModel; "Hammerstad"; no; "quasi-static microstrip model [Hammerstad, Wheeler, Schneider]"
+MSDispModel; "Kirschning"; no; "microstrip dispersion model [Kirschning, Kobayashi, Yamashita, Hammerstad, Getsinger, Schneider, Pramanick]"

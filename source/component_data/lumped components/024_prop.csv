@@ -1,0 +1,13 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+coils; "4"; no; "number of mutual inductances"
+L1; "1 mH"; no; "inductance of coil 1"
+L2; "1 mH"; no; "inductance of coil 2"
+L3; "1 mH"; no; "inductance of coil 3"
+L4; "1 mH"; no; "inductance of coil 4"
+k12; "0.9"; no; "coupling factor between coil 1 and coil 2"
+k13; "0.9"; no; "coupling factor between coil 1 and coil 3"
+k14; "0.9"; no; "coupling factor between coil 1 and coil 4"
+k23; "0.9"; no; "coupling factor between coil 2 and coil 3"
+k24; "0.9"; no; "coupling factor between coil 2 and coil 4"
+k34; "0.9"; no; "coupling factor between coil 3 and coil 4"

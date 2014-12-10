@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+k; "0.7071"; yes; "coupling factor"
+phi; "180"; yes; "phase shift of coupling path in degree"
+Z; "50 Ohm"; no; "reference impedance"

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Vbo; "30 V"; yes; "(bidirectional) breakover voltage"
+Ibo; "50 uA"; no; "(bidirectional) breakover current"
+Cj0; "10 pF"; no; "parasitic capacitance"
+Is; "1e-10 A"; no; "saturation current"
+N; "2"; no; "emission coefficient"
+Ri; "10 Ohm"; no; "intrinsic junction resistance"
+Temp; "26.85"; no; "simulation temperature"

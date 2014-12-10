@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Attenuator
+Description; attenuator
+Schematic entry; ``Attenuator``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; attenuator
+Properties; 3
+Category; lumped components

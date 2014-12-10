@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Rectangular Waveguide
+Description; Rectangular Waveguide
+Schematic entry; ``RECTLINE``
+Netlist entry; ``Line``
+Type; AnalogComponent
+Bitmap file; rectline
+Properties; 9
+Category; transmission lines

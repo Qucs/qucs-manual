@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Coplanar Line
+Description; coplanar line
+Schematic entry; ``CLIN``
+Netlist entry; ``CL``
+Type; AnalogComponent
+Bitmap file; coplanar
+Properties; 6
+Category; transmission lines

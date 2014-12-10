@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Potentiometer
+Description; Potentiometer verilog device
+Schematic entry; ``potentiometer``
+Netlist entry; ``POT``
+Type; AnalogComponent
+Bitmap file; potentiometer
+Properties; 11
+Category; verilog-a devices

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; AM modulated Source
+Description; ac voltage source with amplitude modulator
+Schematic entry; ``AM_Mod``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; am_mod
+Properties; 4
+Category; sources

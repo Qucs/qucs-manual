@@ -1,0 +1,11 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+a; "2.95 mm"; yes; "widest side"
+b; "0.9 mm"; yes; "shortest side"
+L; "1500 mm"; yes; "mechanical length of the line"
+er; "1"; no; "relative permittivity of dielectric"
+mur; "1"; no; "relative permeability of conductor"
+tand; "0"; no; "loss tangent"
+rho; "0.022e-6"; no; "specific resistance of conductor"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"
+Material; "unspecified"; no; "material parameter for temperature model [unspecified, Copper, StainlessSteel, Gold]"

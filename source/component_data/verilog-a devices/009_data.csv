@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; MESFET
+Description; MESFET verilog device
+Schematic entry; ``MESFET``
+Netlist entry; ``T``
+Type; AnalogComponent
+Bitmap file; MESFET
+Properties; 52
+Category; verilog-a devices

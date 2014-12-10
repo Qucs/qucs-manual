@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Corner
+Description; microstrip corner
+Schematic entry; ``MCORN``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; mscorner
+Properties; 2
+Category; transmission lines

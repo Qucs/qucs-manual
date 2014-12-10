@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+G; "1 Ohm"; yes; "forward transfer factor"
+T; "0"; no; "delay time"

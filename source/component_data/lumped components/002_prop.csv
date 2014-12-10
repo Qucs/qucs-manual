@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+R; "50 Ohm"; yes; "ohmic resistance in Ohms"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"
+Tc1; "0.0"; no; "first order temperature coefficient"
+Tc2; "0.0"; no; "second order temperature coefficient"
+Tnom; "26.85"; no; "temperature at which parameters were extracted"
+Symbol; "US"; no; "schematic symbol [european, US]"

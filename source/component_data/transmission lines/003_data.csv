@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Coupled Transmission Line
+Description; coupled transmission lines
+Schematic entry; ``CTLIN``
+Netlist entry; ``Line``
+Type; AnalogComponent
+Bitmap file; ctline
+Properties; 8
+Category; transmission lines

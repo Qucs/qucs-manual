@@ -1,0 +1,11 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+d; "0.5 mm"; yes; "diameter of conductor"
+D; "0.8 mm"; yes; "diameter of wire (conductor and insulator)"
+L; "1.5"; yes; "physical length of the line"
+T; "100"; no; "twists per length in 1/m"
+er; "4"; no; "dielectric constant of insulator"
+mur; "1"; no; "relative permeability of conductor"
+rho; "0.022e-6"; no; "specific resistance of conductor"
+tand; "4e-4"; no; "loss tangent"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

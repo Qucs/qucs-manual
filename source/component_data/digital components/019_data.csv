@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 1Bit HalfAdder
+Description; 1bit half adder verilog device
+Schematic entry; ``ha1b``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; ha1b
+Properties; 2
+Category; digital components

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; PM modulated Source
+Description; ac voltage source with phase modulator
+Schematic entry; ``PM_Mod``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; pm_mod
+Properties; 4
+Category; sources

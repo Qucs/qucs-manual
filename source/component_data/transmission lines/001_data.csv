@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Transmission Line
+Description; ideal transmission line
+Schematic entry; ``TLIN``
+Netlist entry; ``Line``
+Type; AnalogComponent
+Bitmap file; tline
+Properties; 4
+Category; transmission lines

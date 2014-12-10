@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Coplanar Open
+Description; coplanar open
+Schematic entry; ``COPEN``
+Netlist entry; ``CL``
+Type; AnalogComponent
+Bitmap file; cpwopen
+Properties; 5
+Category; transmission lines

@@ -1,0 +1,6 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+G; "10"; yes; "voltage gain"
+Z1; "50 Ohm"; no; "reference impedance of input port"
+Z2; "50 Ohm"; no; "reference impedance of output port"
+NF; "0 dB"; no; "noise figure"

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; dc Current Source
+Description; ideal dc current source
+Schematic entry; ``Idc``
+Netlist entry; ``I``
+Type; AnalogComponent
+Bitmap file; dc_current
+Properties; 1
+Category; sources

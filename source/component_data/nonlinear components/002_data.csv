@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; npn transistor
+Description; bipolar junction transistor
+Schematic entry; ``_BJT``
+Netlist entry; ``T``
+Type; AnalogComponent
+Bitmap file; npn
+Properties; 48
+Category; nonlinear components

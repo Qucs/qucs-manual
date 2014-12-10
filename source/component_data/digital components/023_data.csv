@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; D-FlipFlop
+Description; D flip flop with asynchron reset
+Schematic entry; ``DFF``
+Netlist entry; ``Y``
+Type; DigitalComponent
+Bitmap file; dflipflop
+Properties; 1
+Category; digital components

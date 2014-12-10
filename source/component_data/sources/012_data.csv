@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Voltage Pulse
+Description; ideal voltage pulse source
+Schematic entry; ``Vpulse``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; vpulse
+Properties; 6
+Category; sources

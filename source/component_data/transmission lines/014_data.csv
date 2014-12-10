@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Step
+Description; microstrip impedance step
+Schematic entry; ``MSTEP``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; msstep
+Properties; 5
+Category; transmission lines

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Subst; "Subst1"; yes; "name of substrate definition"
+W; "1 mm"; yes; "width of the line"
+L; "10 mm"; yes; "length of the line"
+S; "1 mm"; yes; "spacing between the lines"
+Model; "Kirschning"; no; "microstrip model [Kirschning, Hammerstad]"
+DispModel; "Kirschning"; no; "microstrip dispersion model [Kirschning, Getsinger]"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

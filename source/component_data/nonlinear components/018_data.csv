@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Thyristor
+Description; silicon controlled rectifier (SCR)
+Schematic entry; ``SCR``
+Netlist entry; ``D``
+Type; AnalogComponent
+Bitmap file; thyristor
+Properties; 8
+Category; nonlinear components

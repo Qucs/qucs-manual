@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Current Controlled Voltage Source
+Description; current controlled voltage source
+Schematic entry; ``CCVS``
+Netlist entry; ``SRC``
+Type; AnalogComponent
+Bitmap file; ccvs
+Properties; 2
+Category; sources

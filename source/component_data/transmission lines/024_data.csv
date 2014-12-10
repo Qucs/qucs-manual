@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Coplanar Gap
+Description; coplanar gap
+Schematic entry; ``CGAP``
+Netlist entry; ``CL``
+Type; AnalogComponent
+Bitmap file; cpwgap
+Properties; 4
+Category; transmission lines

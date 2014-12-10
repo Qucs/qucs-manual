@@ -1,0 +1,11 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Type; "lin"; yes; "sweep type [lin, log, list, const]"
+Start; "1 GHz"; yes; "start frequency in Hertz"
+Stop; "10 GHz"; yes; "stop frequency in Hertz"
+Points; "19"; yes; "number of simulation steps"
+Noise; "no"; no; "calculate noise parameters [yes, no]"
+NoiseIP; "1"; no; "input port for noise figure"
+NoiseOP; "2"; no; "output port for noise figure"
+saveCVs; "no"; no; "put characteristic values into dataset [yes, no]"
+saveAll; "no"; no; "save subcircuit characteristic values into dataset [yes, no]"

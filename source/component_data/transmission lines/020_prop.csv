@@ -1,0 +1,6 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Subst; "Subst1"; yes; "name of substrate definition"
+ri; "1 mm"; no; "inner radius"
+ro; "10 mm"; yes; "outer radius"
+alpha; "90"; yes; "stub angle (degrees)"

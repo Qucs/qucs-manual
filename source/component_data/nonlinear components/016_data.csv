@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Diac
+Description; diac (bidirectional trigger diode)
+Schematic entry; ``Diac``
+Netlist entry; ``D``
+Type; AnalogComponent
+Bitmap file; diac
+Properties; 7
+Category; nonlinear components

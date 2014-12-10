@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Parameter sweep
+Description; Parameter sweep
+Schematic entry; ``.SW``
+Netlist entry; ``SW``
+Type; AnalogComponent
+Bitmap file; sweep
+Properties; 6
+Category; simulations

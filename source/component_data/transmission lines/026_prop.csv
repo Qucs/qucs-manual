@@ -1,0 +1,10 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+L; "3 mm"; yes; "length of the wire"
+D; "50 um"; yes; "diameter of the wire"
+H; "2 mm"; yes; "height above ground plane"
+rho; "0.022e-6"; no; "specific resistance of the metal"
+mur; "1"; no; "relative permeability of the metal"
+Model; "FREESPACE"; no; "bond wire model [FREESPACE, MIRROR, DESCHARLES]"
+Subst; "Subst1"; yes; "substrate"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

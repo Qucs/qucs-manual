@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Sim; ""; yes; "simulation to perform parameter sweep on"
+Type; "lin"; yes; "sweep type [lin, log, list, const]"
+Param; "R1"; yes; "parameter to sweep"
+Start; "5 Ohm"; yes; "start value for sweep"
+Stop; "50 Ohm"; yes; "stop value for sweep"
+Points; "20"; yes; "number of simulation steps"

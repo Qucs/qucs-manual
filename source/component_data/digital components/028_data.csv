@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Gated D-Latch
+Description; gated D latch verilog device
+Schematic entry; ``gatedDlatch``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; gatedDlatch
+Properties; 3
+Category; digital components

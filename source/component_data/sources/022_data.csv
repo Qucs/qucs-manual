@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Exponential Voltage Pulse
+Description; exponential voltage source
+Schematic entry; ``Vexp``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; vexp
+Properties; 6
+Category; sources

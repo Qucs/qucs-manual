@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 4Bit HPRI-Bin
+Description; 4bit highest priority encoder (binary form) verilog device
+Schematic entry; ``hpribin4bit``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; hpribin4bit
+Properties; 2
+Category; digital components

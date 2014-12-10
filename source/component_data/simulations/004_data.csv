@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; S-parameter simulation
+Description; S parameter simulation
+Schematic entry; ``.SP``
+Netlist entry; ``SP``
+Type; AnalogComponent
+Bitmap file; sparameter
+Properties; 9
+Category; simulations

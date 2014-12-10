@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; ac Current Source
+Description; ideal ac current source
+Schematic entry; ``Iac``
+Netlist entry; ``I``
+Type; AnalogComponent
+Bitmap file; ac_current
+Properties; 4
+Category; sources

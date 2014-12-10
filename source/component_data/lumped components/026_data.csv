@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Relay
+Description; relay
+Schematic entry; ``Relais``
+Netlist entry; ``S``
+Type; AnalogComponent
+Bitmap file; relais
+Properties; 5
+Category; lumped components

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Inverter
+Description; logical inverter
+Schematic entry; ``Inv``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; inverter
+Properties; 4
+Category; digital components

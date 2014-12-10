@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Equation Defined RF Device
+Description; equation defined RF device
+Schematic entry; ``RFEDD``
+Netlist entry; ``RF``
+Type; AnalogComponent
+Bitmap file; rfedd
+Properties; 7
+Category; lumped components

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Mutual Inductors
+Description; two mutual inductors
+Schematic entry; ``MUT``
+Netlist entry; ``Tr``
+Type; AnalogComponent
+Bitmap file; mutual
+Properties; 3
+Category; lumped components

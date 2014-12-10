@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Coupler
+Description; ideal coupler
+Schematic entry; ``Coupler``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; coupler
+Properties; 3
+Category; lumped components

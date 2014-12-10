@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 4-Terminal Transmission Line
+Description; ideal 4-terminal transmission line
+Schematic entry; ``TLIN4P``
+Netlist entry; ``Line``
+Type; AnalogComponent
+Bitmap file; tline_4port
+Properties; 4
+Category; transmission lines

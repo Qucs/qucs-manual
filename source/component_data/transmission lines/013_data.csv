@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Mitered Bend
+Description; microstrip mitered bend
+Schematic entry; ``MMBEND``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; msmbend
+Properties; 2
+Category; transmission lines

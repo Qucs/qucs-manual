@@ -1,0 +1,6 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+u; "1e-6"; yes; "voltage power spectral density in V^2/Hz"
+e; "0"; no; "frequency exponent"
+c; "1"; no; "frequency coefficient"
+a; "0"; no; "additive frequency term"

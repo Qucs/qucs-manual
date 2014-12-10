@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; n-MOSFET
+Description; MOS field-effect transistor with substrate
+Schematic entry; ``MOSFET``
+Netlist entry; ``T``
+Type; AnalogComponent
+Bitmap file; nmosfet_sub
+Properties; 44
+Category; nonlinear components

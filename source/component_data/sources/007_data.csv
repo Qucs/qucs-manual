@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Noise Current Source
+Description; noise current source
+Schematic entry; ``Inoise``
+Netlist entry; ``I``
+Type; AnalogComponent
+Bitmap file; noise_current
+Properties; 4
+Category; sources

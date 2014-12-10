@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; n-port AND
+Description; logical AND
+Schematic entry; ``AND``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; and
+Properties; 5
+Category; digital components

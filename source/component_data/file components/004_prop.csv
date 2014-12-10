@@ -1,0 +1,7 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+File; "test.s3p"; yes; "name of the s parameter file"
+Data; "rectangular"; no; "data type [rectangular, polar]"
+Interpolator; "linear"; no; "interpolation type [linear, cubic]"
+duringDC; "open"; no; "representation during DC analysis [open, short, shortall, unspecified]"
+Ports; "3"; no; "number of ports"

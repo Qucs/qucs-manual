@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; optimization
+Description; Optimization
+Schematic entry; ``.Opt``
+Netlist entry; ``Opt``
+Type; AnalogComponent
+Bitmap file; optimize
+Properties; 2
+Category; simulations

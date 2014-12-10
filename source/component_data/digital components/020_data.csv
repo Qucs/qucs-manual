@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 1Bit FullAdder
+Description; 1bit full adder verilog device
+Schematic entry; ``fa1b``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; fa1b
+Properties; 2
+Category; digital components

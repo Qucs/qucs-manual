@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Rectangle Voltage
+Description; ideal rectangle voltage source
+Schematic entry; ``Vrect``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; vrect
+Properties; 6
+Category; sources

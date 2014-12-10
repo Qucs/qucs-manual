@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+G; "1e6"; yes; "voltage gain"
+Umax; "15 V"; no; "absolute value of maximum and minimum output voltage"

@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+L; "10 dB"; yes; "power attenuation"
+Zref; "50 Ohm"; no; "reference impedance"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

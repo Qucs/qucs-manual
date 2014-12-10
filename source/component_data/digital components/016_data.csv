@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 2to4 Demux
+Description; 2to4 demultiplexer verilog device
+Schematic entry; ``dmux2to4``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; dmux2to4
+Properties; 2
+Category; digital components

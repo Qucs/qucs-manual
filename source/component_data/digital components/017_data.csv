@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 3to8 Demux
+Description; 3to8 demultiplexer verilog device
+Schematic entry; ``dmux3to8``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; dmux3to8
+Properties; 2
+Category; digital components

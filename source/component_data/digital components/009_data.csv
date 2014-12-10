@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Buffer
+Description; logical buffer
+Schematic entry; ``Buf``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; buffer
+Properties; 4
+Category; digital components

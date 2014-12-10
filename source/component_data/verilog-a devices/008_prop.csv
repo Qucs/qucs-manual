@@ -1,0 +1,13 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+R_pot; "1e4"; no; "nominal device resistance (Ohm)"
+Rotation; "120"; no; "shaft/wiper arm rotation (degrees)"
+Taper_Coeff; "0"; no; "resistive law taper coefficient"
+LEVEL; "1"; no; "device type selector [1, 2, 3]"
+Max_Rotation; "240.0"; no; "maximum shaft/wiper rotation (degrees)"
+Conformity; "0.2"; no; "conformity error (%)"
+Linearity; "0.2"; no; "linearity error (%)"
+Contact_Res; "1"; no; "wiper arm contact resistance (Ohm)"
+Temp_Coeff; "100"; no; "resistance temperature coefficient (PPM/Celsius)"
+Tnom; "26.85"; no; "parameter measurement temperature (Celsius)"
+Temp; "26.85"; no; "simulation temperature"

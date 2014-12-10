@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Voltage Probe
+Description; voltage probe
+Schematic entry; ``VProbe``
+Netlist entry; ``Pr``
+Type; AnalogComponent
+Bitmap file; vprobe
+Properties; 0
+Category; lumped components

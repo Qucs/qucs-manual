@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Equation Defined Device
+Description; equation defined device
+Schematic entry; ``EDD``
+Netlist entry; ``D``
+Type; AnalogComponent
+Bitmap file; edd
+Properties; 4
+Category; nonlinear components

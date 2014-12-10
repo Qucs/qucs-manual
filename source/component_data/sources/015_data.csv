@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Rectangle Current
+Description; ideal rectangle current source
+Schematic entry; ``Irect``
+Netlist entry; ``I``
+Type; AnalogComponent
+Bitmap file; irect
+Properties; 6
+Category; sources

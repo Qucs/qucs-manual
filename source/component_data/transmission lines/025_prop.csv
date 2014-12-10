@@ -1,0 +1,7 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Subst; "Subst1"; yes; "name of substrate definition"
+W1; "1 mm"; yes; "width of line 1"
+W2; "2 mm"; yes; "width of line 2"
+S; "3 mm"; yes; "distance between ground planes"
+Backside; "Air"; no; "material at the backside of the substrate [Metal, Air]"

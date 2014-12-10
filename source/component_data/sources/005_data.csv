@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Power Source
+Description; ac power source
+Schematic entry; ``Pac``
+Netlist entry; ``P``
+Type; AnalogComponent
+Bitmap file; source
+Properties; 5
+Category; sources

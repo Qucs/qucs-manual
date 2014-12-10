@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Bond Wire
+Description; bond wire
+Schematic entry; ``BOND``
+Netlist entry; ``Line``
+Type; AnalogComponent
+Bitmap file; bondwire
+Properties; 8
+Category; transmission lines

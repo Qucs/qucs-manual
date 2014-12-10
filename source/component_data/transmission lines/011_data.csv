@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Lange Coupler
+Description; microstrip lange coupler
+Schematic entry; ``MLANGE``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; mslange
+Properties; 7
+Category; transmission lines

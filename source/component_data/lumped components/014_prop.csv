@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Z1; "50 Ohm"; no; "reference impedance of input port"
+Z2; "50 Ohm"; no; "reference impedance of output port"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

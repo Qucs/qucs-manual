@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; dc simulation
+Description; dc simulation
+Schematic entry; ``.DC``
+Netlist entry; ``DC``
+Type; AnalogComponent
+Bitmap file; dc
+Properties; 9
+Category; simulations

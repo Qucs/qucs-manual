@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Triac
+Description; triac (bidirectional thyristor)
+Schematic entry; ``Triac``
+Netlist entry; ``D``
+Type; AnalogComponent
+Bitmap file; triac
+Properties; 8
+Category; nonlinear components

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; RLCG Transmission Line
+Description; RLCG transmission line
+Schematic entry; ``RLCG``
+Netlist entry; ``Line``
+Type; AnalogComponent
+Bitmap file; rlcg
+Properties; 6
+Category; transmission lines

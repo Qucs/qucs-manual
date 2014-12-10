@@ -1,0 +1,10 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+er; "2.29"; yes; "relative permittivity of dielectric"
+rho; "0.022e-6"; no; "specific resistance of conductor"
+mur; "1"; no; "relative permeability of conductor"
+D; "2.95 mm"; no; "inner diameter of shield"
+d; "0.9 mm"; no; "diameter of inner conductor"
+L; "1500 mm"; yes; "mechanical length of the line"
+tand; "4e-4"; no; "loss tangent"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

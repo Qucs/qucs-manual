@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 4x2 AndOr
+Description; 4x2 andor verilog device
+Schematic entry; ``andor4x2``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; andor4x2
+Properties; 2
+Category; digital components

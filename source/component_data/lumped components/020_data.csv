@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Current Probe
+Description; current probe
+Schematic entry; ``IProbe``
+Netlist entry; ``Pr``
+Type; AnalogComponent
+Bitmap file; iprobe
+Properties; 0
+Category; lumped components

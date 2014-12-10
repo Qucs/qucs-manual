@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Noise Voltage Source
+Description; noise voltage source
+Schematic entry; ``Vnoise``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; noise_volt
+Properties; 4
+Category; sources

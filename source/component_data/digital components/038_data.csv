@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 1Bit Comparator
+Description; 1bit comparator verilog device
+Schematic entry; ``comp_1bit``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; comp_1bit
+Properties; 2
+Category; digital components

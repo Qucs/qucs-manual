@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+U1; "0 V"; yes; "voltage before rising edge"
+U2; "1 V"; yes; "maximum voltage of the pulse"
+T1; "0"; yes; "start time of the exponentially rising edge"
+T2; "1 ms"; yes; "start of exponential decay"
+Tr; "1 ns"; no; "rise time of the rising edge"
+Tf; "1 ns"; no; "fall time of the falling edge"

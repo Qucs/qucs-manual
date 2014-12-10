@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Cross
+Description; microstrip cross
+Schematic entry; ``MCROSS``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; mscross
+Properties; 8
+Category; transmission lines

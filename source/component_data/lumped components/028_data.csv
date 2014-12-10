@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Equation Defined 2-port RF Device
+Description; equation defined 2-port RF device
+Schematic entry; ``RFEDD2P``
+Netlist entry; ``RF``
+Type; AnalogComponent
+Bitmap file; rfedd
+Properties; 6
+Category; lumped components

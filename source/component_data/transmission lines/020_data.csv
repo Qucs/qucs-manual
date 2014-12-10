@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Radial Stub
+Description; microstrip radial stub
+Schematic entry; ``MRSTUB``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; msrstub
+Properties; 4
+Category; transmission lines

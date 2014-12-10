@@ -1,0 +1,7 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Subst; "Subst1"; yes; "name of substrate definition"
+W; "1 mm"; yes; "width of the line"
+S; "1 mm"; yes; "width of a gap"
+G; "5 mm"; yes; "width of gap at end of line"
+Backside; "Air"; no; "material at the backside of the substrate [Metal, Air]"

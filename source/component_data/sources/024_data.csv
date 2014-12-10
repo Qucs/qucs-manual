@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; File Based Current Source
+Description; file based current source
+Schematic entry; ``Ifile``
+Netlist entry; ``I``
+Type; AnalogComponent
+Bitmap file; ifile
+Properties; 5
+Category; sources

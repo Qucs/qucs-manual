@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+R; "0.0"; no; "resistive load (Ohm/m)"
+L; "0.6e-6"; yes; "inductive load (H/m)"
+C; "240e-12"; yes; "capacitive load (F/m)"
+G; "0.0"; no; "conductive load (S/m)"
+Length; "1 mm"; yes; "electrical length of the line"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

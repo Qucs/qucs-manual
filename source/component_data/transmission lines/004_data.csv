@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Twisted-Pair
+Description; twisted pair transmission line
+Schematic entry; ``TWIST``
+Netlist entry; ``Line``
+Type; AnalogComponent
+Bitmap file; twistedpair
+Properties; 9
+Category; transmission lines

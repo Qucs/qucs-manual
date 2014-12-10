@@ -1,0 +1,6 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Z; "50 Ohm"; yes; "characteristic impedance"
+L; "1 mm"; yes; "electrical length of the line"
+Alpha; "0 dB"; no; "attenuation factor per length in 1/m"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

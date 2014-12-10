@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Voltage Controlled Resistor
+Description; voltage controlled voltage source
+Schematic entry; ``vcresistor``
+Netlist entry; ``VCR``
+Type; AnalogComponent
+Bitmap file; vcresistor
+Properties; 1
+Category; verilog-a devices

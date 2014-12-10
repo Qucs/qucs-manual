@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; bsim4v30nMOS
+Description; bsim4v30nMOS verilog device
+Schematic entry; ``bsim4v30nMOS``
+Netlist entry; ``BSIM4_``
+Type; AnalogComponent
+Bitmap file; bsim4v30nMOS
+Properties; 278
+Category; verilog-a devices

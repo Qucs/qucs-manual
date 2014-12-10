@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Coaxial Line
+Description; coaxial transmission line
+Schematic entry; ``COAX``
+Netlist entry; ``Line``
+Type; AnalogComponent
+Bitmap file; coaxial
+Properties; 8
+Category; transmission lines

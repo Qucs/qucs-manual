@@ -1,0 +1,11 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Temp; "26.85"; no; "simulation temperature in degree Celsius"
+reltol; "0.001"; no; "relative tolerance for convergence"
+abstol; "1 pA"; no; "absolute tolerance for currents"
+vntol; "1 uV"; no; "absolute tolerance for voltages"
+saveOPs; "no"; no; "put operating points into dataset [yes, no]"
+MaxIter; "150"; no; "maximum number of iterations until error"
+saveAll; "no"; no; "save subcircuit nodes into dataset [yes, no]"
+convHelper; "none"; no; "preferred convergence algorithm [none, gMinStepping, SteepestDescent, LineSearch, Attenuation, SourceStepping]"
+Solver; "CroutLU"; no; "method for solving the circuit matrix [CroutLU, DoolittleLU, HouseholderQR, HouseholderLQ, GolubSVD]"

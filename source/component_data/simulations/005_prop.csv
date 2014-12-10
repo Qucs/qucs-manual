@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+f; "1 GHz"; no; "frequency in Hertz"
+n; "4"; yes; "number of harmonics"
+iabstol; "1 pA"; no; "absolute tolerance for currents"
+vabstol; "1 uV"; no; "absolute tolerance for voltages"
+reltol; "0.001"; no; "relative tolerance for convergence"
+MaxIter; "150"; no; "maximum number of iterations until error"

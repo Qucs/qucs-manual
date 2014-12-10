@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; File Based Voltage Source
+Description; file based voltage source
+Schematic entry; ``Vfile``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; vfile
+Properties; 5
+Category; sources

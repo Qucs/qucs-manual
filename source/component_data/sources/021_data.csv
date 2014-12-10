@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Exponential Current Pulse
+Description; exponential current source
+Schematic entry; ``Iexp``
+Netlist entry; ``I``
+Type; AnalogComponent
+Bitmap file; iexp
+Properties; 6
+Category; sources

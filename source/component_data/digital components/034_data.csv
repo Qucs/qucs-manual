@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; A2D Level Shifter
+Description; data voltage level shifter (analogue to digital) verilog device
+Schematic entry; ``DLS_nto1``
+Netlist entry; ``Y``
+Type; AnalogComponent
+Bitmap file; DLS_nto1
+Properties; 2
+Category; digital components

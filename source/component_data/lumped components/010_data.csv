@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; dc Feed
+Description; dc feed
+Schematic entry; ``DCFeed``
+Netlist entry; ``L``
+Type; AnalogComponent
+Bitmap file; dcfeed
+Properties; 1
+Category; lumped components

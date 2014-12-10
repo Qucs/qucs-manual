@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Type; "Y"; no; "type of parameters [Y, Z, S, H, G, A, T]"
+duringDC; "open"; no; "representation during DC analysis [open, short, unspecified, zerofrequency]"
+P11; "0"; no; "parameter equation 11"
+P12; "0"; no; "parameter equation 12"
+P21; "0"; no; "parameter equation 21"
+P22; "0"; no; "parameter equation 22"

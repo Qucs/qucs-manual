@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; p-MOSFET
+Description; MOS field-effect transistor
+Schematic entry; ``_MOSFET``
+Netlist entry; ``T``
+Type; AnalogComponent
+Bitmap file; pmosfet
+Properties; 44
+Category; nonlinear components

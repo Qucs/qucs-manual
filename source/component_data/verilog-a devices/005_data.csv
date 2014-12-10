@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Logarithmic Amplifier
+Description; Logarithmic Amplifier verilog device
+Schematic entry; ``log_amp``
+Netlist entry; ``LA``
+Type; AnalogComponent
+Bitmap file; log_amp
+Properties; 17
+Category; verilog-a devices

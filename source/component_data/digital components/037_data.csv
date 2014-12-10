@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 4Bit Grey2Bin
+Description; 4bit grey to binary converter verilog device
+Schematic entry; ``greytobinary4bit``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; greytobinary4bit
+Properties; 2
+Category; digital components

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Phototransistor
+Description; Phototransistor verilog device
+Schematic entry; ``phototransistor``
+Netlist entry; ``PT``
+Type; AnalogComponent
+Bitmap file; phototransistor
+Properties; 30
+Category; verilog-a devices

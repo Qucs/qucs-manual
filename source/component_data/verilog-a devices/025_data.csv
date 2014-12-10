@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Photodiode
+Description; Photodiode verilog device
+Schematic entry; ``photodiode``
+Netlist entry; ``PD``
+Type; AnalogComponent
+Bitmap file; photodiode
+Properties; 23
+Category; verilog-a devices

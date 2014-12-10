@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Ground
+Description; ground (reference potential)
+Schematic entry; ``GND``
+Netlist entry; ````
+Type; Component
+Bitmap file; gnd
+Properties; 0
+Category; lumped components

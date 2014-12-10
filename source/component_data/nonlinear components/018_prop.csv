@@ -1,0 +1,10 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Vbo; "400 V"; no; "breakover voltage"
+Igt; "50 uA"; yes; "gate trigger current"
+Cj0; "10 pF"; no; "parasitic capacitance"
+Is; "1e-10 A"; no; "saturation current"
+N; "2"; no; "emission coefficient"
+Ri; "10 Ohm"; no; "intrinsic junction resistance"
+Rg; "5 Ohm"; no; "gate resistance"
+Temp; "26.85"; no; "simulation temperature"

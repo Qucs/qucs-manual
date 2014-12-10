@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Subst; "Subst1"; yes; "substrate"
+D; "1 mm"; yes; "diameter of round via conductor"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

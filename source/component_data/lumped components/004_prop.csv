@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+L; "1 nH"; yes; "inductance in Henry"
+I; ""; no; "initial current for transient simulation"

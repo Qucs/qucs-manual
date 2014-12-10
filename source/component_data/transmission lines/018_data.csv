@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Gap
+Description; microstrip gap
+Schematic entry; ``MGAP``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; msgap
+Properties; 6
+Category; transmission lines

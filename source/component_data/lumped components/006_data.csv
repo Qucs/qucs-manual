@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Subcircuit Port
+Description; port of a subcircuit
+Schematic entry; ``Port``
+Netlist entry; ``P``
+Type; Component
+Bitmap file; subport
+Properties; 2
+Category; lumped components

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; D2A Level Shifter
+Description; data voltage level shifter (digital to analogue) verilog device
+Schematic entry; ``DLS_1ton``
+Netlist entry; ``Y``
+Type; AnalogComponent
+Bitmap file; DLS_1ton
+Properties; 2
+Category; digital components

@@ -1,0 +1,7 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+File; "ifile.dat"; yes; "name of the sample file"
+Interpolator; "linear"; no; "interpolation type [hold, linear, cubic]"
+Repeat; "no"; no; "repeat waveform [no, yes]"
+G; "1"; no; "current gain"
+T; "0"; no; "delay time"

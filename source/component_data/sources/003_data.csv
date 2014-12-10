@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; ac Voltage Source
+Description; ideal ac voltage source
+Schematic entry; ``Vac``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; ac_voltage
+Properties; 4
+Category; sources

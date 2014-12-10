@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Hybrid
+Description; hybrid (unsymmetrical 3dB coupler)
+Schematic entry; ``Hybrid``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; hybrid
+Properties; 2
+Category; lumped components

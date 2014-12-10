@@ -1,0 +1,10 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Ze; "50 Ohm"; yes; "characteristic impedance of even mode"
+Zo; "50 Ohm"; yes; "characteristic impedance of odd mode"
+L; "1 mm"; yes; "electrical length of the line"
+Ere; "1"; no; "relative dielectric constant of even mode"
+Ero; "1"; no; "relative dielectric constant of odd mode"
+Ae; "0 dB"; no; "attenuation factor per length of even mode"
+Ao; "0 dB"; no; "attenuation factor per length of odd mode"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

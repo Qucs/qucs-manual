@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; OpAmp
+Description; operational amplifier
+Schematic entry; ``OpAmp``
+Netlist entry; ``OP``
+Type; AnalogComponent
+Bitmap file; opamp
+Properties; 2
+Category; nonlinear components

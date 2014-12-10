@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Tee
+Description; microstrip tee
+Schematic entry; ``MTEE``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; mstee
+Properties; 8
+Category; transmission lines

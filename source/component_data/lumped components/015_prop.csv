@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Z1; "50 Ohm"; no; "reference impedance of port 1"
+Z2; "50 Ohm"; no; "reference impedance of port 2"
+Z3; "50 Ohm"; no; "reference impedance of port 3"

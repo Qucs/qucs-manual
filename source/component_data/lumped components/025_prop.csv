@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+init; "off"; no; "initial state [on, off]"
+time; "1 ms"; no; "time when state changes (semicolon separated list possible, even numbered lists are repeated)"
+Ron; "0"; no; "resistance of ""on"" state in ohms"
+Roff; "1e12"; no; "resistance of ""off"" state in ohms"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"
+MaxDuration; "1e-6"; no; "Max possible switch transition time (transition time 1/100 smallest value in 'time', or this number)"

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; ac simulation
+Description; ac simulation
+Schematic entry; ``.AC``
+Netlist entry; ``AC``
+Type; AnalogComponent
+Bitmap file; ac
+Properties; 5
+Category; simulations

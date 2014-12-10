@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; JK-FlipFlop
+Description; JK flip flop with asynchron set and reset
+Schematic entry; ``JKFF``
+Netlist entry; ``Y``
+Type; DigitalComponent
+Bitmap file; jkflipflop
+Properties; 1
+Category; digital components

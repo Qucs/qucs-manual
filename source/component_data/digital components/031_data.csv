@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 2Bit Pattern
+Description; 2bit pattern generator verilog device
+Schematic entry; ``pad2bit``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; pad2bit
+Properties; 1
+Category; digital components

@@ -1,0 +1,6 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+I; "1 mA"; yes; "peak current in Ampere"
+f; "1 GHz"; no; "frequency in Hertz"
+Phase; "0"; no; "initial phase in degrees"
+Theta; "0"; no; "damping factor (transient simulation only)"

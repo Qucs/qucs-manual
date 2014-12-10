@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; SPICE netlist
+Description; SPICE netlist file
+Schematic entry; ``SPICE``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; spicefile
+Properties; 4
+Category; file components

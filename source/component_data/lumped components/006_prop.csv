@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Num; "1"; yes; "number of the port within the subcircuit"
+Type; "analog"; no; "type of the port (for digital simulation only) [analog, in, out, inout]"

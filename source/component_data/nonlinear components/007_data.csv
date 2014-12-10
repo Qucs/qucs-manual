@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; p-JFET
+Description; junction field-effect transistor
+Schematic entry; ``JFET``
+Netlist entry; ``T``
+Type; AnalogComponent
+Bitmap file; pfet
+Properties; 24
+Category; nonlinear components

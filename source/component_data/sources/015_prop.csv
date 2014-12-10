@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+I; "1 mA"; yes; "current at high pulse"
+TH; "1 ms"; yes; "duration of high pulses"
+TL; "1 ms"; yes; "duration of low pulses"
+Tr; "1 ns"; no; "rise time of the leading edge"
+Tf; "1 ns"; no; "fall time of the trailing edge"
+Td; "0 ns"; no; "initial delay time"

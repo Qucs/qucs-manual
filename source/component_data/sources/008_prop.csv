@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+G; "1 S"; yes; "forward transconductance"
+T; "0"; no; "delay time"

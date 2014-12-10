@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Microstrip Open
+Description; microstrip open
+Schematic entry; ``MOPEN``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; msopen
+Properties; 5
+Category; transmission lines

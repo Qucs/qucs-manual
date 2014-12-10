@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Correlated Noise Sources
+Description; correlated current sources
+Schematic entry; ``VVnoise``
+Netlist entry; ``SRC``
+Type; AnalogComponent
+Bitmap file; noise_vv
+Properties; 6
+Category; sources

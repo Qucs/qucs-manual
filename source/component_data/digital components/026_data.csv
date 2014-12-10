@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; JK-FlipFlop w/ SR
+Description; jk flip flop with set and reset verilog device
+Schematic entry; ``jkff_SR``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; jkff_SR
+Properties; 3
+Category; digital components

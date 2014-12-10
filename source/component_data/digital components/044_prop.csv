@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Type; "TruthTable"; yes; "type of simulation [TruthTable, TimeList]"
+time; "10 ns"; no; "duration of TimeList simulation"
+Model; "VHDL"; no; "netlist format [VHDL, Verilog]"

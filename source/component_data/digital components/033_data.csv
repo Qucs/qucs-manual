@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 4Bit Pattern
+Description; 4bit pattern generator verilog device
+Schematic entry; ``pad4bit``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; pad4bit
+Properties; 1
+Category; digital components

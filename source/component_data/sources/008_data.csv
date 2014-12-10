@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Voltage Controlled Current Source
+Description; voltage controlled current source
+Schematic entry; ``VCCS``
+Netlist entry; ``SRC``
+Type; AnalogComponent
+Bitmap file; vccs
+Properties; 2
+Category; sources

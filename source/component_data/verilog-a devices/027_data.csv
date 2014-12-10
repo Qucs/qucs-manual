@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; NIGBT
+Description; NIGBT verilog device
+Schematic entry; ``nigbt``
+Netlist entry; ``T``
+Type; AnalogComponent
+Bitmap file; nigbt
+Properties; 19
+Category; verilog-a devices

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; dc Block
+Description; dc block
+Schematic entry; ``DCBlock``
+Netlist entry; ``C``
+Type; AnalogComponent
+Bitmap file; dcblock
+Properties; 1
+Category; lumped components

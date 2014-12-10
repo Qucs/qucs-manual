@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Diode
+Description; diode
+Schematic entry; ``Diode``
+Netlist entry; ``D``
+Type; AnalogComponent
+Bitmap file; diode
+Properties; 29
+Category; nonlinear components

@@ -1,0 +1,7 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Num; "1"; yes; "number of the port"
+Z; "50 Ohm"; yes; "port impedance"
+P; "0 dBm"; no; "(available) ac power in Watts"
+f; "1 GHz"; no; "frequency in Hertz"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

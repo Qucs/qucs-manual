@@ -1,0 +1,7 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Vt; "0.5 V"; no; "threshold voltage in Volts"
+Vh; "0.1 V"; no; "hysteresis voltage in Volts"
+Ron; "0"; no; "resistance of ""on"" state in Ohms"
+Roff; "1e12"; no; "resistance of ""off"" state in Ohms"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"

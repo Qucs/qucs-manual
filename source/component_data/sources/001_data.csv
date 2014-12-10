@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; dc Voltage Source
+Description; ideal dc voltage source
+Schematic entry; ``Vdc``
+Netlist entry; ``V``
+Type; AnalogComponent
+Bitmap file; dc_voltage
+Properties; 1
+Category; sources

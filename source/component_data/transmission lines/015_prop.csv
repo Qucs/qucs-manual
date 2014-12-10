@@ -1,0 +1,10 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Subst; "Subst1"; yes; "substrate"
+W1; "1 mm"; yes; "width of line 1"
+W2; "1 mm"; yes; "width of line 2"
+W3; "2 mm"; yes; "width of line 3"
+MSModel; "Hammerstad"; no; "quasi-static microstrip model [Hammerstad, Wheeler, Schneider]"
+MSDispModel; "Kirschning"; no; "microstrip dispersion model [Kirschning, Kobayashi, Yamashita, Hammerstad, Getsinger, Schneider, Pramanick]"
+Temp; "26.85"; no; "temperature in degree Celsius"
+Symbol; "showNumbers"; no; "show port numbers in symbol or not [showNumbers, noNumbers]"

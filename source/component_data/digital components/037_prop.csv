@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+TR; "6"; no; "transfer function scaling factor"
+Delay; "1 ns"; no; "output delay (s)"

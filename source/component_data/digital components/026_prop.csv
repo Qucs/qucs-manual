@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+TR_H; "6"; no; "cross coupled gate transfer function high scaling factor"
+TR_L; "5"; no; "cross coupled gate transfer function low scaling factor"
+Delay; "1 ns"; no; "cross coupled gate delay (s)"

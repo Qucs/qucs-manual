@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 2-port S parameter file
+Description; S parameter file
+Schematic entry; ``SPfile``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; spfile2
+Properties; 5
+Category; file components

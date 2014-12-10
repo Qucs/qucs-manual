@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Coupled Microstrip Line
+Description; coupled microstrip line
+Schematic entry; ``MCOUPLED``
+Netlist entry; ``MS``
+Type; AnalogComponent
+Bitmap file; mscoupled
+Properties; 7
+Category; transmission lines

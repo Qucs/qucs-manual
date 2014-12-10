@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Capacitor
+Description; capacitor
+Schematic entry; ``C``
+Netlist entry; ``C``
+Type; AnalogComponent
+Bitmap file; capacitor
+Properties; 3
+Category; lumped components

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; FBH HBT
+Description; HBT model by Ferdinand-Braun-Institut (FBH), Berlin
+Schematic entry; ``HBT_X``
+Netlist entry; ``T``
+Type; AnalogComponent
+Bitmap file; npn_therm
+Properties; 80
+Category; verilog-a devices

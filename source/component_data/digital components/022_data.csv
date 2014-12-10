@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; RS-FlipFlop
+Description; RS flip flop
+Schematic entry; ``RSFF``
+Netlist entry; ``Y``
+Type; DigitalComponent
+Bitmap file; rsflipflop
+Properties; 1
+Category; digital components

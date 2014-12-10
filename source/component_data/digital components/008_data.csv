@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; n-port XNOR
+Description; logical XNOR
+Schematic entry; ``XNOR``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; xnor
+Properties; 5
+Category; digital components

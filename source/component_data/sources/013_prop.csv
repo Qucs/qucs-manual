@@ -1,0 +1,8 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+I1; "0"; yes; "current before and after the pulse"
+I2; "1 A"; yes; "current of the pulse"
+T1; "0"; yes; "start time of the pulse"
+T2; "1 ms"; yes; "ending time of the pulse"
+Tr; "1 ns"; no; "rise time of the leading edge"
+Tf; "1 ns"; no; "fall time of the trailing edge"

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Harmonic balance
+Description; Harmonic balance simulation
+Schematic entry; ``.HB``
+Netlist entry; ``HB``
+Type; AnalogComponent
+Bitmap file; hb
+Properties; 6
+Category; simulations

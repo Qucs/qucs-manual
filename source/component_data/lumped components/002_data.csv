@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Resistor US
+Description; resistor
+Schematic entry; ``R``
+Netlist entry; ``R``
+Type; AnalogComponent
+Bitmap file; resistor_us
+Properties; 6
+Category; lumped components

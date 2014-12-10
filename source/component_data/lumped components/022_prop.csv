@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+L1; "1 mH"; no; "inductance of coil 1"
+L2; "1 mH"; no; "inductance of coil 2"
+k; "0.9"; no; "coupling factor between coil 1 and 2"

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Switch
+Description; switch (time controlled)
+Schematic entry; ``Switch``
+Netlist entry; ``S``
+Type; AnalogComponent
+Bitmap file; switch
+Properties; 6
+Category; lumped components

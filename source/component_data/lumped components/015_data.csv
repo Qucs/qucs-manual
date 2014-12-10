@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Circulator
+Description; circulator
+Schematic entry; ``Circulator``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; circulator
+Properties; 3
+Category; lumped components

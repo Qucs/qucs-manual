@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; 2to1 Mux
+Description; 2to1 multiplexer verilog device
+Schematic entry; ``mux2to1``
+Netlist entry; ``Y``
+Type; Component
+Bitmap file; mux2to1
+Properties; 2
+Category; digital components

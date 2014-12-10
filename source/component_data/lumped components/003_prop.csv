@@ -1,0 +1,5 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+C; "1 pF"; yes; "capacitance in Farad"
+V; ""; no; "initial voltage for transient simulation"
+Symbol; "neutral"; no; "schematic symbol [neutral, polar]"

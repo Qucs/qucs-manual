@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Isolator
+Description; isolator
+Schematic entry; ``Isolator``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; isolator
+Properties; 3
+Category; lumped components

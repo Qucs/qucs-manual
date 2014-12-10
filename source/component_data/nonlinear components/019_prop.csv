@@ -1,0 +1,18 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+Ip; "4 mA"; yes; "peak current"
+Iv; "0.6 mA"; yes; "valley current"
+Vv; "0.8 V"; yes; "valley voltage"
+Wr; "2.7e-20"; no; "resonance energy in Ws"
+eta; "1e-20"; no; "Fermi energy in Ws"
+dW; "4.5e-21"; no; "resonance width in Ws"
+Tmax; "0.95"; no; "maximum of transmission"
+de; "0.9"; no; "fitting factor for electron density"
+dv; "2.0"; no; "fitting factor for voltage drop"
+nv; "16"; no; "fitting factor for diode current"
+Cj0; "80 fF"; no; "zero-bias depletion capacitance"
+M; "0.5"; no; "grading coefficient"
+Vj; "0.5 V"; no; "junction potential"
+te; "0.6 ps"; no; "life-time of electrons"
+Temp; "26.85"; no; "simulation temperature in degree Celsius"
+Area; "1.0"; no; "default area for diode"

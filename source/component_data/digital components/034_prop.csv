@@ -1,0 +1,4 @@
+# Note: auto-generated file (changes will be lost on update)
+# Name; Value; Display; Description
+LEVEL; "5 V"; no; "voltage level (V)"
+Delay; "1 ns"; no; "time delay (s)"

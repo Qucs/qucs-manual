@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Current Pulse
+Description; ideal current pulse source
+Schematic entry; ``Ipulse``
+Netlist entry; ``I``
+Type; AnalogComponent
+Bitmap file; ipulse
+Properties; 6
+Category; sources

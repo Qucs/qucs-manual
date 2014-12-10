@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; Bias T
+Description; bias t
+Schematic entry; ``BiasT``
+Netlist entry; ``X``
+Type; AnalogComponent
+Bitmap file; biast
+Properties; 2
+Category; lumped components

@@ -1,0 +1,9 @@
+# Note: auto-generated file (changes will be lost on update)
+Caption; digital simulation
+Description; digital simulation
+Schematic entry; ``.Digi``
+Netlist entry; ``Digi``
+Type; DigitalComponent
+Bitmap file; digi
+Properties; 3
+Category; digital components
