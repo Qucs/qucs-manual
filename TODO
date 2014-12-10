@@ -1,0 +1,10 @@
+TODO
+
+
+- Add the 'Schematic File Format' from the help as a section
+- Add multiple authors
+- How translation works with Sphinx?
+- Can we recreate the component table based on the above (http://qucs.sourceforge.net/components.html)
+- What does the component type means? Analog, Digital...
+- Fix the (Qucs) icon generation code, it is pixelated and clipping the edges.
+- Create (Qucs) issues to improve the component descriptio (of lack of) and rename variables to be more intuitive
