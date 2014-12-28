@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Description"
-msgstr ""
+msgstr "תאור"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Resistor <001Lum>`"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "resistor"
-msgstr ""
+msgstr "נגד"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Resistor US <002Lum>`"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "capacitor"
-msgstr ""
+msgstr "קבל"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Inductor <004Lum>`"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "inductor"
-msgstr ""
+msgstr "סליל"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Ground <005Lum>`"
@@ -94,7 +94,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ground (reference potential)"
-msgstr ""
+msgstr "אדמה (פוטנציאל יחוס)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Subcircuit Port <006Lum>`"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "port of a subcircuit"
-msgstr ""
+msgstr "פורט של תת-מעגל"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Transformer <007Lum>`"
@@ -124,7 +124,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal transformer"
-msgstr ""
+msgstr "שנאי אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`symmetric Transformer <008Lum>`"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal symmetrical transformer"
-msgstr ""
+msgstr "שנאי סימטרי אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Block <009Lum>`"
@@ -148,7 +148,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc block"
-msgstr ""
+msgstr "בלוק זרם ישר"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Feed <010Lum>`"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc feed"
-msgstr ""
+msgstr "הזנת זרם ישר"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Bias T <011Lum>`"
@@ -183,7 +183,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "bias t"
-msgstr ""
+msgstr "מתח שיחוד BIAS   t"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Attenuator <012Lum>`"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "attenuator"
-msgstr ""
+msgstr "מנחת"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Amplifier <013Lum>`"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal amplifier"
-msgstr ""
+msgstr "מגבר אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Isolator <014Lum>`"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "isolator"
-msgstr ""
+msgstr "מבודד"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Circulator <015Lum>`"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "circulator"
-msgstr ""
+msgstr "מחוגג (CIRCULATOR)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Gyrator <016Lum>`"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "gyrator (impedance inverter)"
-msgstr ""
+msgstr "גירטור (מסובב) (הופך עכבה)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Phase Shifter <017Lum>`"
@@ -255,7 +255,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "phase shifter"
-msgstr ""
+msgstr "משנה מופע"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coupler <018Lum>`"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "current probe"
-msgstr ""
+msgstr "בחן זרם"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Probe <021Lum>`"
@@ -422,7 +422,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal dc voltage source"
-msgstr ""
+msgstr "מקור מתח אידאלי DC"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Current Source <002Sou>`"
@@ -441,7 +441,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal dc current source"
-msgstr ""
+msgstr "מקור זרם-חילופין אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac Voltage Source <003Sou>`"
@@ -453,7 +453,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal ac voltage source"
-msgstr ""
+msgstr "מקור מתח אידאלי AC"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac Current Source <004Sou>`"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal ac current source"
-msgstr ""
+msgstr "מקור זרם-חילופין אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Power Source <005Sou>`"
@@ -477,7 +477,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ac power source"
-msgstr ""
+msgstr "מקור הספק AC"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Noise Voltage Source <006Sou>`"
@@ -489,7 +489,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "noise voltage source"
-msgstr ""
+msgstr "מקור מתח רעש"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Noise Current Source <007Sou>`"
@@ -501,7 +501,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "noise current source"
-msgstr ""
+msgstr "מקור זרם רעש"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Controlled Current Source <008Sou>`"
@@ -520,7 +520,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "voltage controlled current source"
-msgstr ""
+msgstr "מקור זרם נשלט מתח"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Controlled Current Source <009Sou>`"
@@ -532,7 +532,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "current controlled current source"
-msgstr ""
+msgstr "זרם מקור נשלט זרם"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Controlled Voltage Source <010Sou>`"
@@ -544,7 +544,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "voltage controlled voltage source"
-msgstr ""
+msgstr "מתח מקור נשלט מתח"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Controlled Voltage Source <011Sou>`"
@@ -556,7 +556,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "current controlled voltage source"
-msgstr ""
+msgstr "מתח מקור נשלט זרם"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Pulse <012Sou>`"
@@ -568,7 +568,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal voltage pulse source"
-msgstr ""
+msgstr "מקור פולס מתח אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Pulse <013Sou>`"
@@ -580,7 +580,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal current pulse source"
-msgstr ""
+msgstr "מקור פולס זרם אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangle Voltage <014Sou>`"
@@ -592,7 +592,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal rectangle voltage source"
-msgstr ""
+msgstr "מקור מתח ריבועי אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangle Current <015Sou>`"
@@ -604,7 +604,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal rectangle current source"
-msgstr ""
+msgstr "מקור זרם ריבועי אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Correlated Noise Sources <016Sou>`"
@@ -732,7 +732,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal transmission line"
-msgstr ""
+msgstr "קו תמסורת אידאלי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4-Terminal Transmission Line <002Tra>`"
@@ -820,7 +820,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "substrate definition"
-msgstr ""
+msgstr "הגדרת מצע"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Line <009Tra>`"
@@ -841,7 +841,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip line"
-msgstr ""
+msgstr "קו microstrip"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coupled Microstrip Line <010Tra>`"
@@ -853,7 +853,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coupled microstrip line"
-msgstr ""
+msgstr "קו מוצמד Microstrip "
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Lange Coupler <011Tra>`"
@@ -877,7 +877,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip corner"
-msgstr ""
+msgstr "microstrip פינת"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Mitered Bend <013Tra>`"
@@ -889,7 +889,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip mitered bend"
-msgstr ""
+msgstr "כיפוף ריבועי microstrip"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Step <014Tra>`"
@@ -901,7 +901,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip impedance step"
-msgstr ""
+msgstr "צעד עכבת microstrip"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Tee <015Tra>`"
@@ -913,7 +913,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip tee"
-msgstr ""
+msgstr "Microstrip Tee"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Cross <016Tra>`"
@@ -925,7 +925,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip cross"
-msgstr ""
+msgstr "הצטלבות Microstrip "
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Open <017Tra>`"
@@ -937,7 +937,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip open"
-msgstr ""
+msgstr "microstrip פתוח"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Gap <018Tra>`"
@@ -949,7 +949,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip gap"
-msgstr ""
+msgstr "רווח microstrip"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Via <019Tra>`"
@@ -961,7 +961,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip via"
-msgstr ""
+msgstr "microstrip via"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Radial Stub <020Tra>`"
@@ -991,7 +991,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar line"
-msgstr ""
+msgstr "קו דו מישורי (COPLANAR)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Open <022Tra>`"
@@ -1069,7 +1069,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "diode"
-msgstr ""
+msgstr "דיודה"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`npn transistor <002Non>`"
@@ -1098,7 +1098,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "bipolar junction transistor"
-msgstr ""
+msgstr "טרנזיסטור ביפולרי"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`pnp transistor <003Non>`"
@@ -1130,7 +1130,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "junction field-effect transistor"
-msgstr ""
+msgstr "טרנזיסטור JFET"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`p-JFET <007Non>`"
@@ -1148,7 +1148,7 @@ msgstr ""
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 #: ../../source/quick_reference.rst:1
 msgid "MOS field-effect transistor"
-msgstr ""
+msgstr "טרנזיסטור תופעת שדה MOS - MOSFET"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`p-MOSFET <009Non>`"
@@ -1194,7 +1194,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "operational amplifier"
-msgstr ""
+msgstr "קדם מגבר (OPAMP)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined Device <015Non>`"
@@ -2144,7 +2144,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "SPICE netlist file"
-msgstr ""
+msgstr "קובץ SPICE NETLIST"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`1-port S parameter file <002Fil>`"
@@ -2158,7 +2158,7 @@ msgstr ""
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 #: ../../source/quick_reference.rst:1
 msgid "S parameter file"
-msgstr ""
+msgstr "קובץ פקמטר S"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`2-port S parameter file <003Fil>`"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "subcircuit"
-msgstr ""
+msgstr "תת-מעגל"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc simulation <001Sim>`"
@@ -2198,7 +2198,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc simulation"
-msgstr ""
+msgstr "סימולצית זרם ישר"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Transient simulation <002Sim>`"
@@ -2214,7 +2214,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "transient simulation"
-msgstr ""
+msgstr "סימולצי ארעית"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac simulation <003Sim>`"
@@ -2230,7 +2230,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ac simulation"
-msgstr ""
+msgstr "סימולצית זרם-חילופין"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`S-parameter simulation <004Sim>`"
@@ -2246,7 +2246,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "S parameter simulation"
-msgstr ""
+msgstr "סימולצית פרמטר S"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Harmonic balance <005Sim>`"
@@ -2262,7 +2262,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Harmonic balance simulation"
-msgstr ""
+msgstr "סימולצית איזון הרמוני"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Parameter sweep <006Sim>`"
@@ -2278,7 +2278,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Parameter sweep"
-msgstr ""
+msgstr "סריקת פרמטר"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`digital simulation <007Sim>`"

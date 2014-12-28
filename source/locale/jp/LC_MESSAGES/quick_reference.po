@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Resistor <001Lum>`"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "resistor"
-msgstr ""
+msgstr "抵抗"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Resistor US <002Lum>`"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "capacitor"
-msgstr ""
+msgstr "コンデンサ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Inductor <004Lum>`"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "inductor"
-msgstr ""
+msgstr "インダクタ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Ground <005Lum>`"
@@ -94,7 +94,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ground (reference potential)"
-msgstr ""
+msgstr "グラウンド(リファレンス電位)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Subcircuit Port <006Lum>`"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "port of a subcircuit"
-msgstr ""
+msgstr "サブサーキットのポート"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Transformer <007Lum>`"
@@ -124,7 +124,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal transformer"
-msgstr ""
+msgstr "理想トランス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`symmetric Transformer <008Lum>`"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal symmetrical transformer"
-msgstr ""
+msgstr "理想対称トランス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Block <009Lum>`"
@@ -148,7 +148,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc block"
-msgstr ""
+msgstr "DCブロック"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Feed <010Lum>`"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc feed"
-msgstr ""
+msgstr "電圧付加"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Bias T <011Lum>`"
@@ -183,7 +183,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "bias t"
-msgstr ""
+msgstr "バイアスティー"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Attenuator <012Lum>`"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "attenuator"
-msgstr ""
+msgstr "アッテネータ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Amplifier <013Lum>`"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal amplifier"
-msgstr ""
+msgstr "理想アンプ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Isolator <014Lum>`"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "isolator"
-msgstr ""
+msgstr "アイソレータ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Circulator <015Lum>`"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "circulator"
-msgstr ""
+msgstr "サーキュレータ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Gyrator <016Lum>`"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "gyrator (impedance inverter)"
-msgstr ""
+msgstr "ジャイレータ(インピーダンス変換)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Phase Shifter <017Lum>`"
@@ -255,7 +255,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "phase shifter"
-msgstr ""
+msgstr "フェーズシフタ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coupler <018Lum>`"
@@ -267,7 +267,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal coupler"
-msgstr ""
+msgstr "理想カップラ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Hybrid <019Lum>`"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "current probe"
-msgstr ""
+msgstr "電流計"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Probe <021Lum>`"
@@ -308,7 +308,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "voltage probe"
-msgstr ""
+msgstr "電圧プローブ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Mutual Inductors <022Lum>`"
@@ -362,7 +362,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "switch (time controlled)"
-msgstr ""
+msgstr "スイッチ（時間制御）"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Relay <026Lum>`"
@@ -374,7 +374,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "relay"
-msgstr ""
+msgstr "リレー"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined RF Device <027Lum>`"
@@ -390,7 +390,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "equation defined RF device"
-msgstr ""
+msgstr "方程式の定義されたRFデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined 2-port RF Device <028Lum>`"
@@ -402,7 +402,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "equation defined 2-port RF device"
-msgstr ""
+msgstr "方程式の定義された2ポートRFデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Voltage Source <001Sou>`"
@@ -422,7 +422,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal dc voltage source"
-msgstr ""
+msgstr "理想DC電圧源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Current Source <002Sou>`"
@@ -441,7 +441,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal dc current source"
-msgstr ""
+msgstr "理想DC電流源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac Voltage Source <003Sou>`"
@@ -453,7 +453,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal ac voltage source"
-msgstr ""
+msgstr "理想AC電圧源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac Current Source <004Sou>`"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal ac current source"
-msgstr ""
+msgstr "理想AC電流源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Power Source <005Sou>`"
@@ -477,7 +477,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ac power source"
-msgstr ""
+msgstr "交流電力源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Noise Voltage Source <006Sou>`"
@@ -489,7 +489,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "noise voltage source"
-msgstr ""
+msgstr "ノイズ電圧源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Noise Current Source <007Sou>`"
@@ -501,7 +501,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "noise current source"
-msgstr ""
+msgstr "ノイズ電流源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Controlled Current Source <008Sou>`"
@@ -520,7 +520,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "voltage controlled current source"
-msgstr ""
+msgstr "電圧制御電流源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Controlled Current Source <009Sou>`"
@@ -532,7 +532,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "current controlled current source"
-msgstr ""
+msgstr "電流制御電流源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Controlled Voltage Source <010Sou>`"
@@ -544,7 +544,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "voltage controlled voltage source"
-msgstr ""
+msgstr "電圧制御電圧源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Controlled Voltage Source <011Sou>`"
@@ -556,7 +556,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "current controlled voltage source"
-msgstr ""
+msgstr "電流制御電圧源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Pulse <012Sou>`"
@@ -568,7 +568,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal voltage pulse source"
-msgstr ""
+msgstr "理想電圧パルス源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Pulse <013Sou>`"
@@ -580,7 +580,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal current pulse source"
-msgstr ""
+msgstr "理想電流パルス源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangle Voltage <014Sou>`"
@@ -592,7 +592,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal rectangle voltage source"
-msgstr ""
+msgstr "矩形電圧源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangle Current <015Sou>`"
@@ -604,7 +604,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal rectangle current source"
-msgstr ""
+msgstr "理想矩形電流源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Correlated Noise Sources <016Sou>`"
@@ -617,7 +617,7 @@ msgstr ""
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 #: ../../source/quick_reference.rst:1
 msgid "correlated current sources"
-msgstr ""
+msgstr "相互電流源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Correlated Noise Sources <017Sou>`"
@@ -693,7 +693,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "file based voltage source"
-msgstr ""
+msgstr "ファイルによる電圧源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`File Based Current Source <024Sou>`"
@@ -705,7 +705,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "file based current source"
-msgstr ""
+msgstr "ファイルによる電流源"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Probe <001Pro>`"
@@ -732,7 +732,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal transmission line"
-msgstr ""
+msgstr "理想トランスミッションライン"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4-Terminal Transmission Line <002Tra>`"
@@ -768,7 +768,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "twisted pair transmission line"
-msgstr ""
+msgstr "ツイストペア伝送線路"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coaxial Line <005Tra>`"
@@ -780,7 +780,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coaxial transmission line"
-msgstr ""
+msgstr "同軸伝送線路"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangular Waveguide <006Tra>`"
@@ -792,7 +792,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Rectangular Waveguide"
-msgstr ""
+msgstr "角ウェーブガイド"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`RLCG Transmission Line <007Tra>`"
@@ -804,7 +804,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "RLCG transmission line"
-msgstr ""
+msgstr "RLCGトランスミッションライン"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Substrate <008Tra>`"
@@ -820,7 +820,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "substrate definition"
-msgstr ""
+msgstr "基板定義"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Line <009Tra>`"
@@ -841,7 +841,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip line"
-msgstr ""
+msgstr "マイクロストリップライン"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coupled Microstrip Line <010Tra>`"
@@ -853,7 +853,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coupled microstrip line"
-msgstr ""
+msgstr "カップルドマイクロストリップライン"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Lange Coupler <011Tra>`"
@@ -877,7 +877,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip corner"
-msgstr ""
+msgstr "マイクロストリップコーナー"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Mitered Bend <013Tra>`"
@@ -889,7 +889,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip mitered bend"
-msgstr ""
+msgstr "マイクロストリップマイターベンド"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Step <014Tra>`"
@@ -901,7 +901,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip impedance step"
-msgstr ""
+msgstr "マイクロストリップインピーダンスステップ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Tee <015Tra>`"
@@ -913,7 +913,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip tee"
-msgstr ""
+msgstr "マイクロストリップティージャンクション"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Cross <016Tra>`"
@@ -925,7 +925,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip cross"
-msgstr ""
+msgstr "マイクロストリップクロス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Open <017Tra>`"
@@ -937,7 +937,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip open"
-msgstr ""
+msgstr "マイクロストリップオープン"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Gap <018Tra>`"
@@ -949,7 +949,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip gap"
-msgstr ""
+msgstr "マイクロストリップギャップ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Via <019Tra>`"
@@ -961,7 +961,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip via"
-msgstr ""
+msgstr "マイクロストリップ ビア"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Radial Stub <020Tra>`"
@@ -973,7 +973,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip radial stub"
-msgstr ""
+msgstr "マイクロストリップ ラジアルスタブ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Line <021Tra>`"
@@ -991,7 +991,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar line"
-msgstr ""
+msgstr "コプレーナライン"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Open <022Tra>`"
@@ -1003,7 +1003,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar open"
-msgstr ""
+msgstr "コプレーナオープン"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Short <023Tra>`"
@@ -1015,7 +1015,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar short"
-msgstr ""
+msgstr "コプレーナショート"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Gap <024Tra>`"
@@ -1027,7 +1027,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar gap"
-msgstr ""
+msgstr "コプレーナギャップ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Step <025Tra>`"
@@ -1039,7 +1039,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar step"
-msgstr ""
+msgstr "コプレーナステップ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Bond Wire <026Tra>`"
@@ -1051,7 +1051,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "bond wire"
-msgstr ""
+msgstr "ボンドワイア"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Diode <001Non>`"
@@ -1069,7 +1069,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "diode"
-msgstr ""
+msgstr "ダイオード"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`npn transistor <002Non>`"
@@ -1098,7 +1098,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "bipolar junction transistor"
-msgstr ""
+msgstr "バイポーラジャンクショントランジスタ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`pnp transistor <003Non>`"
@@ -1130,7 +1130,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "junction field-effect transistor"
-msgstr ""
+msgstr "ジャンクションフィールドエフェクトトランジスタ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`p-JFET <007Non>`"
@@ -1148,7 +1148,7 @@ msgstr ""
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 #: ../../source/quick_reference.rst:1
 msgid "MOS field-effect transistor"
-msgstr ""
+msgstr "MOS-FET"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`p-MOSFET <009Non>`"
@@ -1194,7 +1194,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "operational amplifier"
-msgstr ""
+msgstr "オペアンプ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined Device <015Non>`"
@@ -1218,7 +1218,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "diac (bidirectional trigger diode)"
-msgstr ""
+msgstr "ダイアック(双方向トリガダイオード)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Triac <017Non>`"
@@ -1230,7 +1230,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "triac (bidirectional thyristor)"
-msgstr ""
+msgstr "トライアック(双方向サイリスタ)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Thyristor <018Non>`"
@@ -1242,7 +1242,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "silicon controlled rectifier (SCR)"
-msgstr ""
+msgstr "サイリスタ(SCR)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Tunnel Diode <019Non>`"
@@ -1350,7 +1350,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Potentiometer verilog device"
-msgstr ""
+msgstr "ポテンショメータVerilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`MESFET <009Ver>`"
@@ -1362,7 +1362,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "MESFET verilog device"
-msgstr ""
+msgstr "MESFET verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`EPFL-EKV NMOS 2.6 <010Ver>`"
@@ -1538,7 +1538,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Photodiode verilog device"
-msgstr ""
+msgstr "フォトダイオードverilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Phototransistor <026Ver>`"
@@ -1554,7 +1554,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Phototransistor verilog device"
-msgstr ""
+msgstr "フォトトランジスタ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`NIGBT <027Ver>`"
@@ -1590,7 +1590,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "digital source"
-msgstr ""
+msgstr "デジタルソース"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Inverter <002Dig>`"
@@ -1624,7 +1624,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical inverter"
-msgstr ""
+msgstr "論理インバータ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port OR <003Dig>`"
@@ -1636,7 +1636,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical OR"
-msgstr ""
+msgstr "論理OR"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port NOR <004Dig>`"
@@ -1648,7 +1648,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical NOR"
-msgstr ""
+msgstr "論理NOR"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port AND <005Dig>`"
@@ -1660,7 +1660,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical AND"
-msgstr ""
+msgstr "論理AND"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port NAND <006Dig>`"
@@ -1672,7 +1672,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical NAND"
-msgstr ""
+msgstr "論理NAND"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port XOR <007Dig>`"
@@ -1684,7 +1684,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical XOR"
-msgstr ""
+msgstr "論理XOR"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port XNOR <008Dig>`"
@@ -1696,7 +1696,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical XNOR"
-msgstr ""
+msgstr "論理XNOR"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Buffer <009Dig>`"
@@ -1708,7 +1708,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical buffer"
-msgstr ""
+msgstr "論理バッファ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4x2 AndOr <010Dig>`"
@@ -1720,7 +1720,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "4x2 andor verilog device"
-msgstr ""
+msgstr "4x2 andor verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4x3 AndOr <011Dig>`"
@@ -1732,7 +1732,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "4x3 andor verilog device"
-msgstr ""
+msgstr "4x3 andor verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4x4 AndOr <012Dig>`"
@@ -1744,7 +1744,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "4x4 andor verilog device"
-msgstr ""
+msgstr "4x4 andor verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`2to1 Mux <013Dig>`"
@@ -1756,7 +1756,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "2to1 multiplexer verilog device"
-msgstr ""
+msgstr "2to1 マルチプレクサ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4to1 Mux <014Dig>`"
@@ -1768,7 +1768,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "4to1 multiplexer verilog device"
-msgstr ""
+msgstr "4to1 マルチプレクサ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`8to1 Mux <015Dig>`"
@@ -1780,7 +1780,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "8to1 multiplexer verilog device"
-msgstr ""
+msgstr "8to1 マルチプレクサ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`2to4 Demux <016Dig>`"
@@ -1792,7 +1792,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "2to4 demultiplexer verilog device"
-msgstr ""
+msgstr "2to4 デマルチプレクサ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`3to8 Demux <017Dig>`"
@@ -1804,7 +1804,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "3to8 demultiplexer verilog device"
-msgstr ""
+msgstr "3to8 デマルチプレクサ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4to16 Demux <018Dig>`"
@@ -1816,7 +1816,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "4to16 demultiplexer verilog device"
-msgstr ""
+msgstr "4to16 デマルチプレクサ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`1Bit HalfAdder <019Dig>`"
@@ -1828,7 +1828,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "1bit half adder verilog device"
-msgstr ""
+msgstr "1bit ハーフアダー verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`1Bit FullAdder <020Dig>`"
@@ -1840,7 +1840,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "1bit full adder verilog device"
-msgstr ""
+msgstr "1bit フルアダー verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`2Bit FullAdder <021Dig>`"
@@ -1852,7 +1852,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "2bit full adder verilog device"
-msgstr ""
+msgstr "2bit フルアダー verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`RS-FlipFlop <022Dig>`"
@@ -1864,7 +1864,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "RS flip flop"
-msgstr ""
+msgstr "RSフリップフロップ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`D-FlipFlop <023Dig>`"
@@ -1876,7 +1876,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "D flip flop with asynchron reset"
-msgstr ""
+msgstr "Dフリップフロップ（非同期リセット）"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`D-FlipFlop w/ SR <024Dig>`"
@@ -1936,7 +1936,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "gated D latch verilog device"
-msgstr ""
+msgstr "ゲーテッドDラッチ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Logic 0 <029Dig>`"
@@ -1948,7 +1948,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logic 0 verilog device"
-msgstr ""
+msgstr "ロジック0 verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Logic 1 <030Dig>`"
@@ -1960,7 +1960,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logic 1 verilog device"
-msgstr ""
+msgstr "ロジック1 verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`2Bit Pattern <031Dig>`"
@@ -1972,7 +1972,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "2bit pattern generator verilog device"
-msgstr ""
+msgstr "2bit パターンジェネレータ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`3Bit Pattern <032Dig>`"
@@ -1984,7 +1984,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "3bit pattern generator verilog device"
-msgstr ""
+msgstr "3bit パターンジェネレータ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4Bit Pattern <033Dig>`"
@@ -1996,7 +1996,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "4bit pattern generator verilog device"
-msgstr ""
+msgstr "4bit パターンジェネレータ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`A2D Level Shifter <034Dig>`"
@@ -2056,7 +2056,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "1bit comparator verilog device"
-msgstr ""
+msgstr "1bit コンパレータ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`2Bit Comparator <039Dig>`"
@@ -2068,7 +2068,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "2bit comparator verilog device"
-msgstr ""
+msgstr "2bit コンパレータ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4Bit Comparator <040Dig>`"
@@ -2080,7 +2080,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "4bit comparator verilog device"
-msgstr ""
+msgstr "4bit コンパレータ verilogデバイス"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4Bit HPRI-Bin <041Dig>`"
@@ -2104,7 +2104,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "VHDL file"
-msgstr ""
+msgstr "VHDLファイル"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Verilog file <043Dig>`"
@@ -2116,7 +2116,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Verilog file"
-msgstr ""
+msgstr "Verilogファイル"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`digital simulation <044Dig>`"
@@ -2132,7 +2132,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "digital simulation"
-msgstr ""
+msgstr "デジタルシミュレーション"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`SPICE netlist <001Fil>`"
@@ -2144,7 +2144,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "SPICE netlist file"
-msgstr ""
+msgstr "SPICEネットリストファイル"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`1-port S parameter file <002Fil>`"
@@ -2158,7 +2158,7 @@ msgstr ""
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 #: ../../source/quick_reference.rst:1
 msgid "S parameter file"
-msgstr ""
+msgstr "Sパラメータファイル"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`2-port S parameter file <003Fil>`"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "subcircuit"
-msgstr ""
+msgstr "サブサーキット"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc simulation <001Sim>`"
@@ -2198,7 +2198,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc simulation"
-msgstr ""
+msgstr "DCシミュレーション"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Transient simulation <002Sim>`"
@@ -2214,7 +2214,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "transient simulation"
-msgstr ""
+msgstr "トランジェント解析"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac simulation <003Sim>`"
@@ -2230,7 +2230,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ac simulation"
-msgstr ""
+msgstr "ACシミュレーション"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`S-parameter simulation <004Sim>`"
@@ -2246,7 +2246,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "S parameter simulation"
-msgstr ""
+msgstr "Sパラメータシミュレーション"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Harmonic balance <005Sim>`"
@@ -2262,7 +2262,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Harmonic balance simulation"
-msgstr ""
+msgstr "ハーモニックバランスシミュレーション"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Parameter sweep <006Sim>`"
@@ -2278,7 +2278,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Parameter sweep"
-msgstr ""
+msgstr "パラメータスイープ"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`digital simulation <007Sim>`"
@@ -2298,4 +2298,4 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Optimization"
-msgstr ""
+msgstr "最適化"

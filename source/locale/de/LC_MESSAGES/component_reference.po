@@ -22,7 +22,7 @@ msgstr ""
 #: ../../source/component_reference.rst:19
 #: ../../source/component_reference.rst:1
 msgid "Resistor"
-msgstr ""
+msgstr "Widerstand"
 
 #: ../../source/component_reference.rst:22
 #: ../../source/component_reference.rst:1
@@ -1147,7 +1147,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Value"
-msgstr ""
+msgstr "Wert"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -1700,13 +1700,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Description"
-msgstr ""
+msgstr "Beschreibung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "resistor"
-msgstr ""
+msgstr "Widerstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -2306,7 +2306,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -2821,7 +2821,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Properties"
-msgstr ""
+msgstr "Eigenschaften"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -3631,7 +3631,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -4090,12 +4090,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "yes"
-msgstr ""
+msgstr "ja"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ohmic resistance in Ohms"
-msgstr ""
+msgstr "Ohmscher Widerstand in Ohm"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -8186,7 +8186,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "no"
-msgstr ""
+msgstr "nein"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -8224,7 +8224,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "simulation temperature in degree Celsius"
-msgstr ""
+msgstr "Simulationstemperatur in °C"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9733,7 +9733,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "first order temperature coefficient"
-msgstr ""
+msgstr "Temperaturkoeffizient erster Ordnung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9743,7 +9743,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "second order temperature coefficient"
-msgstr ""
+msgstr "Temperaturkoeffizient zweiter Ordnung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9781,7 +9781,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "temperature at which parameters were extracted"
-msgstr ""
+msgstr "Temperatur bei der die Modellparameter extrahiert wurden"
 
 #: ../../source/component_reference.rst:1
 msgid "european"
@@ -9798,7 +9798,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Resistor US"
-msgstr ""
+msgstr "Widerstand US"
 
 #: ../../source/component_reference.rst:1
 msgid "resistor_us"
@@ -9811,12 +9811,12 @@ msgstr ""
 #: ../../source/component_reference.rst:109
 #: ../../source/component_reference.rst:1
 msgid "Capacitor"
-msgstr ""
+msgstr "Kondensator"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "capacitor"
-msgstr ""
+msgstr "Kondensator"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9863,7 +9863,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "capacitance in Farad"
-msgstr ""
+msgstr "Kapazität in Farad"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9893,12 +9893,12 @@ msgstr ""
 #: ../../source/component_reference.rst:151
 #: ../../source/component_reference.rst:1
 msgid "Inductor"
-msgstr ""
+msgstr "Spule"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "inductor"
-msgstr ""
+msgstr "Spule"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10006,7 +10006,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "inductance in Henry"
-msgstr ""
+msgstr "Induktivität in Henry"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10022,11 +10022,11 @@ msgstr ""
 #: ../../source/component_reference.rst:192
 #: ../../source/component_reference.rst:1
 msgid "Ground"
-msgstr ""
+msgstr "Masse"
 
 #: ../../source/component_reference.rst:1
 msgid "ground (reference potential)"
-msgstr ""
+msgstr "Masse (Referenzpotential)"
 
 #: ../../source/component_reference.rst:1
 msgid "``GND``"
@@ -10278,11 +10278,11 @@ msgstr ""
 #: ../../source/component_reference.rst:223
 #: ../../source/component_reference.rst:1
 msgid "Subcircuit Port"
-msgstr ""
+msgstr "Schaltkreis-Anschluss"
 
 #: ../../source/component_reference.rst:1
 msgid "port of a subcircuit"
-msgstr ""
+msgstr "Teilschaltungstor"
 
 #: ../../source/component_reference.rst:1
 msgid "``Port``"
@@ -10422,7 +10422,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "number of the port within the subcircuit"
-msgstr ""
+msgstr "Tornummer in der Teilschaltung"
 
 #: ../../source/component_reference.rst:1
 msgid "analog"
@@ -10436,11 +10436,11 @@ msgstr ""
 #: ../../source/component_reference.rst:264
 #: ../../source/component_reference.rst:1
 msgid "Transformer"
-msgstr ""
+msgstr "Transformator"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal transformer"
-msgstr ""
+msgstr "idealer Transformator"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10468,7 +10468,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage transformation ratio"
-msgstr ""
+msgstr "Spannungstransformationsverhältnis"
 
 #: ../../source/component_reference.rst:304
 msgid "Symmetric Transformer"
@@ -10476,11 +10476,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "symmetric Transformer"
-msgstr ""
+msgstr "symmetrischer Transformator"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal symmetrical transformer"
-msgstr ""
+msgstr "idealer symmetrischer Transformator"
 
 #: ../../source/component_reference.rst:1
 msgid "``sTr``"
@@ -10500,7 +10500,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage transformation ratio of coil 1"
-msgstr ""
+msgstr "Spannungstransformationsverhältnis der Spule 1"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10512,7 +10512,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage transformation ratio of coil 2"
-msgstr ""
+msgstr "Spannungstransformationsverhältnis der Spule 2"
 
 #: ../../source/component_reference.rst:345
 msgid "Dc Block"
@@ -10520,11 +10520,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dc Block"
-msgstr ""
+msgstr "DC-Sperre"
 
 #: ../../source/component_reference.rst:1
 msgid "dc block"
-msgstr ""
+msgstr "DC-Sperre"
 
 #: ../../source/component_reference.rst:1
 msgid "``DCBlock``"
@@ -10542,7 +10542,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "for transient simulation: capacitance in Farad"
-msgstr ""
+msgstr "für die Transientensimulation: Kapazität in Farad"
 
 #: ../../source/component_reference.rst:385
 msgid "Dc Feed"
@@ -10550,11 +10550,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dc Feed"
-msgstr ""
+msgstr "DC-Zuführung"
 
 #: ../../source/component_reference.rst:1
 msgid "dc feed"
-msgstr ""
+msgstr "DC-Zuführung"
 
 #: ../../source/component_reference.rst:1
 msgid "``DCFeed``"
@@ -10572,16 +10572,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "for transient simulation: inductance in Henry"
-msgstr ""
+msgstr "für die Transientensimulation: Induktivität in Henry"
 
 #: ../../source/component_reference.rst:425
 #: ../../source/component_reference.rst:1
 msgid "Bias T"
-msgstr ""
+msgstr "Bias T"
 
 #: ../../source/component_reference.rst:1
 msgid "bias t"
-msgstr ""
+msgstr "Bias T"
 
 #: ../../source/component_reference.rst:1
 msgid "``BiasT``"
@@ -10612,12 +10612,12 @@ msgstr ""
 #: ../../source/component_reference.rst:466
 #: ../../source/component_reference.rst:1
 msgid "Attenuator"
-msgstr ""
+msgstr "Dämpfungsglied"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "attenuator"
-msgstr ""
+msgstr "Dämpfungsglied"
 
 #: ../../source/component_reference.rst:1
 msgid "``Attenuator``"
@@ -10629,7 +10629,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "power attenuation"
-msgstr ""
+msgstr "Leistungsdämpfung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10644,16 +10644,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reference impedance"
-msgstr ""
+msgstr "Referenzimpedanz"
 
 #: ../../source/component_reference.rst:508
 #: ../../source/component_reference.rst:1
 msgid "Amplifier"
-msgstr ""
+msgstr "Verstärker"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal amplifier"
-msgstr ""
+msgstr "idealer Verstärker"
 
 #: ../../source/component_reference.rst:1
 msgid "``Amp``"
@@ -10725,7 +10725,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage gain"
-msgstr ""
+msgstr "Spannungsverstärkung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10736,7 +10736,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of input port"
-msgstr ""
+msgstr "Referenzimpedanz des Eingangstors"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10747,7 +10747,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of output port"
-msgstr ""
+msgstr "Referenzimpedanz des Ausgangstors"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10770,12 +10770,12 @@ msgstr ""
 #: ../../source/component_reference.rst:551
 #: ../../source/component_reference.rst:1
 msgid "Isolator"
-msgstr ""
+msgstr "Isolator"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "isolator"
-msgstr ""
+msgstr "Isolator"
 
 #: ../../source/component_reference.rst:1
 msgid "``Isolator``"
@@ -10784,12 +10784,12 @@ msgstr ""
 #: ../../source/component_reference.rst:593
 #: ../../source/component_reference.rst:1
 msgid "Circulator"
-msgstr ""
+msgstr "Zirkulator"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "circulator"
-msgstr ""
+msgstr "Zirkulator"
 
 #: ../../source/component_reference.rst:1
 msgid "``Circulator``"
@@ -10797,11 +10797,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of port 1"
-msgstr ""
+msgstr "Referenzimpedanz von Tor 1"
 
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of port 2"
-msgstr ""
+msgstr "Referenzimpedanz von Tor 2"
 
 #: ../../source/component_reference.rst:1
 msgid "Z3"
@@ -10809,16 +10809,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of port 3"
-msgstr ""
+msgstr "Referenzimpedanz von Tor 3"
 
 #: ../../source/component_reference.rst:635
 #: ../../source/component_reference.rst:1
 msgid "Gyrator"
-msgstr ""
+msgstr "Gyrator"
 
 #: ../../source/component_reference.rst:1
 msgid "gyrator (impedance inverter)"
-msgstr ""
+msgstr "Gyrator (Impedanzinverter)"
 
 #: ../../source/component_reference.rst:1
 msgid "``Gyrator``"
@@ -10830,16 +10830,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "gyrator ratio"
-msgstr ""
+msgstr "Gyratorverhältnis"
 
 #: ../../source/component_reference.rst:676
 #: ../../source/component_reference.rst:1
 msgid "Phase Shifter"
-msgstr ""
+msgstr "Phasenschieber"
 
 #: ../../source/component_reference.rst:1
 msgid "phase shifter"
-msgstr ""
+msgstr "Phasenschieber"
 
 #: ../../source/component_reference.rst:1
 msgid "``PShift``"
@@ -10864,16 +10864,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "phase shift in degree"
-msgstr ""
+msgstr "Phasenverschiebung in Grad"
 
 #: ../../source/component_reference.rst:717
 #: ../../source/component_reference.rst:1
 msgid "Coupler"
-msgstr ""
+msgstr "Koppler"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal coupler"
-msgstr ""
+msgstr "idealer Koppler"
 
 #: ../../source/component_reference.rst:1
 msgid "``Coupler``"
@@ -10894,7 +10894,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "coupling factor"
-msgstr ""
+msgstr "Koppelfaktor"
 
 #: ../../source/component_reference.rst:1
 msgid "180"
@@ -10902,7 +10902,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "phase shift of coupling path in degree"
-msgstr ""
+msgstr "Phasenverschiebung des Koppelpfades in Grad"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10933,12 +10933,12 @@ msgstr ""
 #: ../../source/component_reference.rst:2224
 #: ../../source/component_reference.rst:1
 msgid "Current Probe"
-msgstr ""
+msgstr "Amperemeter"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "current probe"
-msgstr ""
+msgstr "Amperemeter"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10962,12 +10962,12 @@ msgstr ""
 #: ../../source/component_reference.rst:2255
 #: ../../source/component_reference.rst:1
 msgid "Voltage Probe"
-msgstr ""
+msgstr "Voltmeter"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage probe"
-msgstr ""
+msgstr "Voltmeter"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10982,11 +10982,11 @@ msgstr ""
 #: ../../source/component_reference.rst:862
 #: ../../source/component_reference.rst:1
 msgid "Mutual Inductors"
-msgstr ""
+msgstr "Gekoppelte Induktivitäten"
 
 #: ../../source/component_reference.rst:1
 msgid "two mutual inductors"
-msgstr ""
+msgstr "zwei gekoppelte Induktivitäten"
 
 #: ../../source/component_reference.rst:1
 msgid "``MUT``"
@@ -11018,7 +11018,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "inductance of coil 1"
-msgstr ""
+msgstr "Induktivität der Spule 1"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11030,7 +11030,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "inductance of coil 2"
-msgstr ""
+msgstr "Induktivität der Spule 2"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11072,16 +11072,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "coupling factor between coil 1 and 2"
-msgstr ""
+msgstr "Koppelfaktor zwischen Spule 1 und 2"
 
 #: ../../source/component_reference.rst:904
 #: ../../source/component_reference.rst:1
 msgid "3 Mutual Inductors"
-msgstr ""
+msgstr "3 Gekoppelte Induktivitäten"
 
 #: ../../source/component_reference.rst:1
 msgid "three mutual inductors"
-msgstr ""
+msgstr "drei gekoppelte Induktivitäten"
 
 #: ../../source/component_reference.rst:1
 msgid "``MUT2``"
@@ -11099,7 +11099,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "inductance of coil 3"
-msgstr ""
+msgstr "Induktivität der Spule 3"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11113,7 +11113,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "coupling factor between coil 1 and 3"
-msgstr ""
+msgstr "Koppelfaktor zwischen Spule 1 und 3"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11122,7 +11122,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "coupling factor between coil 2 and 3"
-msgstr ""
+msgstr "Koppelfaktor zwischen Spule 2 und 3"
 
 #: ../../source/component_reference.rst:949
 #: ../../source/component_reference.rst:1
@@ -11269,7 +11269,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "resistance of \"on\" state in ohms"
-msgstr ""
+msgstr "Widerstand im \"on\"-Zustand in Ohm"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11283,7 +11283,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "resistance of \"off\" state in ohms"
-msgstr ""
+msgstr "Widerstand im \"off\"-Zustand in Ohm"
 
 #: ../../source/component_reference.rst:1
 msgid "MaxDuration"
@@ -11445,7 +11445,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of ports"
-msgstr ""
+msgstr "Anzahl der Tore"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11539,11 +11539,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dc Voltage Source"
-msgstr ""
+msgstr "DC Spannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal dc voltage source"
-msgstr ""
+msgstr "ideale DC Spannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vdc``"
@@ -11621,7 +11621,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage in Volts"
-msgstr ""
+msgstr "Spannung in Volt"
 
 #: ../../source/component_reference.rst:1222
 msgid "Dc Current Source"
@@ -11629,11 +11629,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dc Current Source"
-msgstr ""
+msgstr "DC Stromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal dc current source"
-msgstr ""
+msgstr "ideale DC Stromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Idc``"
@@ -11662,7 +11662,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current in Ampere"
-msgstr ""
+msgstr "Strom in Ampere"
 
 #: ../../source/component_reference.rst:1262
 msgid "Ac Voltage Source"
@@ -11670,11 +11670,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "ac Voltage Source"
-msgstr ""
+msgstr "AC Spannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal ac voltage source"
-msgstr ""
+msgstr "ideale AC Spannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vac``"
@@ -11688,7 +11688,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "peak voltage in Volts"
-msgstr ""
+msgstr "Spitzenwert der Spannung in Volt"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11717,7 +11717,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "frequency in Hertz"
-msgstr ""
+msgstr "Frequenz in Hertz"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11731,7 +11731,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "initial phase in degrees"
-msgstr ""
+msgstr "Anfangsphasenverschiebung in Grad"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11744,7 +11744,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "damping factor (transient simulation only)"
-msgstr ""
+msgstr "Dämpfungsfaktor (nur für Transientensimulation)"
 
 #: ../../source/component_reference.rst:1305
 msgid "Ac Current Source"
@@ -11752,11 +11752,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "ac Current Source"
-msgstr ""
+msgstr "AC Stromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal ac current source"
-msgstr ""
+msgstr "ideale AC Stromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Iac``"
@@ -11768,16 +11768,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "peak current in Ampere"
-msgstr ""
+msgstr "Spitzenwert des Stroms in Ampere"
 
 #: ../../source/component_reference.rst:1348
 #: ../../source/component_reference.rst:1
 msgid "Power Source"
-msgstr ""
+msgstr "Signalquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ac power source"
-msgstr ""
+msgstr "AC Signalquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Pac``"
@@ -11790,11 +11790,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of the port"
-msgstr ""
+msgstr "Tornummer"
 
 #: ../../source/component_reference.rst:1
 msgid "port impedance"
-msgstr ""
+msgstr "Torimpedanz"
 
 #: ../../source/component_reference.rst:1
 msgid "P"
@@ -11811,11 +11811,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1392
 #: ../../source/component_reference.rst:1
 msgid "Noise Voltage Source"
-msgstr ""
+msgstr "Rauschspannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "noise voltage source"
-msgstr ""
+msgstr "Rauschspannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vnoise``"
@@ -11831,7 +11831,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage power spectral density in V^2/Hz"
-msgstr ""
+msgstr "spektrale Rauschspannungsleistungsdichte in V²/Hz"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11847,7 +11847,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "frequency exponent"
-msgstr ""
+msgstr "Frequenzexponent"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11855,7 +11855,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "c"
-msgstr ""
+msgstr "c"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11863,7 +11863,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "frequency coefficient"
-msgstr ""
+msgstr "Frequenzkoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11880,16 +11880,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "additive frequency term"
-msgstr ""
+msgstr "additiver Frequenzterm"
 
 #: ../../source/component_reference.rst:1435
 #: ../../source/component_reference.rst:1
 msgid "Noise Current Source"
-msgstr ""
+msgstr "Rauschstromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "noise current source"
-msgstr ""
+msgstr "Rauschstromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Inoise``"
@@ -11905,16 +11905,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current power spectral density in A^2/Hz"
-msgstr ""
+msgstr "spektrale Rauschstromleistungsdichte in A²/Hz"
 
 #: ../../source/component_reference.rst:1478
 #: ../../source/component_reference.rst:1
 msgid "Voltage Controlled Current Source"
-msgstr ""
+msgstr "spannungsgesteuerte Stromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "voltage controlled current source"
-msgstr ""
+msgstr "spannungsgesteuerte Stromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``VCCS``"
@@ -11940,7 +11940,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "forward transconductance"
-msgstr ""
+msgstr "Vorwärtstranskonduktanz"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11960,16 +11960,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "delay time"
-msgstr ""
+msgstr "Verzögerungszeit"
 
 #: ../../source/component_reference.rst:1519
 #: ../../source/component_reference.rst:1
 msgid "Current Controlled Current Source"
-msgstr ""
+msgstr "stromgesteuerte Stromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "current controlled current source"
-msgstr ""
+msgstr "stromgesteuerte Stromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``CCCS``"
@@ -11983,17 +11983,17 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward transfer factor"
-msgstr ""
+msgstr "Vorwärtstransferfaktor"
 
 #: ../../source/component_reference.rst:1560
 #: ../../source/component_reference.rst:1
 msgid "Voltage Controlled Voltage Source"
-msgstr ""
+msgstr "spannungsgesteuerte Spannungsquelle"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage controlled voltage source"
-msgstr ""
+msgstr "spannungsgesteuerte Spannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``VCVS``"
@@ -12006,11 +12006,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1601
 #: ../../source/component_reference.rst:1
 msgid "Current Controlled Voltage Source"
-msgstr ""
+msgstr "stromgesteuerte Spannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "current controlled voltage source"
-msgstr ""
+msgstr "stromgesteuerte Spannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``CCVS``"
@@ -12027,11 +12027,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1642
 #: ../../source/component_reference.rst:1
 msgid "Voltage Pulse"
-msgstr ""
+msgstr "Spannungspulsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal voltage pulse source"
-msgstr ""
+msgstr "ideale Spannungspulsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vpulse``"
@@ -12053,7 +12053,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage before and after the pulse"
-msgstr ""
+msgstr "Spannung vor und nach dem Puls"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12062,17 +12062,17 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage of the pulse"
-msgstr ""
+msgstr "Spannung während des Pulses"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "start time of the pulse"
-msgstr ""
+msgstr "Anfangszeit des Pulses"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ending time of the pulse"
-msgstr ""
+msgstr "Endzeit des Pulses"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12134,7 +12134,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "rise time of the leading edge"
-msgstr ""
+msgstr "Anstiegszeit des Pulses"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12156,16 +12156,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "fall time of the trailing edge"
-msgstr ""
+msgstr "Abfallszeit des Pulses"
 
 #: ../../source/component_reference.rst:1687
 #: ../../source/component_reference.rst:1
 msgid "Current Pulse"
-msgstr ""
+msgstr "Strompulsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal current pulse source"
-msgstr ""
+msgstr "ideale Pulsstromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Ipulse``"
@@ -12183,7 +12183,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current before and after the pulse"
-msgstr ""
+msgstr "Strom vor und nach dem Puls"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12197,16 +12197,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current of the pulse"
-msgstr ""
+msgstr "Strom während des Pulses"
 
 #: ../../source/component_reference.rst:1732
 #: ../../source/component_reference.rst:1
 msgid "Rectangle Voltage"
-msgstr ""
+msgstr "Rechteckspannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal rectangle voltage source"
-msgstr ""
+msgstr "ideale Rechteckspannungsquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vrect``"
@@ -12218,7 +12218,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage of high signal"
-msgstr ""
+msgstr "Spannung der High-Level Pulse"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12228,7 +12228,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "duration of high pulses"
-msgstr ""
+msgstr "Dauer der High-Level Pulse"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12238,7 +12238,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "duration of low pulses"
-msgstr ""
+msgstr "Dauer der Low-Level Pulse"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12258,11 +12258,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1777
 #: ../../source/component_reference.rst:1
 msgid "Rectangle Current"
-msgstr ""
+msgstr "Rechteckstromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal rectangle current source"
-msgstr ""
+msgstr "ideale Rechteckstromquelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``Irect``"
@@ -12274,7 +12274,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current at high pulse"
-msgstr ""
+msgstr "Strom während des Rechteckpulses"
 
 #: ../../source/component_reference.rst:1822
 #: ../../source/component_reference.rst:1
@@ -12283,13 +12283,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1912
 #: ../../source/component_reference.rst:1
 msgid "Correlated Noise Sources"
-msgstr ""
+msgstr "Korrelierte Rauschquellen"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "correlated current sources"
-msgstr ""
+msgstr "korrelierte Stromquellen"
 
 #: ../../source/component_reference.rst:1
 msgid "``IInoise``"
@@ -12307,7 +12307,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "current power spectral density of source 1"
-msgstr ""
+msgstr "spektrale Rauschstromleistungsdichte der Quelle 1"
 
 #: ../../source/component_reference.rst:1
 msgid "i2"
@@ -12315,7 +12315,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current power spectral density of source 2"
-msgstr ""
+msgstr "spektrale Rauschstromleistungsdichte der Quelle 2"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12409,7 +12409,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "normalized correlation coefficient"
-msgstr ""
+msgstr "normierter Korrelationskoeffizient"
 
 #: ../../source/component_reference.rst:1
 msgid "``VVnoise``"
@@ -12425,7 +12425,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage power spectral density of source 1"
-msgstr ""
+msgstr "spektrale Rauschspannungsleistungsdichte der Quelle 1"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12435,7 +12435,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage power spectral density of source 2"
-msgstr ""
+msgstr "spektrale Rauschspannungsleistungsdichte der Quelle 2"
 
 #: ../../source/component_reference.rst:1
 msgid "``IVnoise``"
@@ -12451,11 +12451,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "AM modulated Source"
-msgstr ""
+msgstr "AM modulierte Quelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ac voltage source with amplitude modulator"
-msgstr ""
+msgstr "AC-Spannungsquelle mit Amplitudenmodulator"
 
 #: ../../source/component_reference.rst:1
 msgid "``AM_Mod``"
@@ -12787,7 +12787,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "modulation level"
-msgstr ""
+msgstr "Modulationsindex"
 
 #: ../../source/component_reference.rst:2000
 msgid "Pm Modulated Source"
@@ -12795,11 +12795,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "PM modulated Source"
-msgstr ""
+msgstr "PM modulierte Quelle"
 
 #: ../../source/component_reference.rst:1
 msgid "ac voltage source with phase modulator"
-msgstr ""
+msgstr "AC-Spannungsquelle mit Phasenmodulator"
 
 #: ../../source/component_reference.rst:1
 msgid "``PM_Mod``"
@@ -12824,7 +12824,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "modulation index"
-msgstr ""
+msgstr "Modulationsindex"
 
 #: ../../source/component_reference.rst:2043
 #: ../../source/component_reference.rst:1
@@ -12929,7 +12929,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "File"
-msgstr ""
+msgstr "Datei"
 
 #: ../../source/component_reference.rst:1
 msgid "vfile.dat"
@@ -12954,7 +12954,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "linear"
-msgstr ""
+msgstr "linear"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13012,11 +13012,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2289
 #: ../../source/component_reference.rst:1
 msgid "Transmission Line"
-msgstr ""
+msgstr "Übertragungsstrecke"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal transmission line"
-msgstr ""
+msgstr "ideale Leitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``TLIN``"
@@ -13069,7 +13069,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "characteristic impedance"
-msgstr ""
+msgstr "charakteristische Impedanz"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13111,7 +13111,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "electrical length of the line"
-msgstr ""
+msgstr "elektrische Länge der Leitung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13362,7 +13362,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "relative permeability of conductor"
-msgstr ""
+msgstr "relative Permeabilität des Leiters"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13384,7 +13384,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "specific resistance of conductor"
-msgstr ""
+msgstr "spezifischer Widerstand des Leiters"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13404,16 +13404,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "loss tangent"
-msgstr ""
+msgstr "dielektrischer Verlustwinkel"
 
 #: ../../source/component_reference.rst:2470
 #: ../../source/component_reference.rst:1
 msgid "Coaxial Line"
-msgstr ""
+msgstr "Koaxialkabel"
 
 #: ../../source/component_reference.rst:1
 msgid "coaxial transmission line"
-msgstr ""
+msgstr "Koaxialleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``COAX``"
@@ -13430,7 +13430,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "relative permittivity of dielectric"
-msgstr ""
+msgstr "relative Permittivität des Dielektrikums"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13439,7 +13439,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "inner diameter of shield"
-msgstr ""
+msgstr "innerer Durchmesser des Außenleiters"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13448,7 +13448,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "diameter of inner conductor"
-msgstr ""
+msgstr "Durchmesser des Innenleiters"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13458,7 +13458,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "mechanical length of the line"
-msgstr ""
+msgstr "mechanische Länge der Leitung"
 
 #: ../../source/component_reference.rst:2517
 #: ../../source/component_reference.rst:1
@@ -13480,7 +13480,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "b"
-msgstr ""
+msgstr "b"
 
 #: ../../source/component_reference.rst:1
 msgid "shortest side"
@@ -13547,16 +13547,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Length"
-msgstr ""
+msgstr "Länge"
 
 #: ../../source/component_reference.rst:2610
 #: ../../source/component_reference.rst:1
 msgid "Substrate"
-msgstr ""
+msgstr "Substrat"
 
 #: ../../source/component_reference.rst:1
 msgid "substrate definition"
-msgstr ""
+msgstr "Substratdefinition"
 
 #: ../../source/component_reference.rst:1
 msgid "``SUBST``"
@@ -13575,7 +13575,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "substrate"
-msgstr ""
+msgstr "Substrat"
 
 #: ../../source/component_reference.rst:1
 msgid "9.8"
@@ -13583,7 +13583,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "relative permittivity"
-msgstr ""
+msgstr "relative Permeabilität"
 
 #: ../../source/component_reference.rst:1
 msgid "h"
@@ -13591,7 +13591,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "thickness in meters"
-msgstr ""
+msgstr "Höhe in Metern"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13614,7 +13614,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "thickness of metalization"
-msgstr ""
+msgstr "Metallisierungsdicke"
 
 #: ../../source/component_reference.rst:1
 msgid "2e-4"
@@ -13622,7 +13622,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "specific resistance of metal"
-msgstr ""
+msgstr "spezifischer Widerstand des Metalls"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13634,16 +13634,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "rms substrate roughness"
-msgstr ""
+msgstr "effektive Oberflächenrauhtiefe"
 
 #: ../../source/component_reference.rst:2655
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Line"
-msgstr ""
+msgstr "Mikrostreifenleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip line"
-msgstr ""
+msgstr "Mikrostreifenleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``MLIN``"
@@ -13722,7 +13722,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "name of substrate definition"
-msgstr ""
+msgstr "Name der Substratdefinition"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13759,7 +13759,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of the line"
-msgstr ""
+msgstr "Leitungsbreite"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13774,7 +13774,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "length of the line"
-msgstr ""
+msgstr "Leitungslänge"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13838,11 +13838,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2700
 #: ../../source/component_reference.rst:1
 msgid "Coupled Microstrip Line"
-msgstr ""
+msgstr "gekoppelte Mikrostreifenleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "coupled microstrip line"
-msgstr ""
+msgstr "gekoppelte Mikrostreifenleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``MCOUPLED``"
@@ -13866,7 +13866,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "spacing between the lines"
-msgstr ""
+msgstr "Abstand zwischen den Leitungen"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13898,11 +13898,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2792
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Corner"
-msgstr ""
+msgstr "Mikrostreifenwinkel"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip corner"
-msgstr ""
+msgstr "Mikrostreifenwinkel"
 
 #: ../../source/component_reference.rst:1
 msgid "``MCORN``"
@@ -13915,16 +13915,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of line"
-msgstr ""
+msgstr "Streifenbreite"
 
 #: ../../source/component_reference.rst:2833
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Mitered Bend"
-msgstr ""
+msgstr "Abgeflachter Mikrostreifenwinkel"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip mitered bend"
-msgstr ""
+msgstr "abgeflachter Mikrostreifenwinkel"
 
 #: ../../source/component_reference.rst:1
 msgid "``MMBEND``"
@@ -13937,11 +13937,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2874
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Step"
-msgstr ""
+msgstr "Mikrostreifenabsatz"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip impedance step"
-msgstr ""
+msgstr "Mikrostreifenabsatz"
 
 #: ../../source/component_reference.rst:1
 msgid "``MSTEP``"
@@ -13970,7 +13970,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width 1 of the line"
-msgstr ""
+msgstr "Breite der Leitung 1"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13982,7 +13982,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width 2 of the line"
-msgstr ""
+msgstr "Breite der Leitung 2"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14003,11 +14003,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2918
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Tee"
-msgstr ""
+msgstr "Mikrostreifen T-Verzweigung"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip tee"
-msgstr ""
+msgstr "T-Verzweigung einer Mikrostreifenleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``MTEE``"
@@ -14021,13 +14021,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of line 1"
-msgstr ""
+msgstr "Leitungsbreite 1"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of line 2"
-msgstr ""
+msgstr "Leitungsbreite 2"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14037,11 +14037,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of line 3"
-msgstr ""
+msgstr "Leitungsbreite 3"
 
 #: ../../source/component_reference.rst:1
 msgid "temperature in degree Celsius"
-msgstr ""
+msgstr "Temperatur in °C"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14056,11 +14056,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2965
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Cross"
-msgstr ""
+msgstr "Mikrostreifenkreuzung"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip cross"
-msgstr ""
+msgstr "Mikrostreifenkreuzung"
 
 #: ../../source/component_reference.rst:1
 msgid "``MCROSS``"
@@ -14076,16 +14076,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width of line 4"
-msgstr ""
+msgstr "Leitungsbreite 4"
 
 #: ../../source/component_reference.rst:3012
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Open"
-msgstr ""
+msgstr "Offene Mikrostreifenleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip open"
-msgstr ""
+msgstr "offenen Mikrostreifenleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``MOPEN``"
@@ -14102,11 +14102,11 @@ msgstr ""
 #: ../../source/component_reference.rst:3056
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Gap"
-msgstr ""
+msgstr "Mikrostreifenlücke"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip gap"
-msgstr ""
+msgstr "Mikrostreifenlücke"
 
 #: ../../source/component_reference.rst:1
 msgid "``MGAP``"
@@ -14118,24 +14118,24 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width of the line 1"
-msgstr ""
+msgstr "Breite der Leitung 1"
 
 #: ../../source/component_reference.rst:1
 msgid "width of the line 2"
-msgstr ""
+msgstr "Breite der Leitung 2"
 
 #: ../../source/component_reference.rst:1
 msgid "spacing between the microstrip ends"
-msgstr ""
+msgstr "Abstand zwischen den Mikrostreifenenden"
 
 #: ../../source/component_reference.rst:3101
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Via"
-msgstr ""
+msgstr "Mikrostreifendurchkontaktierung"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip via"
-msgstr ""
+msgstr "Mikrostreifendurchkontaktierung"
 
 #: ../../source/component_reference.rst:1
 msgid "``MVIA``"
@@ -14147,7 +14147,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "diameter of round via conductor"
-msgstr ""
+msgstr "Durchmesser der runden Durchkontaktierung"
 
 #: ../../source/component_reference.rst:3143
 #: ../../source/component_reference.rst:1
@@ -14193,11 +14193,11 @@ msgstr ""
 #: ../../source/component_reference.rst:3186
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Line"
-msgstr ""
+msgstr "Koplanarleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar line"
-msgstr ""
+msgstr "Koplanarleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``CLIN``"
@@ -14220,7 +14220,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of a gap"
-msgstr ""
+msgstr "Schlitzbreite"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14254,11 +14254,11 @@ msgstr ""
 #: ../../source/component_reference.rst:3231
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Open"
-msgstr ""
+msgstr "Offene Koplanarleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar open"
-msgstr ""
+msgstr "offene Koplanarleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``COPEN``"
@@ -14274,16 +14274,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width of gap at end of line"
-msgstr ""
+msgstr "Spaltbreite am Ende der Leitung"
 
 #: ../../source/component_reference.rst:3275
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Short"
-msgstr ""
+msgstr "Kurzgeschlossene Koplanarleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar short"
-msgstr ""
+msgstr "kurzgeschlossene Koplanarleitung"
 
 #: ../../source/component_reference.rst:1
 msgid "``CSHORT``"
@@ -14296,11 +14296,11 @@ msgstr ""
 #: ../../source/component_reference.rst:3318
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Gap"
-msgstr ""
+msgstr "Koplanarlücke"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar gap"
-msgstr ""
+msgstr "Koplanarlücke"
 
 #: ../../source/component_reference.rst:1
 msgid "``CGAP``"
@@ -14312,16 +14312,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width of gap between the two lines"
-msgstr ""
+msgstr "Abstand zwischen den Koplanarleitungsenden"
 
 #: ../../source/component_reference.rst:3361
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Step"
-msgstr ""
+msgstr "Koplanarabsatz"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar step"
-msgstr ""
+msgstr "Koplanarabsatz"
 
 #: ../../source/component_reference.rst:1
 msgid "``CSTEP``"
@@ -14338,7 +14338,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "distance between ground planes"
-msgstr ""
+msgstr "Abstand zwischen den Masseebenen"
 
 #: ../../source/component_reference.rst:3405
 #: ../../source/component_reference.rst:1
@@ -14400,12 +14400,12 @@ msgstr ""
 #: ../../source/component_reference.rst:3455
 #: ../../source/component_reference.rst:1
 msgid "Diode"
-msgstr ""
+msgstr "Diode"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "diode"
-msgstr ""
+msgstr "Diode"
 
 #: ../../source/component_reference.rst:1
 msgid "``Diode``"
@@ -14483,7 +14483,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "saturation current"
-msgstr ""
+msgstr "Sättigungsstrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14513,7 +14513,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "emission coefficient"
-msgstr ""
+msgstr "Idealiätsfaktor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14532,7 +14532,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "zero-bias junction capacitance"
-msgstr ""
+msgstr "Sperrschichtkapazität bei 0 Volt"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14541,7 +14541,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "grading coefficient"
-msgstr ""
+msgstr "Gradationskoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14558,7 +14558,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "junction potential"
-msgstr ""
+msgstr "Sperrschichtpotential"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14591,7 +14591,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward-bias depletion capacitance coefficient"
-msgstr ""
+msgstr "Sperrschichtkapazitäts-Linearisierungskoeffizient"
 
 #: ../../source/component_reference.rst:1
 msgid "Cp"
@@ -14603,7 +14603,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "linear capacitance"
-msgstr ""
+msgstr "konstante Parallelkapazität"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14613,7 +14613,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "recombination current parameter"
-msgstr ""
+msgstr "Rekombinationsstromparameter"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14667,7 +14667,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "emission coefficient for Isr"
-msgstr ""
+msgstr "Emissionskoeffizient von Isr"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14706,7 +14706,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "ohmic series resistance"
-msgstr ""
+msgstr "ohmscher Serienwiderstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14733,7 +14733,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "transit time"
-msgstr ""
+msgstr "Transitzeit"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14790,7 +14790,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "flicker noise coefficient"
-msgstr ""
+msgstr "1/f-Rauschkoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14832,7 +14832,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "flicker noise exponent"
-msgstr ""
+msgstr "1/f-Rauschexponent"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14867,7 +14867,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "flicker noise frequency exponent"
-msgstr ""
+msgstr "Frequenzexponent für 1/f-Rauschen"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14879,7 +14879,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "reverse breakdown voltage"
-msgstr ""
+msgstr "Durchbruchspannung rückwärts"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14891,7 +14891,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current at reverse breakdown voltage"
-msgstr ""
+msgstr "Strom bei der Durchbruchspannung im Rückwärtsbetrieb"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14954,7 +14954,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "saturation current temperature exponent"
-msgstr ""
+msgstr "Temperaturexponent des Sättigungsstroms"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14981,7 +14981,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "energy bandgap in eV"
-msgstr ""
+msgstr "Bandabstand in eV"
 
 #: ../../source/component_reference.rst:1
 msgid "Tbv"
@@ -14989,7 +14989,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Bv linear temperature coefficient"
-msgstr ""
+msgstr "linearer Temperaturkoeffizient von Bv"
 
 #: ../../source/component_reference.rst:1
 msgid "Trs"
@@ -14997,7 +14997,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Rs linear temperature coefficient"
-msgstr ""
+msgstr "linearer Temperaturkoeffizient von Rs"
 
 #: ../../source/component_reference.rst:1
 msgid "Ttt1"
@@ -15005,7 +15005,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Tt linear temperature coefficient"
-msgstr ""
+msgstr "linearer Temperaturkoeffizient von Tt"
 
 #: ../../source/component_reference.rst:1
 msgid "Ttt2"
@@ -15013,7 +15013,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Tt quadratic temperature coefficient"
-msgstr ""
+msgstr "quadratischer Temperaturkoeffizient von Tt"
 
 #: ../../source/component_reference.rst:1
 msgid "Tm1"
@@ -15021,7 +15021,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "M linear temperature coefficient"
-msgstr ""
+msgstr "linearer Temperaturkoeffizient von M"
 
 #: ../../source/component_reference.rst:1
 msgid "Tm2"
@@ -15029,7 +15029,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "M quadratic temperature coefficient"
-msgstr ""
+msgstr "quadratischer Temperaturkoeffizient von M"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15050,7 +15050,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "default area for diode"
-msgstr ""
+msgstr "Skalierungsfaktor der Diode"
 
 #: ../../source/component_reference.rst:1
 msgid "normal"
@@ -15068,12 +15068,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "npn transistor"
-msgstr ""
+msgstr "npn Transistor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bipolar junction transistor"
-msgstr ""
+msgstr "Bipolartransistor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15165,7 +15165,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward emission coefficient"
-msgstr ""
+msgstr "Vorwärtsemissionskoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15173,14 +15173,14 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reverse emission coefficient"
-msgstr ""
+msgstr "Rückwärtsemissionskoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "high current corner for forward beta"
-msgstr ""
+msgstr "Knickstrom für Vorwärtstransferstrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15195,7 +15195,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "high current corner for reverse beta"
-msgstr ""
+msgstr "Knickstrom für Rückwärtstransferstrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15210,7 +15210,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward early voltage"
-msgstr ""
+msgstr "Early-Spannung vorwärts"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15225,7 +15225,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reverse early voltage"
-msgstr ""
+msgstr "Early-Spannung rückwärts"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15239,7 +15239,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter leakage saturation current"
-msgstr ""
+msgstr "nichtidealer Basis-Emitter-Sättigungsstrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15253,7 +15253,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter leakage emission coefficient"
-msgstr ""
+msgstr "Emissionsfaktor für nichtidealen BE-Diodenstrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15267,7 +15267,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector leakage saturation current"
-msgstr ""
+msgstr "nichtidealer Basis-Kollektor-Sättigungsstrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15281,7 +15281,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector leakage emission coefficient"
-msgstr ""
+msgstr "Emissionsfaktor für nichtidealen BC-Diodenstrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15298,7 +15298,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward beta"
-msgstr ""
+msgstr "ideale Vorwärtsstromverstärkung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15315,7 +15315,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reverse beta"
-msgstr ""
+msgstr "ideale Rückwärtsstromverstärkung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15329,7 +15329,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "minimum base resistance for high currents"
-msgstr ""
+msgstr "minimaler Basiswiderstand bei großen Strömen"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15343,7 +15343,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "current for base resistance midpoint"
-msgstr ""
+msgstr "Basisstrom für Basisbahnwiderstandsmitte"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15359,7 +15359,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "collector ohmic resistance"
-msgstr ""
+msgstr "Kollektorwiderstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15375,7 +15375,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "emitter ohmic resistance"
-msgstr ""
+msgstr "Emitterwiderstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15391,7 +15391,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias base resistance (may be high-current dependent)"
-msgstr ""
+msgstr "konstanter Basisbahnwiderstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15407,7 +15407,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter zero-bias depletion capacitance"
-msgstr ""
+msgstr "BE-Sperrschichtkapazität bei 0V"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15440,7 +15440,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter junction built-in potential"
-msgstr ""
+msgstr "BE-Diffusionsspannung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15487,7 +15487,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter junction exponential factor"
-msgstr ""
+msgstr "BE-Gradationskoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15503,7 +15503,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector zero-bias depletion capacitance"
-msgstr ""
+msgstr "BC-Sperrschichtkapazität bei 0V"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15519,7 +15519,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector junction built-in potential"
-msgstr ""
+msgstr "BC-Diffusionsspannung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15535,7 +15535,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector junction exponential factor"
-msgstr ""
+msgstr "BC-Gradationskoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15549,7 +15549,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "fraction of Cjc that goes to internal base pin"
-msgstr ""
+msgstr "BC-Aufteilungsfaktor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15563,7 +15563,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias collector-substrate capacitance"
-msgstr ""
+msgstr "CS-Sperrschichtkapazität bei 0V"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15577,7 +15577,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "substrate junction built-in potential"
-msgstr ""
+msgstr "CS-Diffusionsspannung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15591,14 +15591,14 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "substrate junction exponential factor"
-msgstr ""
+msgstr "CS-Gradationskoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ideal forward transit time"
-msgstr ""
+msgstr "ideale Vorwärtstransitzeit"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15612,7 +15612,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "coefficient of bias-dependence for Tf"
-msgstr ""
+msgstr "Koeffizient für Stromabhängigkeit von Tf"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15626,7 +15626,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage dependence of Tf on base-collector voltage"
-msgstr ""
+msgstr "Koeffizient für Spannungsabhängigkeit von Tf"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15640,14 +15640,14 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "high-current effect on Tf"
-msgstr ""
+msgstr "Bezugsstrom für Stromabhängigkeit von Tf"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ideal reverse transit time"
-msgstr ""
+msgstr "ideale Rückwärtstransitzeit"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15662,7 +15662,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "burst noise coefficient"
-msgstr ""
+msgstr "Burst-Rauschkoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15677,7 +15677,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "burst noise exponent"
-msgstr ""
+msgstr "Burst-Rauschexponent"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15692,7 +15692,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "burst noise corner frequency in Hertz"
-msgstr ""
+msgstr "Grenzfrequenz für das Burst-Rauschen in Hertz"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15706,7 +15706,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "excess phase in degrees"
-msgstr ""
+msgstr "Zusatzphase in Grad"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15720,14 +15720,14 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "temperature exponent for forward- and reverse beta"
-msgstr ""
+msgstr "Temperaturexponent für die Vorwärts- und Rückwärtsverstärkung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "default area for bipolar transistor"
-msgstr ""
+msgstr "Flächenfaktor für den Bipolartransistor"
 
 #: ../../source/component_reference.rst:3610
 #: ../../source/component_reference.rst:3784
@@ -15737,7 +15737,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "pnp transistor"
-msgstr ""
+msgstr "pnp Transistor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15752,7 +15752,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bipolar junction transistor with substrate"
-msgstr ""
+msgstr "Bipolartransistor mit Substratanschluss"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15773,12 +15773,12 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-JFET"
-msgstr ""
+msgstr "n-JFET"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "junction field-effect transistor"
-msgstr ""
+msgstr "Feldeffekttransistor mit pn-Übergängen"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15829,7 +15829,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "threshold voltage"
-msgstr ""
+msgstr "Schwellspannung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15845,7 +15845,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "transconductance parameter"
-msgstr ""
+msgstr "Transkonduktanzparameter"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15865,7 +15865,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "channel-length modulation parameter"
-msgstr ""
+msgstr "Parameter für die Kanallängenmodulation"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15882,12 +15882,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "parasitic drain resistance"
-msgstr ""
+msgstr "parasitärer Drainwiderstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "parasitic source resistance"
-msgstr ""
+msgstr "parasitärer Sourcewiderstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15902,22 +15902,22 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-junction saturation current"
-msgstr ""
+msgstr "Sättigungsstrom des Gateübergangs"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-junction emission coefficient"
-msgstr ""
+msgstr "Idealitätsfaktor des Gateübergangs"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-junction recombination current parameter"
-msgstr ""
+msgstr "Emissionsfaktor für nichtidealen Gatestrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Isr emission coefficient"
-msgstr ""
+msgstr "Isr Emissionsfaktor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15929,7 +15929,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias gate-source junction capacitance"
-msgstr ""
+msgstr "Gate-Source-Sperrschichtkapazität bei 0 Volt"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15940,7 +15940,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias gate-drain junction capacitance"
-msgstr ""
+msgstr "Gate-Drain-Sperrschichtkapazität bei 0 Volt"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15956,17 +15956,17 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-junction potential"
-msgstr ""
+msgstr "Sperrschichtpotential des Gateübergangs"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward-bias junction capacitance coefficient"
-msgstr ""
+msgstr "Sperrschichtkapazitäts-Linearisierungskoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate P-N grading coefficient"
-msgstr ""
+msgstr "Gradationskoeffizient des Gateübergangs"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15976,7 +15976,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Vt0 temperature coefficient"
-msgstr ""
+msgstr "Temperaturkoeffizient von Vt0"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15986,12 +15986,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Beta exponential temperature coefficient"
-msgstr ""
+msgstr "exponentieller Temperaturkoeffizient von Beta"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "default area for JFET"
-msgstr ""
+msgstr "Flächenfaktor für den JFET"
 
 #: ../../source/component_reference.rst:3934
 msgid "P-Jfet"
@@ -15999,7 +15999,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "p-JFET"
-msgstr ""
+msgstr "p-JFET"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16016,13 +16016,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "n-MOSFET"
-msgstr ""
+msgstr "n-MOSFET"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "MOS field-effect transistor"
-msgstr ""
+msgstr "MOS Feldeffekttransistor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16055,7 +16055,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias threshold voltage"
-msgstr ""
+msgstr "Null-Schwellenspannung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16085,7 +16085,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "transconductance coefficient in A/V^2"
-msgstr ""
+msgstr "Übertragungsleitwert-Parameter in A/V²"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16106,7 +16106,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk threshold in sqrt(V)"
-msgstr ""
+msgstr "Substrat-Schwellenspannungs-Parameter in sqrt(V)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16135,7 +16135,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "surface potential"
-msgstr ""
+msgstr "Oberflächenpotential"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16144,7 +16144,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "channel-length modulation parameter in 1/V"
-msgstr ""
+msgstr "Parameter für die Kanallängenmodulation in 1/V"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16153,7 +16153,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "drain ohmic resistance"
-msgstr ""
+msgstr "Drain-Bahnwiderstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16162,7 +16162,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "source ohmic resistance"
-msgstr ""
+msgstr "Source-Bahnwiderstand"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16183,7 +16183,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate ohmic resistance"
-msgstr ""
+msgstr "ohmscher Widerstand des Gate-Metallkontaktes"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16201,7 +16201,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction saturation current"
-msgstr ""
+msgstr "Substrat-Sperrsättigungsstrom"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16210,7 +16210,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction emission coefficient"
-msgstr ""
+msgstr "Emissionsfaktor des Substrat-Übergangs"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16234,7 +16234,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "channel width"
-msgstr ""
+msgstr "Kanalbreite"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16243,7 +16243,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "channel length"
-msgstr ""
+msgstr "Kanallänge"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16261,7 +16261,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "lateral diffusion length"
-msgstr ""
+msgstr "Gate-Diffusionsüberlappung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16288,7 +16288,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "oxide thickness"
-msgstr ""
+msgstr "Oxiddicke"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16308,7 +16308,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-source overlap capacitance per meter of channel width in F/m"
-msgstr ""
+msgstr "GS-Überlappungskapazität je Kanalbreite in F/m"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16328,7 +16328,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-drain overlap capacitance per meter of channel width in F/m"
-msgstr ""
+msgstr "GD-Überlappungskapazität je Kanalbreite in F/m"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16348,7 +16348,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-bulk overlap capacitance per meter of channel length in F/m"
-msgstr ""
+msgstr "GB-Überlappungskapazität je Kanallänge in F/m"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16381,7 +16381,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias bulk-drain junction capacitance"
-msgstr ""
+msgstr "Null-BD-Sperrschichtkapazität"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16399,7 +16399,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias bulk-source junction capacitance"
-msgstr ""
+msgstr "Null-BS-Sperrschichtkapazität"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16418,7 +16418,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction potential"
-msgstr ""
+msgstr "Substrat-Sperrschicht-Diffusionsspannung"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16436,7 +16436,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction bottom grading coefficient"
-msgstr ""
+msgstr "Substratboden-Sperrschicht-Gradationsexponent"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16445,7 +16445,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction forward-bias depletion capacitance coefficient"
-msgstr ""
+msgstr "Koeffizient für Durchlassbereich der Sperrschichtkapazität"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16465,7 +16465,7 @@ msgstr ""
 msgid ""
 "zero-bias bulk junction periphery capacitance per meter of junction "
 "perimeter in F/m"
-msgstr ""
+msgstr "Null-Substrat-Seitenwandkapazität je Sperrschichtumfang in F/m"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16483,7 +16483,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction periphery grading coefficient"
-msgstr ""
+msgstr "Substratseitenwand-Sperrschicht-Gradationskoeffizient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16492,7 +16492,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk transit time"
-msgstr ""
+msgstr "Transitzeit durch das Substrat"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16510,7 +16510,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "substrate bulk doping density in 1/cm^3"
-msgstr ""
+msgstr "Substrat-Dotierungsdichte in 1/cm³"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16528,7 +16528,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "surface state density in 1/cm^2"
-msgstr ""
+msgstr "Oberflächenladungsdichte-Koeffizient in 1/cm²"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16548,6 +16548,8 @@ msgstr ""
 msgid ""
 "gate material type: 0 = alumina; -1 = same as bulk; 1 = opposite to bulk"
 msgstr ""
+"Typ des Gate-Materials: 0 = Aluminium; -1 = wie Substrat; 1 = Gegenteil von "
+"Substrat"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16574,7 +16576,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "surface mobility in cm^2/Vs"
-msgstr ""
+msgstr "Oberflächenbeweglichkeit in cm²/Vs"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16595,7 +16597,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "drain and source diffusion sheet resistance in Ohms/square"
-msgstr ""
+msgstr "Diffusionsflächenwiderstand von Drain und Source in Ohm/Quadrat"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16613,7 +16615,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of equivalent drain squares"
-msgstr ""
+msgstr "Drain-Flächenfaktor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16631,7 +16633,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of equivalent source squares"
-msgstr ""
+msgstr "Source-Flächenfaktor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16651,7 +16653,7 @@ msgstr ""
 msgid ""
 "zero-bias bulk junction bottom capacitance per square meter of junction area"
 " in F/m^2"
-msgstr ""
+msgstr "Null-Substratbodenkapazität je Sperrschichtfläche in F/m²"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16670,7 +16672,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid ""
 "bulk junction saturation current per square meter of junction area in A/m^2"
-msgstr ""
+msgstr "Substrat-Sperrsättigungsstromdichte in A/m²"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16688,7 +16690,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "drain diffusion area in m^2"
-msgstr ""
+msgstr "Drain-Diffusionsfläche in m²"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16706,7 +16708,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "source diffusion area in m^2"
-msgstr ""
+msgstr "Source-Diffusionsfläche in m²"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16739,7 +16741,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "drain junction perimeter"
-msgstr ""
+msgstr "Umfang der Drain-Sperrschicht"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16757,7 +16759,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "source junction perimeter"
-msgstr ""
+msgstr "Umfang der Source-Sperrschicht"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16766,7 +16768,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "parameter measurement temperature"
-msgstr ""
+msgstr "Temperatur bei der die Modellparameter gemessen wurden"
 
 #: ../../source/component_reference.rst:4080
 #: ../../source/component_reference.rst:4329
@@ -16776,7 +16778,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "p-MOSFET"
-msgstr ""
+msgstr "p-MOSFET"
 
 #: ../../source/component_reference.rst:1
 msgid "pmosfet"
@@ -16797,7 +16799,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "depletion MOSFET"
-msgstr ""
+msgstr "MOSFET (Verarmungstyp)"
 
 #: ../../source/component_reference.rst:1
 msgid "dmosfet"
@@ -16833,11 +16835,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "OpAmp"
-msgstr ""
+msgstr "OPV"
 
 #: ../../source/component_reference.rst:1
 msgid "operational amplifier"
-msgstr ""
+msgstr "Operationsverstärker"
 
 #: ../../source/component_reference.rst:1
 msgid "``OpAmp``"
@@ -16871,7 +16873,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "absolute value of maximum and minimum output voltage"
-msgstr ""
+msgstr "absoluter Wert der maximalen und minimalen Ausgangsspannung"
 
 #: ../../source/component_reference.rst:4536
 #: ../../source/component_reference.rst:1
@@ -19929,7 +19931,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Cmin"
-msgstr ""
+msgstr "Cmin"
 
 #: ../../source/component_reference.rst:1
 msgid "0.1e-15"
@@ -30059,7 +30061,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "resistance gain"
-msgstr ""
+msgstr "Widerstands gain "
 
 #: ../../source/component_reference.rst:8932
 msgid "Digital Components"
@@ -30072,7 +30074,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "digital source"
-msgstr ""
+msgstr "Digital-Quelle"
 
 #: ../../source/component_reference.rst:1
 msgid "``DigiSource``"
@@ -30147,7 +30149,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "list of times for changing output value"
-msgstr ""
+msgstr "Zeitenliste für die Veränderung der Ausgabewerte"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -30159,16 +30161,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage of high level"
-msgstr ""
+msgstr "Spannung des High-Pegels"
 
 #: ../../source/component_reference.rst:8981
 #: ../../source/component_reference.rst:1
 msgid "Inverter"
-msgstr ""
+msgstr "Inverter"
 
 #: ../../source/component_reference.rst:1
 msgid "logical inverter"
-msgstr ""
+msgstr "logischer Inverter"
 
 #: ../../source/component_reference.rst:1
 msgid "``Inv``"
@@ -30290,11 +30292,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port OR"
-msgstr ""
+msgstr "n-Tor ODER"
 
 #: ../../source/component_reference.rst:1
 msgid "logical OR"
-msgstr ""
+msgstr "logisches ODER"
 
 #: ../../source/component_reference.rst:1
 msgid "``OR``"
@@ -30320,7 +30322,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of input ports"
-msgstr ""
+msgstr "Anzahl der Eingänge"
 
 #: ../../source/component_reference.rst:9068
 msgid "N-Port Nor"
@@ -30328,11 +30330,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port NOR"
-msgstr ""
+msgstr "n-Tor NOR"
 
 #: ../../source/component_reference.rst:1
 msgid "logical NOR"
-msgstr ""
+msgstr "logisches NOR"
 
 #: ../../source/component_reference.rst:1
 msgid "``NOR``"
@@ -30348,11 +30350,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port AND"
-msgstr ""
+msgstr "n-Tor UND"
 
 #: ../../source/component_reference.rst:1
 msgid "logical AND"
-msgstr ""
+msgstr "logisches UND"
 
 #: ../../source/component_reference.rst:1
 msgid "``AND``"
@@ -30368,11 +30370,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port NAND"
-msgstr ""
+msgstr "n-Tor NAND"
 
 #: ../../source/component_reference.rst:1
 msgid "logical NAND"
-msgstr ""
+msgstr "logisches NAND"
 
 #: ../../source/component_reference.rst:1
 msgid "``NAND``"
@@ -30388,11 +30390,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port XOR"
-msgstr ""
+msgstr "n-Tor XOR"
 
 #: ../../source/component_reference.rst:1
 msgid "logical XOR"
-msgstr ""
+msgstr "logisches XOR"
 
 #: ../../source/component_reference.rst:1
 msgid "``XOR``"
@@ -30408,11 +30410,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port XNOR"
-msgstr ""
+msgstr "n-Tor XNOR"
 
 #: ../../source/component_reference.rst:1
 msgid "logical XNOR"
-msgstr ""
+msgstr "logisches XNOR"
 
 #: ../../source/component_reference.rst:1
 msgid "``XNOR``"
@@ -30751,11 +30753,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "RS-FlipFlop"
-msgstr ""
+msgstr "RS-Speicherglied"
 
 #: ../../source/component_reference.rst:1
 msgid "RS flip flop"
-msgstr ""
+msgstr "RS-Speicherglied"
 
 #: ../../source/component_reference.rst:1
 msgid "``RSFF``"
@@ -30781,11 +30783,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "D-FlipFlop"
-msgstr ""
+msgstr "D-Speicherglied"
 
 #: ../../source/component_reference.rst:1
 msgid "D flip flop with asynchron reset"
-msgstr ""
+msgstr "D-Speicherglied mit asynchronem Reseteingang"
 
 #: ../../source/component_reference.rst:1
 msgid "``DFF``"
@@ -30856,11 +30858,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "JK-FlipFlop"
-msgstr ""
+msgstr "JK-Speicherglied"
 
 #: ../../source/component_reference.rst:1
 msgid "JK flip flop with asynchron set and reset"
-msgstr ""
+msgstr "JK-Speicherglied mit asynchronen Set- und Reseteingängen"
 
 #: ../../source/component_reference.rst:1
 msgid "``JKFF``"
@@ -31246,7 +31248,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "digital simulation"
-msgstr ""
+msgstr "Digitalsimulation"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31281,12 +31283,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "duration of TimeList simulation"
-msgstr ""
+msgstr "Zeitdauer der TimeList Simulation"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "VHDL"
-msgstr ""
+msgstr "VHDL"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31303,11 +31305,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "SPICE netlist"
-msgstr ""
+msgstr "SPICE Netzliste"
 
 #: ../../source/component_reference.rst:1
 msgid "SPICE netlist file"
-msgstr ""
+msgstr "SPICE Netzlistendatei"
 
 #: ../../source/component_reference.rst:1
 msgid "``SPICE``"
@@ -31353,13 +31355,13 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "1-port S parameter file"
-msgstr ""
+msgstr "1-Tor S-Parameter Datei"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "S parameter file"
-msgstr ""
+msgstr "S-Parameter Datei"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31379,13 +31381,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "name of the s parameter file"
-msgstr ""
+msgstr "Name der S-Parameter Datei"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Data"
-msgstr ""
+msgstr "Daten"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31417,7 +31419,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "2-port S parameter file"
-msgstr ""
+msgstr "2-Tor S-Parameter Datei"
 
 #: ../../source/component_reference.rst:1
 msgid "spfile2"
@@ -31433,7 +31435,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port S parameter file"
-msgstr ""
+msgstr "n-Tor S-Parameter Datei"
 
 #: ../../source/component_reference.rst:1
 msgid "spfile3"
@@ -31446,12 +31448,12 @@ msgstr ""
 #: ../../source/component_reference.rst:10939
 #: ../../source/component_reference.rst:1
 msgid "Subcircuit"
-msgstr ""
+msgstr "Schaltkreis"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "subcircuit"
-msgstr ""
+msgstr "Teilschaltung"
 
 #: ../../source/component_reference.rst:1
 msgid "``Sub``"
@@ -31463,7 +31465,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "name of qucs schematic file"
-msgstr ""
+msgstr "Name der Qucs Schaltplandatei"
 
 #: ../../source/component_reference.rst:10976
 msgid "Simulations"
@@ -31476,7 +31478,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "dc simulation"
-msgstr ""
+msgstr "DC-Simulation"
 
 #: ../../source/component_reference.rst:1
 msgid "``.DC``"
@@ -31511,7 +31513,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "relative tolerance for convergence"
-msgstr ""
+msgstr "relative Toleranz für Konvergenz"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31528,7 +31530,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "absolute tolerance for currents"
-msgstr ""
+msgstr "absolute Toleranz für Ströme"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31545,7 +31547,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "absolute tolerance for voltages"
-msgstr ""
+msgstr "absolute Toleranz für Spannungen"
 
 #: ../../source/component_reference.rst:1
 msgid "saveOPs"
@@ -31565,7 +31567,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "maximum number of iterations until error"
-msgstr ""
+msgstr "maximale Anzahl der Iterationen"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31609,11 +31611,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Transient simulation"
-msgstr ""
+msgstr "Transientsimulation"
 
 #: ../../source/component_reference.rst:1
 msgid "transient simulation"
-msgstr ""
+msgstr "Transientsimulation"
 
 #: ../../source/component_reference.rst:1
 msgid "``.TR``"
@@ -31655,7 +31657,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "start time in seconds"
-msgstr ""
+msgstr "Startzeit in Sekunden"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31666,7 +31668,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "stop time in seconds"
-msgstr ""
+msgstr "Stopzeit in Sekunden"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31677,7 +31679,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "number of simulation time steps"
-msgstr ""
+msgstr "Anzahl der Simulationszeitschritte"
 
 #: ../../source/component_reference.rst:1
 msgid "IntegrationMethod"
@@ -31705,7 +31707,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "initial step size in seconds"
-msgstr ""
+msgstr "Anfangsschrittweite in Sekunden"
 
 #: ../../source/component_reference.rst:1
 msgid "MinStep"
@@ -31713,7 +31715,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "minimum step size in seconds"
-msgstr ""
+msgstr "minimale Schrittweite in Sekunden"
 
 #: ../../source/component_reference.rst:1
 msgid "LTEreltol"
@@ -31721,7 +31723,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "relative tolerance of local truncation error"
-msgstr ""
+msgstr "relative Toleranz des lokalen Abbruchfehlers"
 
 #: ../../source/component_reference.rst:1
 msgid "LTEabstol"
@@ -31729,7 +31731,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "absolute tolerance of local truncation error"
-msgstr ""
+msgstr "absolute Toleranz des lokalen Abbruchfehlers"
 
 #: ../../source/component_reference.rst:1
 msgid "LTEfactor"
@@ -31737,7 +31739,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "overestimation of local truncation error"
-msgstr ""
+msgstr "Faktor für die Überbewertung des lokalen Abbruchfehlers"
 
 #: ../../source/component_reference.rst:1
 msgid "relaxTSR"
@@ -31770,7 +31772,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ac simulation"
-msgstr ""
+msgstr "AC-Simulation"
 
 #: ../../source/component_reference.rst:1
 msgid "``.AC``"
@@ -31787,7 +31789,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "start frequency in Hertz"
-msgstr ""
+msgstr "Startfrequenz in Hertz"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31797,13 +31799,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "stop frequency in Hertz"
-msgstr ""
+msgstr "Stopfrequenz in Hertz"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of simulation steps"
-msgstr ""
+msgstr "Anzahl der Simulationsschritte"
 
 #: ../../source/component_reference.rst:1
 msgid "calculate noise voltages [yes, no]"
@@ -31815,11 +31817,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "S-parameter simulation"
-msgstr ""
+msgstr "S-Parameter Simulation"
 
 #: ../../source/component_reference.rst:1
 msgid "S parameter simulation"
-msgstr ""
+msgstr "S-Parameter Simulation"
 
 #: ../../source/component_reference.rst:1
 msgid "``.SP``"
@@ -31843,7 +31845,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "input port for noise figure"
-msgstr ""
+msgstr "Eingangstor für die Rauschzahl"
 
 #: ../../source/component_reference.rst:1
 msgid "NoiseOP"
@@ -31851,7 +31853,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "output port for noise figure"
-msgstr ""
+msgstr "Ausgangstor für die Rauschzahl"
 
 #: ../../source/component_reference.rst:1
 msgid "saveCVs"
@@ -31871,7 +31873,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Harmonic balance"
-msgstr ""
+msgstr "Harmonic balance"
 
 #: ../../source/component_reference.rst:1
 msgid "Harmonic balance simulation"
@@ -31895,7 +31897,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "number of harmonics"
-msgstr ""
+msgstr "Anzahl der Harmonischen"
 
 #: ../../source/component_reference.rst:1
 msgid "iabstol"
@@ -31912,7 +31914,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Parameter sweep"
-msgstr ""
+msgstr "Parameterdurchlauf"
 
 #: ../../source/component_reference.rst:1
 msgid "``.SW``"
@@ -31928,7 +31930,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "simulation to perform parameter sweep on"
-msgstr ""
+msgstr "Simulation für den Parameterdurchlauf"
 
 #: ../../source/component_reference.rst:1
 msgid "Param"
@@ -31936,15 +31938,15 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "parameter to sweep"
-msgstr ""
+msgstr "Durchlaufvariable"
 
 #: ../../source/component_reference.rst:1
 msgid "start value for sweep"
-msgstr ""
+msgstr "Startwert des Durchlaufs"
 
 #: ../../source/component_reference.rst:1
 msgid "stop value for sweep"
-msgstr ""
+msgstr "Stopwert des Durchlaufs"
 
 #: ../../source/component_reference.rst:11313
 #: ../../source/component_reference.rst:1

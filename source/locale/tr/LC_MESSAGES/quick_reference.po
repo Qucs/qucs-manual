@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Description"
-msgstr ""
+msgstr "Açıklama"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Resistor <001Lum>`"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "resistor"
-msgstr ""
+msgstr "direnç"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Resistor US <002Lum>`"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "capacitor"
-msgstr ""
+msgstr "sığa"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Inductor <004Lum>`"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "inductor"
-msgstr ""
+msgstr "sargı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Ground <005Lum>`"
@@ -94,7 +94,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ground (reference potential)"
-msgstr ""
+msgstr "toprak (referans gerilimi)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Subcircuit Port <006Lum>`"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "port of a subcircuit"
-msgstr ""
+msgstr "bir alt-devre ucu (port/ayak)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Transformer <007Lum>`"
@@ -124,7 +124,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal transformer"
-msgstr ""
+msgstr "fikirsel dönüştürücü (transformatör)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`symmetric Transformer <008Lum>`"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal symmetrical transformer"
-msgstr ""
+msgstr "fikirsel benzeşimli dönüştürücü (transformatör)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Block <009Lum>`"
@@ -148,7 +148,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc block"
-msgstr ""
+msgstr "dc kalıp"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Feed <010Lum>`"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc feed"
-msgstr ""
+msgstr "dc besleme"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Bias T <011Lum>`"
@@ -183,7 +183,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "bias t"
-msgstr ""
+msgstr "kutuplama t"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Attenuator <012Lum>`"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "attenuator"
-msgstr ""
+msgstr "zayıflatıcı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Amplifier <013Lum>`"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal amplifier"
-msgstr ""
+msgstr "fikirsel yükselteç"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Isolator <014Lum>`"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "isolator"
-msgstr ""
+msgstr "yalıtkan"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Circulator <015Lum>`"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "circulator"
-msgstr ""
+msgstr "devrettirici"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Gyrator <016Lum>`"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "gyrator (impedance inverter)"
-msgstr ""
+msgstr "jiratör (sanal direnç değilleyici)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Phase Shifter <017Lum>`"
@@ -255,7 +255,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "phase shifter"
-msgstr ""
+msgstr "açı kaydırıcı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coupler <018Lum>`"
@@ -267,7 +267,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal coupler"
-msgstr ""
+msgstr "fikirsel çiftleyici (kuplör)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Hybrid <019Lum>`"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "current probe"
-msgstr ""
+msgstr "akım algılama ucu"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Probe <021Lum>`"
@@ -308,7 +308,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "voltage probe"
-msgstr ""
+msgstr "gerilim algılayıcı uç"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Mutual Inductors <022Lum>`"
@@ -320,7 +320,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "two mutual inductors"
-msgstr ""
+msgstr "karşılıklı iki sargı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`3 Mutual Inductors <023Lum>`"
@@ -332,7 +332,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "three mutual inductors"
-msgstr ""
+msgstr "karşılıklı üç sargı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`N Mutual Inductors <024Lum>`"
@@ -362,7 +362,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "switch (time controlled)"
-msgstr ""
+msgstr "anahtar (zaman denetimli)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Relay <026Lum>`"
@@ -374,7 +374,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "relay"
-msgstr ""
+msgstr "gecikme"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined RF Device <027Lum>`"
@@ -390,7 +390,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "equation defined RF device"
-msgstr ""
+msgstr "eşitlikle tanımlanmış RF devre elemanı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined 2-port RF Device <028Lum>`"
@@ -402,7 +402,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "equation defined 2-port RF device"
-msgstr ""
+msgstr "eşitlikle tanımlanmış 2-uçlu RF devre elemanı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Voltage Source <001Sou>`"
@@ -422,7 +422,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal dc voltage source"
-msgstr ""
+msgstr "fikirsel dc gerilim kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Current Source <002Sou>`"
@@ -441,7 +441,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal dc current source"
-msgstr ""
+msgstr "fikirsel dc akım kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac Voltage Source <003Sou>`"
@@ -453,7 +453,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal ac voltage source"
-msgstr ""
+msgstr "fikirsel ac gerilim kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac Current Source <004Sou>`"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal ac current source"
-msgstr ""
+msgstr "ideal ac akım kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Power Source <005Sou>`"
@@ -477,7 +477,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ac power source"
-msgstr ""
+msgstr "ac güç kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Noise Voltage Source <006Sou>`"
@@ -489,7 +489,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "noise voltage source"
-msgstr ""
+msgstr "gürültü gerilim kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Noise Current Source <007Sou>`"
@@ -501,7 +501,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "noise current source"
-msgstr ""
+msgstr "gürültü akım kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Controlled Current Source <008Sou>`"
@@ -520,7 +520,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "voltage controlled current source"
-msgstr ""
+msgstr "gerilim denetimli akım kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Controlled Current Source <009Sou>`"
@@ -532,7 +532,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "current controlled current source"
-msgstr ""
+msgstr "akımla denetlenen akım kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Controlled Voltage Source <010Sou>`"
@@ -544,7 +544,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "voltage controlled voltage source"
-msgstr ""
+msgstr "gerilim denetimli gerilim kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Controlled Voltage Source <011Sou>`"
@@ -556,7 +556,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "current controlled voltage source"
-msgstr ""
+msgstr "akım denetimli gerilim kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Pulse <012Sou>`"
@@ -568,7 +568,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal voltage pulse source"
-msgstr ""
+msgstr "fikirsel gerilim atkı kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Pulse <013Sou>`"
@@ -580,7 +580,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal current pulse source"
-msgstr ""
+msgstr "fikirsel akım atkı kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangle Voltage <014Sou>`"
@@ -592,7 +592,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal rectangle voltage source"
-msgstr ""
+msgstr "fikirsel kare gerilim üreteci"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangle Current <015Sou>`"
@@ -604,7 +604,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal rectangle current source"
-msgstr ""
+msgstr "fikirsel kare akım kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Correlated Noise Sources <016Sou>`"
@@ -617,7 +617,7 @@ msgstr ""
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 #: ../../source/quick_reference.rst:1
 msgid "correlated current sources"
-msgstr ""
+msgstr "Bağlantılı/ilişkili akım kaynakları"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Correlated Noise Sources <017Sou>`"
@@ -669,7 +669,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "exponential current source"
-msgstr ""
+msgstr "üstel akım kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Exponential Voltage Pulse <022Sou>`"
@@ -681,7 +681,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "exponential voltage source"
-msgstr ""
+msgstr "üstel gerilim kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`File Based Voltage Source <023Sou>`"
@@ -693,7 +693,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "file based voltage source"
-msgstr ""
+msgstr "kütüğe dayalı gerilim kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`File Based Current Source <024Sou>`"
@@ -705,7 +705,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "file based current source"
-msgstr ""
+msgstr "kütüğe dayalı akım kaynağı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Probe <001Pro>`"
@@ -732,7 +732,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal transmission line"
-msgstr ""
+msgstr "fikirsel iletim hattı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`4-Terminal Transmission Line <002Tra>`"
@@ -744,7 +744,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal 4-terminal transmission line"
-msgstr ""
+msgstr "mükemmel 4-uçlu iletim hattı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coupled Transmission Line <003Tra>`"
@@ -768,7 +768,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "twisted pair transmission line"
-msgstr ""
+msgstr "burgulu çift iletim hattı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coaxial Line <005Tra>`"
@@ -780,7 +780,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coaxial transmission line"
-msgstr ""
+msgstr "eşeksenli iletim hattı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangular Waveguide <006Tra>`"
@@ -792,7 +792,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Rectangular Waveguide"
-msgstr ""
+msgstr "Dikdörtgen Dalga Kılavuzu"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`RLCG Transmission Line <007Tra>`"
@@ -820,7 +820,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "substrate definition"
-msgstr ""
+msgstr "substrat (alt tabaka) tanımlaması"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Line <009Tra>`"
@@ -841,7 +841,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip line"
-msgstr ""
+msgstr "mikrostrip hat"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coupled Microstrip Line <010Tra>`"
@@ -853,7 +853,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coupled microstrip line"
-msgstr ""
+msgstr "çiftlenmiş mikrostrip hat"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Lange Coupler <011Tra>`"
@@ -877,7 +877,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip corner"
-msgstr ""
+msgstr "mikrostrip köşe"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Mitered Bend <013Tra>`"
@@ -889,7 +889,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip mitered bend"
-msgstr ""
+msgstr "mikrostrip destekli kırım"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Step <014Tra>`"
@@ -901,7 +901,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip impedance step"
-msgstr ""
+msgstr "miktrostrip sanal direnç adımı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Tee <015Tra>`"
@@ -913,7 +913,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip tee"
-msgstr ""
+msgstr "mikrostrip baslangıcı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Cross <016Tra>`"
@@ -925,7 +925,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip cross"
-msgstr ""
+msgstr "mikrostrip çapraz"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Open <017Tra>`"
@@ -937,7 +937,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip open"
-msgstr ""
+msgstr "mikrostrip açık"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Gap <018Tra>`"
@@ -949,7 +949,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip gap"
-msgstr ""
+msgstr "mikrostrip aralık"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Via <019Tra>`"
@@ -961,7 +961,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip via"
-msgstr ""
+msgstr "mikrostrip via"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Radial Stub <020Tra>`"
@@ -991,7 +991,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar line"
-msgstr ""
+msgstr "eşyüzey hattı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Open <022Tra>`"
@@ -1003,7 +1003,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar open"
-msgstr ""
+msgstr "essyüzey açıklık"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Short <023Tra>`"
@@ -1015,7 +1015,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar short"
-msgstr ""
+msgstr "eşyüzey kısa devre"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Gap <024Tra>`"
@@ -1027,7 +1027,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar gap"
-msgstr ""
+msgstr "eşyüzey aralık"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Step <025Tra>`"
@@ -1039,7 +1039,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar step"
-msgstr ""
+msgstr "eşyüzey adım"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Bond Wire <026Tra>`"
@@ -1051,7 +1051,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "bond wire"
-msgstr ""
+msgstr "lehim teli"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Diode <001Non>`"
@@ -1069,7 +1069,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "diode"
-msgstr ""
+msgstr "diyot"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`npn transistor <002Non>`"
@@ -1098,7 +1098,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "bipolar junction transistor"
-msgstr ""
+msgstr "çift kutuplu eklem transistör (bjt)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`pnp transistor <003Non>`"
@@ -1130,7 +1130,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "junction field-effect transistor"
-msgstr ""
+msgstr "eklem alan-etkili transistör"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`p-JFET <007Non>`"
@@ -1148,7 +1148,7 @@ msgstr ""
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 #: ../../source/quick_reference.rst:1
 msgid "MOS field-effect transistor"
-msgstr ""
+msgstr "MOS alan etkili transistör"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`p-MOSFET <009Non>`"
@@ -1194,7 +1194,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "operational amplifier"
-msgstr ""
+msgstr "işlemsel yükselteç (opamp)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined Device <015Non>`"
@@ -1206,7 +1206,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "equation defined device"
-msgstr ""
+msgstr "eşitlikle tanımlanmış cihaz"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Diac <016Non>`"
@@ -1218,7 +1218,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "diac (bidirectional trigger diode)"
-msgstr ""
+msgstr "diyak (çift-yön tetiklemeli diyot)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Triac <017Non>`"
@@ -1230,7 +1230,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "triac (bidirectional thyristor)"
-msgstr ""
+msgstr "triyak (çift yönlü tristör)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Thyristor <018Non>`"
@@ -1242,7 +1242,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "silicon controlled rectifier (SCR)"
-msgstr ""
+msgstr "silikon denetimli doğrultucu (SCR)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Tunnel Diode <019Non>`"
@@ -1266,7 +1266,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "HICUM Level 2 v2.1 verilog device"
-msgstr ""
+msgstr "HICUM Seviyesi 2 v2.1 verilog devresi"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`FBH HBT <002Ver>`"
@@ -1302,7 +1302,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "HICUM Level 2 v2.22 verilog device"
-msgstr ""
+msgstr "HICUM Seviyesi 2 v2.22 verilog devre elemanı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Logarithmic Amplifier <005Ver>`"
@@ -1318,7 +1318,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Logarithmic Amplifier verilog device"
-msgstr ""
+msgstr "Üstel yükseltici verilog devre elemanı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`npn HICUM L0 v1.12 <006Ver>`"
@@ -1330,7 +1330,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "HICUM Level 0 v1.12 verilog device"
-msgstr ""
+msgstr "HICUM Seviyesi 0 v1.12 verilog devre elemanı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`pnp HICUM L0 v1.12 <007Ver>`"
@@ -1350,7 +1350,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Potentiometer verilog device"
-msgstr ""
+msgstr "Potansiyometre verilog devre elemanı"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`MESFET <009Ver>`"
@@ -1590,7 +1590,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "digital source"
-msgstr ""
+msgstr "dijital kaynak"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Inverter <002Dig>`"
@@ -1624,7 +1624,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical inverter"
-msgstr ""
+msgstr "mantıksal değilleyici"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port OR <003Dig>`"
@@ -1636,7 +1636,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical OR"
-msgstr ""
+msgstr "mantıksal VEYA"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port NOR <004Dig>`"
@@ -1648,7 +1648,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical NOR"
-msgstr ""
+msgstr "mantıksal VEYA-DEĞİL"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port AND <005Dig>`"
@@ -1660,7 +1660,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical AND"
-msgstr ""
+msgstr "mantıksal VE"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port NAND <006Dig>`"
@@ -1672,7 +1672,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical NAND"
-msgstr ""
+msgstr "mantıksal VE-DEĞİL"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port XOR <007Dig>`"
@@ -1684,7 +1684,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical XOR"
-msgstr ""
+msgstr "mantıksal X-VEYA (XOR)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`n-port XNOR <008Dig>`"
@@ -1696,7 +1696,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "logical XNOR"
-msgstr ""
+msgstr "mantıksal X-VEYA-DEĞİL (XNOR)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Buffer <009Dig>`"
@@ -1864,7 +1864,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "RS flip flop"
-msgstr ""
+msgstr "RS tetik devresi"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`D-FlipFlop <023Dig>`"
@@ -1876,7 +1876,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "D flip flop with asynchron reset"
-msgstr ""
+msgstr "Eşzamanlı Olmayan resetli D tipi tetik devresi"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`D-FlipFlop w/ SR <024Dig>`"
@@ -2104,7 +2104,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "VHDL file"
-msgstr ""
+msgstr "VHDL kütüğü"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Verilog file <043Dig>`"
@@ -2116,7 +2116,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Verilog file"
-msgstr ""
+msgstr "Verilog kütüğü"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`digital simulation <044Dig>`"
@@ -2132,7 +2132,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "digital simulation"
-msgstr ""
+msgstr "dijital benzetim"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`SPICE netlist <001Fil>`"
@@ -2144,7 +2144,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "SPICE netlist file"
-msgstr ""
+msgstr "SPICE bağlantı dizelgesi kütüğü"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`1-port S parameter file <002Fil>`"
@@ -2158,7 +2158,7 @@ msgstr ""
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 #: ../../source/quick_reference.rst:1
 msgid "S parameter file"
-msgstr ""
+msgstr "S değişken kütüğü"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`2-port S parameter file <003Fil>`"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "subcircuit"
-msgstr ""
+msgstr "alt-devre"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc simulation <001Sim>`"
@@ -2198,7 +2198,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc simulation"
-msgstr ""
+msgstr "dc benzetim"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Transient simulation <002Sim>`"
@@ -2214,7 +2214,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "transient simulation"
-msgstr ""
+msgstr "kalımsız benzetim"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac simulation <003Sim>`"
@@ -2230,7 +2230,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ac simulation"
-msgstr ""
+msgstr "ac benzetimi"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`S-parameter simulation <004Sim>`"
@@ -2246,7 +2246,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "S parameter simulation"
-msgstr ""
+msgstr "S değişken benzetimi"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Harmonic balance <005Sim>`"
@@ -2262,7 +2262,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Harmonic balance simulation"
-msgstr ""
+msgstr "Katsıklık (Harmonik) denge benzetimi"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Parameter sweep <006Sim>`"
@@ -2278,7 +2278,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Parameter sweep"
-msgstr ""
+msgstr "Değişken Süpürüm"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`digital simulation <007Sim>`"
@@ -2298,4 +2298,4 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Optimization"
-msgstr ""
+msgstr "iyilestirme"

@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Resistor <001Lum>`"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "resistor"
-msgstr ""
+msgstr "Resistência"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Resistor US <002Lum>`"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "capacitor"
-msgstr ""
+msgstr "Condensador"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Inductor <004Lum>`"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "inductor"
-msgstr ""
+msgstr "Inductor"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Ground <005Lum>`"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc feed"
-msgstr ""
+msgstr "DC Feed"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Bias T <011Lum>`"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "attenuator"
-msgstr ""
+msgstr "Atenuador"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Amplifier <013Lum>`"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal amplifier"
-msgstr ""
+msgstr "Amplificador ideal"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Isolator <014Lum>`"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "isolator"
-msgstr ""
+msgstr "Isolador"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Circulator <015Lum>`"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "circulator"
-msgstr ""
+msgstr "Circulador"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Gyrator <016Lum>`"
@@ -267,7 +267,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal coupler"
-msgstr ""
+msgstr "Coupler ideal"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Hybrid <019Lum>`"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "current probe"
-msgstr ""
+msgstr "Sonda de Corrente"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Probe <021Lum>`"
@@ -308,7 +308,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "voltage probe"
-msgstr ""
+msgstr "Sonda de Tensão"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Mutual Inductors <022Lum>`"
@@ -390,7 +390,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "equation defined RF device"
-msgstr ""
+msgstr "Dispositivo de RF definido por equações"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined 2-port RF Device <028Lum>`"
@@ -402,7 +402,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "equation defined 2-port RF device"
-msgstr ""
+msgstr "Quadripolo de RF definido por equações"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Voltage Source <001Sou>`"
@@ -422,7 +422,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal dc voltage source"
-msgstr ""
+msgstr "Fonte Ideal de Tensão DC"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`dc Current Source <002Sou>`"
@@ -441,7 +441,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal dc current source"
-msgstr ""
+msgstr "Fonte de corrente AC ideal"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac Voltage Source <003Sou>`"
@@ -453,7 +453,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal ac voltage source"
-msgstr ""
+msgstr "Fonte Ideal de Tensão AC"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac Current Source <004Sou>`"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal ac current source"
-msgstr ""
+msgstr "Fonte de corrente AC ideal"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Power Source <005Sou>`"
@@ -477,7 +477,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ac power source"
-msgstr ""
+msgstr "Fonte de Potência AC"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Noise Voltage Source <006Sou>`"
@@ -489,7 +489,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "noise voltage source"
-msgstr ""
+msgstr "Fonte de Ruído em Tensão"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Noise Current Source <007Sou>`"
@@ -501,7 +501,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "noise current source"
-msgstr ""
+msgstr "Fonte ruído (corrente)"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Controlled Current Source <008Sou>`"
@@ -520,7 +520,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "voltage controlled current source"
-msgstr ""
+msgstr "Fonte de Corrente Controlada por Tensão"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Controlled Current Source <009Sou>`"
@@ -532,7 +532,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "current controlled current source"
-msgstr ""
+msgstr "Fonte de corrente controlada por corrente"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Controlled Voltage Source <010Sou>`"
@@ -544,7 +544,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "voltage controlled voltage source"
-msgstr ""
+msgstr "Fonte de Tensão Controlada por Tensão"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Controlled Voltage Source <011Sou>`"
@@ -556,7 +556,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "current controlled voltage source"
-msgstr ""
+msgstr "Fonte de tensão controlada por corrente"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Voltage Pulse <012Sou>`"
@@ -568,7 +568,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal voltage pulse source"
-msgstr ""
+msgstr "Fonte Ideal de um Pulso de Tensão"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Pulse <013Sou>`"
@@ -592,7 +592,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ideal rectangle voltage source"
-msgstr ""
+msgstr "Fonte Ideal de Tensão com formato rectangular"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangle Current <015Sou>`"
@@ -681,7 +681,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "exponential voltage source"
-msgstr ""
+msgstr "Fonte de Tensão Exponencial"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`File Based Voltage Source <023Sou>`"
@@ -693,7 +693,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "file based voltage source"
-msgstr ""
+msgstr "Fonte de Tensão Baseada em Ficheiro"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`File Based Current Source <024Sou>`"
@@ -705,7 +705,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "file based current source"
-msgstr ""
+msgstr "Fonte de Corrente Baseada em Ficheiro"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Current Probe <001Pro>`"
@@ -756,7 +756,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coupled transmission lines"
-msgstr ""
+msgstr "Linhas Acopladas"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Twisted-Pair <004Tra>`"
@@ -768,7 +768,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "twisted pair transmission line"
-msgstr ""
+msgstr "Linha de Transmissão de Par Entrançado"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coaxial Line <005Tra>`"
@@ -780,7 +780,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coaxial transmission line"
-msgstr ""
+msgstr "Linha de transmissão coaxial"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Rectangular Waveguide <006Tra>`"
@@ -792,7 +792,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Rectangular Waveguide"
-msgstr ""
+msgstr "Guia de Onda Rectangular"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`RLCG Transmission Line <007Tra>`"
@@ -804,7 +804,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "RLCG transmission line"
-msgstr ""
+msgstr "Linha de Transmissão RLCG"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Substrate <008Tra>`"
@@ -820,7 +820,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "substrate definition"
-msgstr ""
+msgstr "Substracto"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Line <009Tra>`"
@@ -841,7 +841,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip line"
-msgstr ""
+msgstr "Linha Microstrip"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coupled Microstrip Line <010Tra>`"
@@ -877,7 +877,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip corner"
-msgstr ""
+msgstr "Canto Microstrip"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Mitered Bend <013Tra>`"
@@ -925,7 +925,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "microstrip cross"
-msgstr ""
+msgstr "Cruz de Microstrip"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Microstrip Open <017Tra>`"
@@ -991,7 +991,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar line"
-msgstr ""
+msgstr "Linha coplanar"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Open <022Tra>`"
@@ -1003,7 +1003,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar open"
-msgstr ""
+msgstr "Circuito Aberto Coplanar"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Short <023Tra>`"
@@ -1015,7 +1015,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar short"
-msgstr ""
+msgstr "Curto-Circuito Coplanar"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Gap <024Tra>`"
@@ -1027,7 +1027,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar gap"
-msgstr ""
+msgstr "Separação coplanar"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Coplanar Step <025Tra>`"
@@ -1039,7 +1039,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "coplanar step"
-msgstr ""
+msgstr "Degrau Coplanar"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Bond Wire <026Tra>`"
@@ -1069,7 +1069,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "diode"
-msgstr ""
+msgstr "Díodo"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`npn transistor <002Non>`"
@@ -1098,7 +1098,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "bipolar junction transistor"
-msgstr ""
+msgstr "Transístor Bipolar"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`pnp transistor <003Non>`"
@@ -1194,7 +1194,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "operational amplifier"
-msgstr ""
+msgstr "Amplificador Operacional"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Equation Defined Device <015Non>`"
@@ -1206,7 +1206,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "equation defined device"
-msgstr ""
+msgstr "Dispositivo Definido por Equações"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Diac <016Non>`"
@@ -2104,7 +2104,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "VHDL file"
-msgstr ""
+msgstr "Ficheiro VHDL"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Verilog file <043Dig>`"
@@ -2116,7 +2116,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Verilog file"
-msgstr ""
+msgstr "Ficheiro Verilog"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`digital simulation <044Dig>`"
@@ -2132,7 +2132,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
 msgid "digital simulation"
-msgstr ""
+msgstr "Simulação Digital"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`SPICE netlist <001Fil>`"
@@ -2198,7 +2198,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "dc simulation"
-msgstr ""
+msgstr "Simulação DC"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Transient simulation <002Sim>`"
@@ -2214,7 +2214,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "transient simulation"
-msgstr ""
+msgstr "Simulação de Transiente"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`ac simulation <003Sim>`"
@@ -2230,7 +2230,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "ac simulation"
-msgstr ""
+msgstr "Simulação AC"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`S-parameter simulation <004Sim>`"
@@ -2246,7 +2246,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "S parameter simulation"
-msgstr ""
+msgstr "Simulação de Parâmetros-S"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Harmonic balance <005Sim>`"
@@ -2262,7 +2262,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Harmonic balance simulation"
-msgstr ""
+msgstr "Equilíbrio Harmónico"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`Parameter sweep <006Sim>`"
@@ -2278,7 +2278,7 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Parameter sweep"
-msgstr ""
+msgstr "Varrer Parâmetro"
 
 #: ../../source/quick_reference.rst:1
 msgid ":ref:`digital simulation <007Sim>`"
@@ -2298,4 +2298,4 @@ msgstr ""
 
 #: ../../source/quick_reference.rst:1
 msgid "Optimization"
-msgstr ""
+msgstr "Optimização"

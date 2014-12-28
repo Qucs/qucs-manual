@@ -22,7 +22,7 @@ msgstr ""
 #: ../../source/component_reference.rst:19
 #: ../../source/component_reference.rst:1
 msgid "Resistor"
-msgstr ""
+msgstr "Direnç (EU)"
 
 #: ../../source/component_reference.rst:22
 #: ../../source/component_reference.rst:1
@@ -1147,7 +1147,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Value"
-msgstr ""
+msgstr "Değer"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -1700,13 +1700,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Description"
-msgstr ""
+msgstr "Açıklama"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "resistor"
-msgstr ""
+msgstr "direnç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -2306,7 +2306,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Type"
-msgstr ""
+msgstr "Çeşit"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -2821,7 +2821,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Properties"
-msgstr ""
+msgstr "Özellikler"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -3267,7 +3267,7 @@ msgstr ""
 #: ../../source/component_reference.rst:11298
 #: ../../source/component_reference.rst:11340
 msgid "Component Parameters"
-msgstr ""
+msgstr "Bileşen Değişkenleri"
 
 #: ../../source/component_reference.rst:0
 #: ../../source/component_reference.rst:0
@@ -3631,7 +3631,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Name"
-msgstr ""
+msgstr "İsim"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -3820,7 +3820,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -4090,12 +4090,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "yes"
-msgstr ""
+msgstr "evet"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ohmic resistance in Ohms"
-msgstr ""
+msgstr "Ohm cinsinden omik direnç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -8186,7 +8186,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "no"
-msgstr ""
+msgstr "hayır"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -8224,7 +8224,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "simulation temperature in degree Celsius"
-msgstr ""
+msgstr "Santigrad cinsinden benzetim sıcaklığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9733,7 +9733,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "first order temperature coefficient"
-msgstr ""
+msgstr "birinci derece sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9743,7 +9743,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "second order temperature coefficient"
-msgstr ""
+msgstr "ikinci derece sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9781,7 +9781,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "temperature at which parameters were extracted"
-msgstr ""
+msgstr "değişkenlerin elde edildiği sıcaklık"
 
 #: ../../source/component_reference.rst:1
 msgid "european"
@@ -9798,7 +9798,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Resistor US"
-msgstr ""
+msgstr "Direnç (TR)"
 
 #: ../../source/component_reference.rst:1
 msgid "resistor_us"
@@ -9811,12 +9811,12 @@ msgstr ""
 #: ../../source/component_reference.rst:109
 #: ../../source/component_reference.rst:1
 msgid "Capacitor"
-msgstr ""
+msgstr "Sığa"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "capacitor"
-msgstr ""
+msgstr "sığa"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9855,7 +9855,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: ../../source/component_reference.rst:1
 msgid "1 pF"
@@ -9863,7 +9863,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "capacitance in Farad"
-msgstr ""
+msgstr "Farad cinsinden sığa"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -9876,11 +9876,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #: ../../source/component_reference.rst:1
 msgid "initial voltage for transient simulation"
-msgstr ""
+msgstr "Kalımsız benzetim için ilk gerilim degeri"
 
 #: ../../source/component_reference.rst:1
 msgid "neutral"
@@ -9893,12 +9893,12 @@ msgstr ""
 #: ../../source/component_reference.rst:151
 #: ../../source/component_reference.rst:1
 msgid "Inductor"
-msgstr ""
+msgstr "Sargı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "inductor"
-msgstr ""
+msgstr "sargı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10006,27 +10006,27 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "inductance in Henry"
-msgstr ""
+msgstr "Henry cinsinden sargı etkisi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "I"
-msgstr ""
+msgstr "I"
 
 #: ../../source/component_reference.rst:1
 msgid "initial current for transient simulation"
-msgstr ""
+msgstr "Kalımsız benzetim için ilk akım degeri"
 
 #: ../../source/component_reference.rst:192
 #: ../../source/component_reference.rst:1
 msgid "Ground"
-msgstr ""
+msgstr "Toprak"
 
 #: ../../source/component_reference.rst:1
 msgid "ground (reference potential)"
-msgstr ""
+msgstr "toprak (referans gerilimi)"
 
 #: ../../source/component_reference.rst:1
 msgid "``GND``"
@@ -10072,7 +10072,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Component"
-msgstr ""
+msgstr "Bileşen"
 
 #: ../../source/component_reference.rst:1
 msgid "gnd"
@@ -10278,11 +10278,11 @@ msgstr ""
 #: ../../source/component_reference.rst:223
 #: ../../source/component_reference.rst:1
 msgid "Subcircuit Port"
-msgstr ""
+msgstr "Alt-devre Ucu"
 
 #: ../../source/component_reference.rst:1
 msgid "port of a subcircuit"
-msgstr ""
+msgstr "bir alt-devre ucu (port/ayak)"
 
 #: ../../source/component_reference.rst:1
 msgid "``Port``"
@@ -10418,11 +10418,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/component_reference.rst:1
 msgid "number of the port within the subcircuit"
-msgstr ""
+msgstr "alt-devredeki ucun (ayak/port) numarası"
 
 #: ../../source/component_reference.rst:1
 msgid "analog"
@@ -10436,11 +10436,11 @@ msgstr ""
 #: ../../source/component_reference.rst:264
 #: ../../source/component_reference.rst:1
 msgid "Transformer"
-msgstr ""
+msgstr "Dönüştürücü (transformatör)"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal transformer"
-msgstr ""
+msgstr "fikirsel dönüştürücü (transformatör)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10464,11 +10464,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #: ../../source/component_reference.rst:1
 msgid "voltage transformation ratio"
-msgstr ""
+msgstr "gerilim dönüşüm oranı"
 
 #: ../../source/component_reference.rst:304
 msgid "Symmetric Transformer"
@@ -10476,11 +10476,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "symmetric Transformer"
-msgstr ""
+msgstr "benzeşimli dönüştürücü (transformatör)"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal symmetrical transformer"
-msgstr ""
+msgstr "fikirsel benzeşimli dönüştürücü (transformatör)"
 
 #: ../../source/component_reference.rst:1
 msgid "``sTr``"
@@ -10500,7 +10500,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage transformation ratio of coil 1"
-msgstr ""
+msgstr "1. sargının gerilim dönüşüm oranı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10512,7 +10512,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage transformation ratio of coil 2"
-msgstr ""
+msgstr "2. sargının gerilim dönüşüm oranı"
 
 #: ../../source/component_reference.rst:345
 msgid "Dc Block"
@@ -10520,11 +10520,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dc Block"
-msgstr ""
+msgstr "dc Kalıp"
 
 #: ../../source/component_reference.rst:1
 msgid "dc block"
-msgstr ""
+msgstr "dc kalıp"
 
 #: ../../source/component_reference.rst:1
 msgid "``DCBlock``"
@@ -10542,7 +10542,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "for transient simulation: capacitance in Farad"
-msgstr ""
+msgstr "kalımsız benzetim için: Farad cinsinden sığa"
 
 #: ../../source/component_reference.rst:385
 msgid "Dc Feed"
@@ -10550,11 +10550,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dc Feed"
-msgstr ""
+msgstr "dc Besleme"
 
 #: ../../source/component_reference.rst:1
 msgid "dc feed"
-msgstr ""
+msgstr "dc besleme"
 
 #: ../../source/component_reference.rst:1
 msgid "``DCFeed``"
@@ -10572,16 +10572,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "for transient simulation: inductance in Henry"
-msgstr ""
+msgstr "kalımsız benzetim için: Henri cinsinden sargı etkisi"
 
 #: ../../source/component_reference.rst:425
 #: ../../source/component_reference.rst:1
 msgid "Bias T"
-msgstr ""
+msgstr "Kutuplama T"
 
 #: ../../source/component_reference.rst:1
 msgid "bias t"
-msgstr ""
+msgstr "kutuplama t"
 
 #: ../../source/component_reference.rst:1
 msgid "``BiasT``"
@@ -10612,12 +10612,12 @@ msgstr ""
 #: ../../source/component_reference.rst:466
 #: ../../source/component_reference.rst:1
 msgid "Attenuator"
-msgstr ""
+msgstr "Zayıflatıcı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "attenuator"
-msgstr ""
+msgstr "zayıflatıcı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Attenuator``"
@@ -10629,7 +10629,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "power attenuation"
-msgstr ""
+msgstr "güç zayıflaması"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10644,16 +10644,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reference impedance"
-msgstr ""
+msgstr "referans sanal direnci"
 
 #: ../../source/component_reference.rst:508
 #: ../../source/component_reference.rst:1
 msgid "Amplifier"
-msgstr ""
+msgstr "Yükselteç"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal amplifier"
-msgstr ""
+msgstr "fikirsel yükselteç"
 
 #: ../../source/component_reference.rst:1
 msgid "``Amp``"
@@ -10725,7 +10725,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage gain"
-msgstr ""
+msgstr "gerilim kazancı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10736,7 +10736,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of input port"
-msgstr ""
+msgstr "giriş ucu referans empedansı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10747,7 +10747,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of output port"
-msgstr ""
+msgstr "çıkış ucu referans empedansı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10770,12 +10770,12 @@ msgstr ""
 #: ../../source/component_reference.rst:551
 #: ../../source/component_reference.rst:1
 msgid "Isolator"
-msgstr ""
+msgstr "Yalıtkan"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "isolator"
-msgstr ""
+msgstr "yalıtkan"
 
 #: ../../source/component_reference.rst:1
 msgid "``Isolator``"
@@ -10784,12 +10784,12 @@ msgstr ""
 #: ../../source/component_reference.rst:593
 #: ../../source/component_reference.rst:1
 msgid "Circulator"
-msgstr ""
+msgstr "Devrettirici"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "circulator"
-msgstr ""
+msgstr "devrettirici"
 
 #: ../../source/component_reference.rst:1
 msgid "``Circulator``"
@@ -10797,11 +10797,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of port 1"
-msgstr ""
+msgstr "1. ucun sanal direnci"
 
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of port 2"
-msgstr ""
+msgstr "2. ucun sanal direnci"
 
 #: ../../source/component_reference.rst:1
 msgid "Z3"
@@ -10809,16 +10809,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "reference impedance of port 3"
-msgstr ""
+msgstr "3. ucun sanal direnci"
 
 #: ../../source/component_reference.rst:635
 #: ../../source/component_reference.rst:1
 msgid "Gyrator"
-msgstr ""
+msgstr "Jiratör"
 
 #: ../../source/component_reference.rst:1
 msgid "gyrator (impedance inverter)"
-msgstr ""
+msgstr "jiratör (sanal direnç değilleyici)"
 
 #: ../../source/component_reference.rst:1
 msgid "``Gyrator``"
@@ -10830,16 +10830,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "gyrator ratio"
-msgstr ""
+msgstr "jiratör oranı"
 
 #: ../../source/component_reference.rst:676
 #: ../../source/component_reference.rst:1
 msgid "Phase Shifter"
-msgstr ""
+msgstr "Açı Kaydırıcı"
 
 #: ../../source/component_reference.rst:1
 msgid "phase shifter"
-msgstr ""
+msgstr "açı kaydırıcı"
 
 #: ../../source/component_reference.rst:1
 msgid "``PShift``"
@@ -10864,16 +10864,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "phase shift in degree"
-msgstr ""
+msgstr "derece cinsinden açı kayması"
 
 #: ../../source/component_reference.rst:717
 #: ../../source/component_reference.rst:1
 msgid "Coupler"
-msgstr ""
+msgstr "Çiftleyici (Kuplör)"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal coupler"
-msgstr ""
+msgstr "fikirsel çiftleyici (kuplör)"
 
 #: ../../source/component_reference.rst:1
 msgid "``Coupler``"
@@ -10894,7 +10894,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "coupling factor"
-msgstr ""
+msgstr "çiftlenim faktörü"
 
 #: ../../source/component_reference.rst:1
 msgid "180"
@@ -10902,7 +10902,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "phase shift of coupling path in degree"
-msgstr ""
+msgstr "derece cinsinden, çiftlenim yolunun açı kayması"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10933,12 +10933,12 @@ msgstr ""
 #: ../../source/component_reference.rst:2224
 #: ../../source/component_reference.rst:1
 msgid "Current Probe"
-msgstr ""
+msgstr "Akım Algılama Ucu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "current probe"
-msgstr ""
+msgstr "akım algılama ucu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10962,12 +10962,12 @@ msgstr ""
 #: ../../source/component_reference.rst:2255
 #: ../../source/component_reference.rst:1
 msgid "Voltage Probe"
-msgstr ""
+msgstr "Gerilim algılayıcı uç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage probe"
-msgstr ""
+msgstr "gerilim algılayıcı uç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -10982,11 +10982,11 @@ msgstr ""
 #: ../../source/component_reference.rst:862
 #: ../../source/component_reference.rst:1
 msgid "Mutual Inductors"
-msgstr ""
+msgstr "Karşılıklı Sargılar"
 
 #: ../../source/component_reference.rst:1
 msgid "two mutual inductors"
-msgstr ""
+msgstr "karşılıklı iki sargı"
 
 #: ../../source/component_reference.rst:1
 msgid "``MUT``"
@@ -11018,7 +11018,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "inductance of coil 1"
-msgstr ""
+msgstr "sargı 1' in dogusturu etkisi (endüktans)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11030,7 +11030,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "inductance of coil 2"
-msgstr ""
+msgstr "sargı 2' nin dogusturu etkisi (endüktansı)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11072,16 +11072,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "coupling factor between coil 1 and 2"
-msgstr ""
+msgstr "sargı 1 ve 2 arasındaki çiftlenim çarpanı"
 
 #: ../../source/component_reference.rst:904
 #: ../../source/component_reference.rst:1
 msgid "3 Mutual Inductors"
-msgstr ""
+msgstr "3 Karşılıklı Sargılar"
 
 #: ../../source/component_reference.rst:1
 msgid "three mutual inductors"
-msgstr ""
+msgstr "karşılıklı üç sargı"
 
 #: ../../source/component_reference.rst:1
 msgid "``MUT2``"
@@ -11099,7 +11099,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "inductance of coil 3"
-msgstr ""
+msgstr "sargı 3' ün dogusturu etkisi (endüktansı)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11113,7 +11113,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "coupling factor between coil 1 and 3"
-msgstr ""
+msgstr "sargı 1 ve 3 arasındaki çiftlenim çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11122,7 +11122,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "coupling factor between coil 2 and 3"
-msgstr ""
+msgstr "sargı 2 ve 3 arasındaki çiftlenim çarpanı"
 
 #: ../../source/component_reference.rst:949
 #: ../../source/component_reference.rst:1
@@ -11202,11 +11202,11 @@ msgstr ""
 #: ../../source/component_reference.rst:999
 #: ../../source/component_reference.rst:1
 msgid "Switch"
-msgstr ""
+msgstr "Anahtar"
 
 #: ../../source/component_reference.rst:1
 msgid "switch (time controlled)"
-msgstr ""
+msgstr "anahtar (zaman denetimli)"
 
 #: ../../source/component_reference.rst:1
 msgid "``Switch``"
@@ -11269,7 +11269,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "resistance of \"on\" state in ohms"
-msgstr ""
+msgstr "\"açık\" durumunun ohm cinsinden direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11283,7 +11283,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "resistance of \"off\" state in ohms"
-msgstr ""
+msgstr "\"kapalı\" durumunun ohm cinsinden direnci"
 
 #: ../../source/component_reference.rst:1
 msgid "MaxDuration"
@@ -11316,11 +11316,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1044
 #: ../../source/component_reference.rst:1
 msgid "Relay"
-msgstr ""
+msgstr "Gecikme"
 
 #: ../../source/component_reference.rst:1
 msgid "relay"
-msgstr ""
+msgstr "gecikme"
 
 #: ../../source/component_reference.rst:1
 msgid "``Relais``"
@@ -11368,7 +11368,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "threshold voltage in Volts"
-msgstr ""
+msgstr "Volt cinsinden eşik gerilimi"
 
 #: ../../source/component_reference.rst:1
 msgid "Vh"
@@ -11380,15 +11380,15 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "hysteresis voltage in Volts"
-msgstr ""
+msgstr "Volt cinsinden gecikme gerilimi"
 
 #: ../../source/component_reference.rst:1
 msgid "resistance of \"on\" state in Ohms"
-msgstr ""
+msgstr "\"açık\" durumunun Ohm cinsinden direnci"
 
 #: ../../source/component_reference.rst:1
 msgid "resistance of \"off\" state in Ohms"
-msgstr ""
+msgstr "\"kapalı\" durumunun Ohm cinsinden direnci"
 
 #: ../../source/component_reference.rst:1088
 msgid "Equation Defined Rf Device"
@@ -11396,11 +11396,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Equation Defined RF Device"
-msgstr ""
+msgstr "Eşitlikle Tanımlanmış RF Devre Elemanı"
 
 #: ../../source/component_reference.rst:1
 msgid "equation defined RF device"
-msgstr ""
+msgstr "eşitlikle tanımlanmış RF devre elemanı"
 
 #: ../../source/component_reference.rst:1
 msgid "``RFEDD``"
@@ -11445,7 +11445,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of ports"
-msgstr ""
+msgstr "giriş/çıkış uç sayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11515,11 +11515,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Equation Defined 2-port RF Device"
-msgstr ""
+msgstr "Eşitlikle Tanımlanmış 2-Uçlu RF Devre Elemanı"
 
 #: ../../source/component_reference.rst:1
 msgid "equation defined 2-port RF device"
-msgstr ""
+msgstr "eşitlikle tanımlanmış 2-uçlu RF devre elemanı"
 
 #: ../../source/component_reference.rst:1
 msgid "``RFEDD2P``"
@@ -11539,11 +11539,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dc Voltage Source"
-msgstr ""
+msgstr "dc Gerilim Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal dc voltage source"
-msgstr ""
+msgstr "fikirsel dc gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vdc``"
@@ -11621,7 +11621,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage in Volts"
-msgstr ""
+msgstr "Volt cinsinden gerilim"
 
 #: ../../source/component_reference.rst:1222
 msgid "Dc Current Source"
@@ -11629,11 +11629,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dc Current Source"
-msgstr ""
+msgstr "dc Akım Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal dc current source"
-msgstr ""
+msgstr "fikirsel dc akım kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Idc``"
@@ -11662,7 +11662,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current in Ampere"
-msgstr ""
+msgstr "Amper cinsinden akım"
 
 #: ../../source/component_reference.rst:1262
 msgid "Ac Voltage Source"
@@ -11670,11 +11670,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "ac Voltage Source"
-msgstr ""
+msgstr "ac Gerilim Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal ac voltage source"
-msgstr ""
+msgstr "fikirsel ac gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vac``"
@@ -11688,7 +11688,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "peak voltage in Volts"
-msgstr ""
+msgstr "Volt cinsinden en yüksek gerilim değeri"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11717,7 +11717,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "frequency in Hertz"
-msgstr ""
+msgstr "Hertz cinsinden sıklık"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11731,7 +11731,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "initial phase in degrees"
-msgstr ""
+msgstr "derece cinsinden başlangıç açısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11744,7 +11744,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "damping factor (transient simulation only)"
-msgstr ""
+msgstr "sönüm çarpanı (sadece kalımsız benzetim)"
 
 #: ../../source/component_reference.rst:1305
 msgid "Ac Current Source"
@@ -11752,11 +11752,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "ac Current Source"
-msgstr ""
+msgstr "ac Akım Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal ac current source"
-msgstr ""
+msgstr "ideal ac akım kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Iac``"
@@ -11768,16 +11768,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "peak current in Ampere"
-msgstr ""
+msgstr "Amper cinsinden en yüksek akım değeri"
 
 #: ../../source/component_reference.rst:1348
 #: ../../source/component_reference.rst:1
 msgid "Power Source"
-msgstr ""
+msgstr "Güç Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "ac power source"
-msgstr ""
+msgstr "ac güç kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Pac``"
@@ -11790,11 +11790,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of the port"
-msgstr ""
+msgstr "uç numarası"
 
 #: ../../source/component_reference.rst:1
 msgid "port impedance"
-msgstr ""
+msgstr "port/ayak/uç sanal direnci"
 
 #: ../../source/component_reference.rst:1
 msgid "P"
@@ -11806,16 +11806,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "(available) ac power in Watts"
-msgstr ""
+msgstr "(Olanaklı) AC güç, W"
 
 #: ../../source/component_reference.rst:1392
 #: ../../source/component_reference.rst:1
 msgid "Noise Voltage Source"
-msgstr ""
+msgstr "Gürültü Gerilim Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "noise voltage source"
-msgstr ""
+msgstr "gürültü gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vnoise``"
@@ -11831,7 +11831,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage power spectral density in V^2/Hz"
-msgstr ""
+msgstr "V^2/Hz cinsinden gerilim gücü yelpaze yoğunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11847,7 +11847,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "frequency exponent"
-msgstr ""
+msgstr "sıklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11863,7 +11863,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "frequency coefficient"
-msgstr ""
+msgstr "sıklık sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11880,16 +11880,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "additive frequency term"
-msgstr ""
+msgstr "eklenecek sıklık terimi"
 
 #: ../../source/component_reference.rst:1435
 #: ../../source/component_reference.rst:1
 msgid "Noise Current Source"
-msgstr ""
+msgstr "Gürültü Akım Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "noise current source"
-msgstr ""
+msgstr "gürültü akım kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Inoise``"
@@ -11905,16 +11905,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current power spectral density in A^2/Hz"
-msgstr ""
+msgstr "akım gücü yelpaze yoğunluğu A^2/Hz"
 
 #: ../../source/component_reference.rst:1478
 #: ../../source/component_reference.rst:1
 msgid "Voltage Controlled Current Source"
-msgstr ""
+msgstr "Gerilim Denetimli Akım Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "voltage controlled current source"
-msgstr ""
+msgstr "gerilim denetimli akım kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``VCCS``"
@@ -11940,7 +11940,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "forward transconductance"
-msgstr ""
+msgstr "ileri tersiletkenlik"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -11960,16 +11960,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "delay time"
-msgstr ""
+msgstr "gecikme zamanı"
 
 #: ../../source/component_reference.rst:1519
 #: ../../source/component_reference.rst:1
 msgid "Current Controlled Current Source"
-msgstr ""
+msgstr "Akım Denetimli Akım Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "current controlled current source"
-msgstr ""
+msgstr "akımla denetlenen akım kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``CCCS``"
@@ -11983,17 +11983,17 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward transfer factor"
-msgstr ""
+msgstr "düz geçirme çarpanı"
 
 #: ../../source/component_reference.rst:1560
 #: ../../source/component_reference.rst:1
 msgid "Voltage Controlled Voltage Source"
-msgstr ""
+msgstr "Gerilim Denetimli Gerilim Kaynağı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage controlled voltage source"
-msgstr ""
+msgstr "gerilim denetimli gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``VCVS``"
@@ -12006,11 +12006,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1601
 #: ../../source/component_reference.rst:1
 msgid "Current Controlled Voltage Source"
-msgstr ""
+msgstr "Akım Denetimli Gerilim Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "current controlled voltage source"
-msgstr ""
+msgstr "akım denetimli gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``CCVS``"
@@ -12027,11 +12027,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1642
 #: ../../source/component_reference.rst:1
 msgid "Voltage Pulse"
-msgstr ""
+msgstr "Gerilim Atkısı"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal voltage pulse source"
-msgstr ""
+msgstr "fikirsel gerilim atkı kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vpulse``"
@@ -12053,7 +12053,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage before and after the pulse"
-msgstr ""
+msgstr "atkıdan önceki ve sonraki gerilim"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12062,17 +12062,17 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage of the pulse"
-msgstr ""
+msgstr "atkının gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "start time of the pulse"
-msgstr ""
+msgstr "atkı başlangıç zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ending time of the pulse"
-msgstr ""
+msgstr "atkının bitiş zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12134,7 +12134,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "rise time of the leading edge"
-msgstr ""
+msgstr "ilk köşenin yükselme zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12156,16 +12156,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "fall time of the trailing edge"
-msgstr ""
+msgstr "son köşenin düşme zamanı"
 
 #: ../../source/component_reference.rst:1687
 #: ../../source/component_reference.rst:1
 msgid "Current Pulse"
-msgstr ""
+msgstr "Akım Atkısı"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal current pulse source"
-msgstr ""
+msgstr "fikirsel akım atkı kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Ipulse``"
@@ -12183,7 +12183,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current before and after the pulse"
-msgstr ""
+msgstr "atkıdan önce ve sonraki akım"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12197,16 +12197,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current of the pulse"
-msgstr ""
+msgstr "atkının akımı"
 
 #: ../../source/component_reference.rst:1732
 #: ../../source/component_reference.rst:1
 msgid "Rectangle Voltage"
-msgstr ""
+msgstr "Kare Dalga Gerilim"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal rectangle voltage source"
-msgstr ""
+msgstr "fikirsel kare gerilim üreteci"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vrect``"
@@ -12218,7 +12218,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage of high signal"
-msgstr ""
+msgstr "yüksek seviyenin gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12228,7 +12228,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "duration of high pulses"
-msgstr ""
+msgstr "yüksek atkıların süresi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12238,7 +12238,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "duration of low pulses"
-msgstr ""
+msgstr "düşük atkıların süresi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12253,16 +12253,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "initial delay time"
-msgstr ""
+msgstr "başlangıç gecikme zamanı"
 
 #: ../../source/component_reference.rst:1777
 #: ../../source/component_reference.rst:1
 msgid "Rectangle Current"
-msgstr ""
+msgstr "Kare Akım"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal rectangle current source"
-msgstr ""
+msgstr "fikirsel kare akım kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Irect``"
@@ -12274,7 +12274,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current at high pulse"
-msgstr ""
+msgstr "yüksek atkının akımı"
 
 #: ../../source/component_reference.rst:1822
 #: ../../source/component_reference.rst:1
@@ -12283,13 +12283,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1912
 #: ../../source/component_reference.rst:1
 msgid "Correlated Noise Sources"
-msgstr ""
+msgstr "Bağlantılı/ilişkili Gürültü Kaynakları"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "correlated current sources"
-msgstr ""
+msgstr "Bağlantılı/ilişkili akım kaynakları"
 
 #: ../../source/component_reference.rst:1
 msgid "``IInoise``"
@@ -12307,7 +12307,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "current power spectral density of source 1"
-msgstr ""
+msgstr "1. kaynağın akım gücü yelpaze yoğunluğu"
 
 #: ../../source/component_reference.rst:1
 msgid "i2"
@@ -12315,7 +12315,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current power spectral density of source 2"
-msgstr ""
+msgstr "2. kaynağın akım gücü yelpaze yoğunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12409,7 +12409,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "normalized correlation coefficient"
-msgstr ""
+msgstr "düzgeleme (normalize) ilişki sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "``VVnoise``"
@@ -12425,7 +12425,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage power spectral density of source 1"
-msgstr ""
+msgstr "kaynak 1 deki gerilim gücü yelpaze yoğunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12435,7 +12435,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage power spectral density of source 2"
-msgstr ""
+msgstr "kaynak 2 deki gerilim gücü yelpaze yoğunluğu"
 
 #: ../../source/component_reference.rst:1
 msgid "``IVnoise``"
@@ -12451,11 +12451,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "AM modulated Source"
-msgstr ""
+msgstr "Genlik degisimli (modülasyonlu) Kaynak"
 
 #: ../../source/component_reference.rst:1
 msgid "ac voltage source with amplitude modulator"
-msgstr ""
+msgstr "genlik değişimli gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``AM_Mod``"
@@ -12787,7 +12787,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "modulation level"
-msgstr ""
+msgstr "degisim (modülasyon) seviyesi"
 
 #: ../../source/component_reference.rst:2000
 msgid "Pm Modulated Source"
@@ -12795,11 +12795,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "PM modulated Source"
-msgstr ""
+msgstr "Açı degisimli Kaynak"
 
 #: ../../source/component_reference.rst:1
 msgid "ac voltage source with phase modulator"
-msgstr ""
+msgstr "Açı değiştiricili değişken gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``PM_Mod``"
@@ -12824,16 +12824,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "modulation index"
-msgstr ""
+msgstr "değişim (modülasyon) indisi"
 
 #: ../../source/component_reference.rst:2043
 #: ../../source/component_reference.rst:1
 msgid "Exponential Current Pulse"
-msgstr ""
+msgstr "Üstel Akım Atma' sı"
 
 #: ../../source/component_reference.rst:1
 msgid "exponential current source"
-msgstr ""
+msgstr "üstel akım kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Iexp``"
@@ -12845,38 +12845,38 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current before rising edge"
-msgstr ""
+msgstr "yükselen köşeden önceki akım"
 
 #: ../../source/component_reference.rst:1
 msgid "maximum current of the pulse"
-msgstr ""
+msgstr "atma' nın en yüksek akım değeri"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "start time of the exponentially rising edge"
-msgstr ""
+msgstr "üstel olarak yükselen köşenin başlangıç zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "start of exponential decay"
-msgstr ""
+msgstr "üstel düşüşün başlangıcı"
 
 #: ../../source/component_reference.rst:1
 msgid "time constant of the rising edge"
-msgstr ""
+msgstr "yükselen köşenin zaman sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "time constant of the falling edge"
-msgstr ""
+msgstr "düşen köşenin zaman sabiti"
 
 #: ../../source/component_reference.rst:2088
 #: ../../source/component_reference.rst:1
 msgid "Exponential Voltage Pulse"
-msgstr ""
+msgstr "Üstel Gerilim Atma' sı"
 
 #: ../../source/component_reference.rst:1
 msgid "exponential voltage source"
-msgstr ""
+msgstr "üstel gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vexp``"
@@ -12888,28 +12888,28 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "voltage before rising edge"
-msgstr ""
+msgstr "yükselen köşeden önceki gerilim"
 
 #: ../../source/component_reference.rst:1
 msgid "maximum voltage of the pulse"
-msgstr ""
+msgstr "atma' nın en yüksek gerilimi"
 
 #: ../../source/component_reference.rst:1
 msgid "rise time of the rising edge"
-msgstr ""
+msgstr "yükselen köşenin yükselme zamanı"
 
 #: ../../source/component_reference.rst:1
 msgid "fall time of the falling edge"
-msgstr ""
+msgstr "düşen köşenin düşme zamanı"
 
 #: ../../source/component_reference.rst:2133
 #: ../../source/component_reference.rst:1
 msgid "File Based Voltage Source"
-msgstr ""
+msgstr "Kütüğe Dayalı Gerilim Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "file based voltage source"
-msgstr ""
+msgstr "kütüğe dayalı gerilim kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Vfile``"
@@ -12938,7 +12938,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "name of the sample file"
-msgstr ""
+msgstr "örnek kütüğünün ismi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12954,7 +12954,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "linear"
-msgstr ""
+msgstr "doğrusal"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -12974,11 +12974,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2177
 #: ../../source/component_reference.rst:1
 msgid "File Based Current Source"
-msgstr ""
+msgstr "Kütüğe Dayalı Akım Kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "file based current source"
-msgstr ""
+msgstr "kütüğe dayalı akım kaynağı"
 
 #: ../../source/component_reference.rst:1
 msgid "``Ifile``"
@@ -12994,7 +12994,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current gain"
-msgstr ""
+msgstr "akım kazancı"
 
 #: ../../source/component_reference.rst:2218
 msgid "Probes"
@@ -13012,11 +13012,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2289
 #: ../../source/component_reference.rst:1
 msgid "Transmission Line"
-msgstr ""
+msgstr "İletim Hattı"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal transmission line"
-msgstr ""
+msgstr "fikirsel iletim hattı"
 
 #: ../../source/component_reference.rst:1
 msgid "``TLIN``"
@@ -13069,7 +13069,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "characteristic impedance"
-msgstr ""
+msgstr "kendine has (karakteristik) özdirenç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13111,7 +13111,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "electrical length of the line"
-msgstr ""
+msgstr "hattın elektriksel uzunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13122,16 +13122,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "attenuation factor per length in 1/m"
-msgstr ""
+msgstr "1/m cinsinden uzunluk başına zayıflama katsayısı"
 
 #: ../../source/component_reference.rst:2332
 #: ../../source/component_reference.rst:1
 msgid "4-Terminal Transmission Line"
-msgstr ""
+msgstr "4-Uçlu İletim Hattı"
 
 #: ../../source/component_reference.rst:1
 msgid "ideal 4-terminal transmission line"
-msgstr ""
+msgstr "mükemmel 4-uçlu iletim hattı"
 
 #: ../../source/component_reference.rst:1
 msgid "``TLIN4P``"
@@ -13219,11 +13219,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2422
 #: ../../source/component_reference.rst:1
 msgid "Twisted-Pair"
-msgstr ""
+msgstr "Burgulu-Çift"
 
 #: ../../source/component_reference.rst:1
 msgid "twisted pair transmission line"
-msgstr ""
+msgstr "burgulu çift iletim hattı"
 
 #: ../../source/component_reference.rst:1
 msgid "``TWIST``"
@@ -13252,7 +13252,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "diameter of conductor"
-msgstr ""
+msgstr "iletkenin çapı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13268,7 +13268,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "diameter of wire (conductor and insulator)"
-msgstr ""
+msgstr "tel çapı (iletken ve yalıtkan)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13281,7 +13281,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "physical length of the line"
-msgstr ""
+msgstr "hattın fiziksel uzunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13338,7 +13338,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "twists per length in 1/m"
-msgstr ""
+msgstr "uzunluk başına burgu, 1/m"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13349,7 +13349,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "dielectric constant of insulator"
-msgstr ""
+msgstr "yalıtkanın dielektrik katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13362,7 +13362,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "relative permeability of conductor"
-msgstr ""
+msgstr "sığanın göreceli geçirgenliği"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13384,7 +13384,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "specific resistance of conductor"
-msgstr ""
+msgstr "sığanın özdirenci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13404,16 +13404,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "loss tangent"
-msgstr ""
+msgstr "loss tangent"
 
 #: ../../source/component_reference.rst:2470
 #: ../../source/component_reference.rst:1
 msgid "Coaxial Line"
-msgstr ""
+msgstr "Eşeksenli Hat"
 
 #: ../../source/component_reference.rst:1
 msgid "coaxial transmission line"
-msgstr ""
+msgstr "eşeksenli iletim hattı"
 
 #: ../../source/component_reference.rst:1
 msgid "``COAX``"
@@ -13430,7 +13430,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "relative permittivity of dielectric"
-msgstr ""
+msgstr "dielektriğin göreceli geçirgenliği"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13439,7 +13439,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "inner diameter of shield"
-msgstr ""
+msgstr "kalkanın iç çapı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13448,7 +13448,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "diameter of inner conductor"
-msgstr ""
+msgstr "içteki iletkenin çapı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13458,13 +13458,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "mechanical length of the line"
-msgstr ""
+msgstr "hattın mekanik uzunluğu"
 
 #: ../../source/component_reference.rst:2517
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Rectangular Waveguide"
-msgstr ""
+msgstr "Dikdörtgen Dalga Kılavuzu"
 
 #: ../../source/component_reference.rst:1
 msgid "``RECTLINE``"
@@ -13547,16 +13547,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Length"
-msgstr ""
+msgstr "Uzunluk"
 
 #: ../../source/component_reference.rst:2610
 #: ../../source/component_reference.rst:1
 msgid "Substrate"
-msgstr ""
+msgstr "Substrat (alt tabaka)"
 
 #: ../../source/component_reference.rst:1
 msgid "substrate definition"
-msgstr ""
+msgstr "substrat (alt tabaka) tanımlaması"
 
 #: ../../source/component_reference.rst:1
 msgid "``SUBST``"
@@ -13575,7 +13575,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "substrate"
-msgstr ""
+msgstr "substrat (alt tabaka)"
 
 #: ../../source/component_reference.rst:1
 msgid "9.8"
@@ -13583,7 +13583,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "relative permittivity"
-msgstr ""
+msgstr "göreli geçirgenlik"
 
 #: ../../source/component_reference.rst:1
 msgid "h"
@@ -13591,7 +13591,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "thickness in meters"
-msgstr ""
+msgstr "metre cinsinden kalınlık"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13614,7 +13614,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "thickness of metalization"
-msgstr ""
+msgstr "metalleme kalınlığı"
 
 #: ../../source/component_reference.rst:1
 msgid "2e-4"
@@ -13622,7 +13622,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "specific resistance of metal"
-msgstr ""
+msgstr "metalin özdirenci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13634,16 +13634,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "rms substrate roughness"
-msgstr ""
+msgstr "rms alttabaka kabalığı/pürüzlülügü"
 
 #: ../../source/component_reference.rst:2655
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Line"
-msgstr ""
+msgstr "Mikrostrip Tel"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip line"
-msgstr ""
+msgstr "mikrostrip hat"
 
 #: ../../source/component_reference.rst:1
 msgid "``MLIN``"
@@ -13722,7 +13722,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "name of substrate definition"
-msgstr ""
+msgstr "alttabaka tanımının adı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13759,7 +13759,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of the line"
-msgstr ""
+msgstr "çizgi kalınlığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13774,7 +13774,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "length of the line"
-msgstr ""
+msgstr "çizgi uzunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13784,7 +13784,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13838,11 +13838,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2700
 #: ../../source/component_reference.rst:1
 msgid "Coupled Microstrip Line"
-msgstr ""
+msgstr "Çiftlenmiş Mikrostrip Hat"
 
 #: ../../source/component_reference.rst:1
 msgid "coupled microstrip line"
-msgstr ""
+msgstr "çiftlenmiş mikrostrip hat"
 
 #: ../../source/component_reference.rst:1
 msgid "``MCOUPLED``"
@@ -13866,7 +13866,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "spacing between the lines"
-msgstr ""
+msgstr "hatlar arasındaki aralık"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13898,11 +13898,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2792
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Corner"
-msgstr ""
+msgstr "Mikrostrip Köşe"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip corner"
-msgstr ""
+msgstr "mikrostrip köşe"
 
 #: ../../source/component_reference.rst:1
 msgid "``MCORN``"
@@ -13915,16 +13915,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of line"
-msgstr ""
+msgstr "hattın kalınlığı"
 
 #: ../../source/component_reference.rst:2833
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Mitered Bend"
-msgstr ""
+msgstr "Mikrostrip Destekli Kıvrım"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip mitered bend"
-msgstr ""
+msgstr "mikrostrip destekli kırım"
 
 #: ../../source/component_reference.rst:1
 msgid "``MMBEND``"
@@ -13937,11 +13937,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2874
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Step"
-msgstr ""
+msgstr "Mikrostrip Adım"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip impedance step"
-msgstr ""
+msgstr "miktrostrip sanal direnç adımı"
 
 #: ../../source/component_reference.rst:1
 msgid "``MSTEP``"
@@ -13970,7 +13970,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width 1 of the line"
-msgstr ""
+msgstr "hattın 1. kalınlığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -13982,7 +13982,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width 2 of the line"
-msgstr ""
+msgstr "hattın 2. kalınlığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14003,11 +14003,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2918
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Tee"
-msgstr ""
+msgstr "Mikrostrip baslangıcı"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip tee"
-msgstr ""
+msgstr "mikrostrip baslangıcı"
 
 #: ../../source/component_reference.rst:1
 msgid "``MTEE``"
@@ -14021,13 +14021,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of line 1"
-msgstr ""
+msgstr "1. çizginin genişliği"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of line 2"
-msgstr ""
+msgstr "2. çizginin genişliği"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14037,11 +14037,11 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of line 3"
-msgstr ""
+msgstr "3. hattın genişliği"
 
 #: ../../source/component_reference.rst:1
 msgid "temperature in degree Celsius"
-msgstr ""
+msgstr "Derece cinsinden sıcaklık"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14056,11 +14056,11 @@ msgstr ""
 #: ../../source/component_reference.rst:2965
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Cross"
-msgstr ""
+msgstr "Mikrostrip Çapraz"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip cross"
-msgstr ""
+msgstr "mikrostrip çapraz"
 
 #: ../../source/component_reference.rst:1
 msgid "``MCROSS``"
@@ -14076,16 +14076,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width of line 4"
-msgstr ""
+msgstr "4. hattın genişliği"
 
 #: ../../source/component_reference.rst:3012
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Open"
-msgstr ""
+msgstr "Mikrostrip Açık"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip open"
-msgstr ""
+msgstr "mikrostrip açık"
 
 #: ../../source/component_reference.rst:1
 msgid "``MOPEN``"
@@ -14102,11 +14102,11 @@ msgstr ""
 #: ../../source/component_reference.rst:3056
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Gap"
-msgstr ""
+msgstr "Microstrip Aralık"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip gap"
-msgstr ""
+msgstr "mikrostrip aralık"
 
 #: ../../source/component_reference.rst:1
 msgid "``MGAP``"
@@ -14118,24 +14118,24 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width of the line 1"
-msgstr ""
+msgstr "1. hattın genişliği"
 
 #: ../../source/component_reference.rst:1
 msgid "width of the line 2"
-msgstr ""
+msgstr "2. hattın genişliği"
 
 #: ../../source/component_reference.rst:1
 msgid "spacing between the microstrip ends"
-msgstr ""
+msgstr "microstrip uçları arasındaki aralık"
 
 #: ../../source/component_reference.rst:3101
 #: ../../source/component_reference.rst:1
 msgid "Microstrip Via"
-msgstr ""
+msgstr "Mikrostrip Via"
 
 #: ../../source/component_reference.rst:1
 msgid "microstrip via"
-msgstr ""
+msgstr "mikrostrip via"
 
 #: ../../source/component_reference.rst:1
 msgid "``MVIA``"
@@ -14147,7 +14147,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "diameter of round via conductor"
-msgstr ""
+msgstr "yuvarlak via iletkeninin çapı"
 
 #: ../../source/component_reference.rst:3143
 #: ../../source/component_reference.rst:1
@@ -14193,11 +14193,11 @@ msgstr ""
 #: ../../source/component_reference.rst:3186
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Line"
-msgstr ""
+msgstr "Eşyüzey Çizgisi"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar line"
-msgstr ""
+msgstr "eşyüzey hattı"
 
 #: ../../source/component_reference.rst:1
 msgid "``CLIN``"
@@ -14220,7 +14220,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "width of a gap"
-msgstr ""
+msgstr "aralığın genişliği"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14254,11 +14254,11 @@ msgstr ""
 #: ../../source/component_reference.rst:3231
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Open"
-msgstr ""
+msgstr "Esyüzey Açık"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar open"
-msgstr ""
+msgstr "essyüzey açıklık"
 
 #: ../../source/component_reference.rst:1
 msgid "``COPEN``"
@@ -14274,16 +14274,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width of gap at end of line"
-msgstr ""
+msgstr "çizginin sonundaki aralığın genişliği"
 
 #: ../../source/component_reference.rst:3275
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Short"
-msgstr ""
+msgstr "Eşyüzey Kısa Devre"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar short"
-msgstr ""
+msgstr "eşyüzey kısa devre"
 
 #: ../../source/component_reference.rst:1
 msgid "``CSHORT``"
@@ -14296,11 +14296,11 @@ msgstr ""
 #: ../../source/component_reference.rst:3318
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Gap"
-msgstr ""
+msgstr "Eşyüzey Aralık"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar gap"
-msgstr ""
+msgstr "eşyüzey aralık"
 
 #: ../../source/component_reference.rst:1
 msgid "``CGAP``"
@@ -14312,16 +14312,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "width of gap between the two lines"
-msgstr ""
+msgstr "iki çizgi arasındaki aralığın genişliği"
 
 #: ../../source/component_reference.rst:3361
 #: ../../source/component_reference.rst:1
 msgid "Coplanar Step"
-msgstr ""
+msgstr "Eşyüzey Adım"
 
 #: ../../source/component_reference.rst:1
 msgid "coplanar step"
-msgstr ""
+msgstr "eşyüzey adım"
 
 #: ../../source/component_reference.rst:1
 msgid "``CSTEP``"
@@ -14338,16 +14338,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "distance between ground planes"
-msgstr ""
+msgstr "toprak yüzeyleri arasındaki mesafe"
 
 #: ../../source/component_reference.rst:3405
 #: ../../source/component_reference.rst:1
 msgid "Bond Wire"
-msgstr ""
+msgstr "Lehim Teli"
 
 #: ../../source/component_reference.rst:1
 msgid "bond wire"
-msgstr ""
+msgstr "lehim teli"
 
 #: ../../source/component_reference.rst:1
 msgid "``BOND``"
@@ -14359,7 +14359,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "length of the wire"
-msgstr ""
+msgstr "tel uzunluğu"
 
 #: ../../source/component_reference.rst:1
 msgid "50 um"
@@ -14367,7 +14367,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "diameter of the wire"
-msgstr ""
+msgstr "tel çapı"
 
 #: ../../source/component_reference.rst:1
 msgid "H"
@@ -14375,15 +14375,15 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "height above ground plane"
-msgstr ""
+msgstr "toprak tabakası üzerinde yükseklik"
 
 #: ../../source/component_reference.rst:1
 msgid "specific resistance of the metal"
-msgstr ""
+msgstr "metal özdirenci"
 
 #: ../../source/component_reference.rst:1
 msgid "relative permeability of the metal"
-msgstr ""
+msgstr "metalin göreceli geçirgenliği"
 
 #: ../../source/component_reference.rst:1
 msgid "FREESPACE"
@@ -14400,12 +14400,12 @@ msgstr ""
 #: ../../source/component_reference.rst:3455
 #: ../../source/component_reference.rst:1
 msgid "Diode"
-msgstr ""
+msgstr "Diyot"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "diode"
-msgstr ""
+msgstr "diyot"
 
 #: ../../source/component_reference.rst:1
 msgid "``Diode``"
@@ -14483,7 +14483,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "saturation current"
-msgstr ""
+msgstr "doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14513,7 +14513,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "emission coefficient"
-msgstr ""
+msgstr "yayım katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14532,7 +14532,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "zero-bias junction capacitance"
-msgstr ""
+msgstr "sıfır-kutuplama eklem sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14541,7 +14541,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "grading coefficient"
-msgstr ""
+msgstr "değişim katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14558,7 +14558,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "junction potential"
-msgstr ""
+msgstr "eklem gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14591,7 +14591,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward-bias depletion capacitance coefficient"
-msgstr ""
+msgstr "düz-kutuplanma tüketim bölgesi sığa sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "Cp"
@@ -14603,7 +14603,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "linear capacitance"
-msgstr ""
+msgstr "doğrusal sığa"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14613,7 +14613,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "recombination current parameter"
-msgstr ""
+msgstr "tekrar birleşim akımı değişkeni"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14667,7 +14667,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "emission coefficient for Isr"
-msgstr ""
+msgstr "Isr için yayım katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14706,7 +14706,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "ohmic series resistance"
-msgstr ""
+msgstr "omik (Shotky etkisi yok) seri direnç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14733,7 +14733,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "transit time"
-msgstr ""
+msgstr "geçis süresi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14746,7 +14746,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "high-injection knee current (0=infinity)"
-msgstr ""
+msgstr "yüksek-enjeksiyon bükülme akımı (0=sonsuz)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14790,7 +14790,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "flicker noise coefficient"
-msgstr ""
+msgstr "flicker gürültü sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14832,7 +14832,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "flicker noise exponent"
-msgstr ""
+msgstr "flicker gürültü üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14867,7 +14867,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "flicker noise frequency exponent"
-msgstr ""
+msgstr "flicker gürültü sıklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14879,7 +14879,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "reverse breakdown voltage"
-msgstr ""
+msgstr "ters kırılma gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14891,7 +14891,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "current at reverse breakdown voltage"
-msgstr ""
+msgstr "ters kırılma geriliminde akım"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14954,7 +14954,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "saturation current temperature exponent"
-msgstr ""
+msgstr "doyum akımı sıcaklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -14981,7 +14981,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "energy bandgap in eV"
-msgstr ""
+msgstr "eV cinsinden enerji aralığı"
 
 #: ../../source/component_reference.rst:1
 msgid "Tbv"
@@ -14989,7 +14989,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Bv linear temperature coefficient"
-msgstr ""
+msgstr "Bv doğrusal sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "Trs"
@@ -14997,7 +14997,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Rs linear temperature coefficient"
-msgstr ""
+msgstr "Rs doğrusal sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "Ttt1"
@@ -15005,7 +15005,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Tt linear temperature coefficient"
-msgstr ""
+msgstr "Tt doğrusal sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "Ttt2"
@@ -15013,7 +15013,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Tt quadratic temperature coefficient"
-msgstr ""
+msgstr "Tt ikinci dereceden sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "Tm1"
@@ -15021,7 +15021,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "M linear temperature coefficient"
-msgstr ""
+msgstr "M doğrusal sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "Tm2"
@@ -15029,7 +15029,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "M quadratic temperature coefficient"
-msgstr ""
+msgstr "M ikinci dereceden sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15050,7 +15050,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "default area for diode"
-msgstr ""
+msgstr "diyot için varsayılan alan"
 
 #: ../../source/component_reference.rst:1
 msgid "normal"
@@ -15068,12 +15068,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "npn transistor"
-msgstr ""
+msgstr "npn transistör"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bipolar junction transistor"
-msgstr ""
+msgstr "çift kutuplu eklem transistör (bjt)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15165,7 +15165,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward emission coefficient"
-msgstr ""
+msgstr "düz yayım katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15173,14 +15173,14 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reverse emission coefficient"
-msgstr ""
+msgstr "ters yayım katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "high current corner for forward beta"
-msgstr ""
+msgstr "düz beta için yüksek akım köşesi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15195,7 +15195,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "high current corner for reverse beta"
-msgstr ""
+msgstr "ters beta için yüksek akım köşesi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15210,7 +15210,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward early voltage"
-msgstr ""
+msgstr "forward early voltage"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15225,7 +15225,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reverse early voltage"
-msgstr ""
+msgstr "reverse early voltage"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15239,7 +15239,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter leakage saturation current"
-msgstr ""
+msgstr "baz-emetör kaçak akım doyumu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15253,7 +15253,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter leakage emission coefficient"
-msgstr ""
+msgstr "baz-emetör kaçak yayım sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15267,7 +15267,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector leakage saturation current"
-msgstr ""
+msgstr "baz-kollektör kaçak akım doyumu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15281,7 +15281,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector leakage emission coefficient"
-msgstr ""
+msgstr "baz-emetör kaçak yayım sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15298,7 +15298,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward beta"
-msgstr ""
+msgstr "düz/ileri beta"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15315,7 +15315,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "reverse beta"
-msgstr ""
+msgstr "ters/geri beta"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15329,7 +15329,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "minimum base resistance for high currents"
-msgstr ""
+msgstr "yüksek akımlar için en küçük baz direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15343,7 +15343,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "current for base resistance midpoint"
-msgstr ""
+msgstr "baz direnci orta-noktası için akım"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15359,7 +15359,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "collector ohmic resistance"
-msgstr ""
+msgstr "Kollektör omik (Shotky etkisi yok) direnç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15375,7 +15375,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "emitter ohmic resistance"
-msgstr ""
+msgstr "emetör omik (Shotky etkisi yok) direnç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15391,7 +15391,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias base resistance (may be high-current dependent)"
-msgstr ""
+msgstr "sıfır-kutuplama baz direnci (yüksek-akıma bağlı olabilir)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15407,7 +15407,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter zero-bias depletion capacitance"
-msgstr ""
+msgstr "baz-emetör sıfır-kutuplama tüketim sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15440,7 +15440,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter junction built-in potential"
-msgstr ""
+msgstr "baz-emetör eklem gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15487,7 +15487,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-emitter junction exponential factor"
-msgstr ""
+msgstr "baz-emetör eklemi üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15503,7 +15503,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector zero-bias depletion capacitance"
-msgstr ""
+msgstr "baz-kollektör sıfır-kutuplama tüketim sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15519,7 +15519,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector junction built-in potential"
-msgstr ""
+msgstr "baz-kollektör eklem gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15535,7 +15535,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "base-collector junction exponential factor"
-msgstr ""
+msgstr "baz-kollektör eklemi üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15549,7 +15549,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "fraction of Cjc that goes to internal base pin"
-msgstr ""
+msgstr "baz ucuna giden Cjc oranı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15563,7 +15563,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias collector-substrate capacitance"
-msgstr ""
+msgstr "sıfır-kutuplama kollektör-alttabaka sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15577,7 +15577,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "substrate junction built-in potential"
-msgstr ""
+msgstr "alttabaka eklem gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15591,14 +15591,14 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "substrate junction exponential factor"
-msgstr ""
+msgstr "alttabaka eklem üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ideal forward transit time"
-msgstr ""
+msgstr "fikirsel düz geçis zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15612,7 +15612,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "coefficient of bias-dependence for Tf"
-msgstr ""
+msgstr "Tf için kutuplama-bağımlılığı sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15626,7 +15626,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage dependence of Tf on base-collector voltage"
-msgstr ""
+msgstr "Tf' nin baz-kollektör gerilimine olan gerilim bağımlılığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15640,14 +15640,14 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "high-current effect on Tf"
-msgstr ""
+msgstr "Tf üzerindeki yüksek gerilim etkisi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ideal reverse transit time"
-msgstr ""
+msgstr "fikirsel ters geçis zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15662,7 +15662,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "burst noise coefficient"
-msgstr ""
+msgstr "ani gürültü sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15677,7 +15677,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "burst noise exponent"
-msgstr ""
+msgstr "ani gürültü üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15692,7 +15692,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "burst noise corner frequency in Hertz"
-msgstr ""
+msgstr "Hertz cinsinden ani gürültü köşe sıklığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15706,7 +15706,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "excess phase in degrees"
-msgstr ""
+msgstr "derece cinsinden aşkın açı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15720,14 +15720,14 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "temperature exponent for forward- and reverse beta"
-msgstr ""
+msgstr "düz ve ters beta için sıcaklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "default area for bipolar transistor"
-msgstr ""
+msgstr "çift kutuplu eklem transistör (bjt) için varsayılan alan"
 
 #: ../../source/component_reference.rst:3610
 #: ../../source/component_reference.rst:3784
@@ -15737,7 +15737,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "pnp transistor"
-msgstr ""
+msgstr "pnp transistör"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15752,7 +15752,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bipolar junction transistor with substrate"
-msgstr ""
+msgstr "alttabakalı çift kutuplu eklem transistör"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15773,12 +15773,12 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-JFET"
-msgstr ""
+msgstr "n-JFET"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "junction field-effect transistor"
-msgstr ""
+msgstr "eklem alan-etkili transistör"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15829,7 +15829,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "threshold voltage"
-msgstr ""
+msgstr "eşik gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15845,7 +15845,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "transconductance parameter"
-msgstr ""
+msgstr "ters iletkenlik (transconductance) değişkeni"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15865,7 +15865,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "channel-length modulation parameter"
-msgstr ""
+msgstr "oluk-uzunluğu değişim (modülasyon) katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15882,12 +15882,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "parasitic drain resistance"
-msgstr ""
+msgstr "asalak oluk direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "parasitic source resistance"
-msgstr ""
+msgstr "asalak kaynak direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15902,22 +15902,22 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-junction saturation current"
-msgstr ""
+msgstr "kapı-eklem doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-junction emission coefficient"
-msgstr ""
+msgstr "kapı-eklem yayım kaysayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-junction recombination current parameter"
-msgstr ""
+msgstr "kapı-eklem tekrar birleşim akım değişkeni"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Isr emission coefficient"
-msgstr ""
+msgstr "Isr yayım katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15929,7 +15929,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias gate-source junction capacitance"
-msgstr ""
+msgstr "sıfır-kutuplama kapı-kaynak eklem sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15940,7 +15940,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias gate-drain junction capacitance"
-msgstr ""
+msgstr "sıfır-kutuplama kapı-oluk eklem sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15956,17 +15956,17 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-junction potential"
-msgstr ""
+msgstr "kapı-eklem gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "forward-bias junction capacitance coefficient"
-msgstr ""
+msgstr "ileri-kutuplama eklem sığa katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate P-N grading coefficient"
-msgstr ""
+msgstr "kapı P-N değişim katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15976,7 +15976,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Vt0 temperature coefficient"
-msgstr ""
+msgstr "Vt0 sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -15986,12 +15986,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Beta exponential temperature coefficient"
-msgstr ""
+msgstr "Beta üstel sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "default area for JFET"
-msgstr ""
+msgstr "JFET için varsayılan alan"
 
 #: ../../source/component_reference.rst:3934
 msgid "P-Jfet"
@@ -15999,7 +15999,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "p-JFET"
-msgstr ""
+msgstr "p-JFET"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16016,13 +16016,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "n-MOSFET"
-msgstr ""
+msgstr "n-MOSFET"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "MOS field-effect transistor"
-msgstr ""
+msgstr "MOS alan etkili transistör"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16055,7 +16055,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias threshold voltage"
-msgstr ""
+msgstr "sıfır-kutuplama eşik gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16085,7 +16085,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "transconductance coefficient in A/V^2"
-msgstr ""
+msgstr "A/V^2 cinsinden tersiletkenlik katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16106,7 +16106,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk threshold in sqrt(V)"
-msgstr ""
+msgstr "sqrt(V) cinsinden alttabaka eşiği"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16135,7 +16135,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "surface potential"
-msgstr ""
+msgstr "yüzey gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16144,7 +16144,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "channel-length modulation parameter in 1/V"
-msgstr ""
+msgstr "1/V cinsinden olukl-uzunluğu degisim (modülasyon) değişkeni"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16153,7 +16153,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "drain ohmic resistance"
-msgstr ""
+msgstr "oluk omik (Shotky etkisi yok) direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16162,7 +16162,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "source ohmic resistance"
-msgstr ""
+msgstr "kaynak omik (Shotky etkisi yok) direnç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16183,7 +16183,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate ohmic resistance"
-msgstr ""
+msgstr "kapı omik  (Shotky etkisi yok) direnç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16201,7 +16201,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction saturation current"
-msgstr ""
+msgstr "alttabaka eklem doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16210,7 +16210,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction emission coefficient"
-msgstr ""
+msgstr "alttabaka eklem yayım katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16234,7 +16234,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "channel width"
-msgstr ""
+msgstr "oluk genişliği"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16243,7 +16243,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "channel length"
-msgstr ""
+msgstr "oluk uzunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16261,7 +16261,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "lateral diffusion length"
-msgstr ""
+msgstr "yanal yayılma uzunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16288,7 +16288,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "oxide thickness"
-msgstr ""
+msgstr "oksit (pas) kalınlığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16309,6 +16309,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "gate-source overlap capacitance per meter of channel width in F/m"
 msgstr ""
+"metre cinsinden oluk genişliği başına kapı-kaynak kesişim sığası [F/m]"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16328,7 +16329,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate-drain overlap capacitance per meter of channel width in F/m"
-msgstr ""
+msgstr "metre cinsinden oluk genişliği başına kapı-oluk kesişim sığası [F/m]"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16349,6 +16350,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "gate-bulk overlap capacitance per meter of channel length in F/m"
 msgstr ""
+"metre cinsinden oluk uzunluğu başına kapı-alttabaka kesişim sığası [F/m]"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16381,7 +16383,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias bulk-drain junction capacitance"
-msgstr ""
+msgstr "sıfır-kutuplama alttabaka-oluk eklem sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16399,7 +16401,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "zero-bias bulk-source junction capacitance"
-msgstr ""
+msgstr "sıfır-kutuplama alttabaka-kaynak eklem sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16418,7 +16420,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction potential"
-msgstr ""
+msgstr "alttabaka eklem gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16436,7 +16438,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction bottom grading coefficient"
-msgstr ""
+msgstr "alttabaka eklem taban dereceleme katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16445,7 +16447,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction forward-bias depletion capacitance coefficient"
-msgstr ""
+msgstr "alttabaka eklem düz kutuplama bosaltım bölgesi sığa katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16465,7 +16467,7 @@ msgstr ""
 msgid ""
 "zero-bias bulk junction periphery capacitance per meter of junction "
 "perimeter in F/m"
-msgstr ""
+msgstr "F/m cinsinden sıfır-kutuplama alttabaka eklem çevresel sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16483,7 +16485,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk junction periphery grading coefficient"
-msgstr ""
+msgstr "alttabaka eklem çevresi dereceleme katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16492,7 +16494,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "bulk transit time"
-msgstr ""
+msgstr "alttabaka geçis zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16510,7 +16512,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "substrate bulk doping density in 1/cm^3"
-msgstr ""
+msgstr "1/cm^3 cinsinden alttabaka katkılama yoğunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16528,7 +16530,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "surface state density in 1/cm^2"
-msgstr ""
+msgstr "1/cm^2 cinsinden yüzey durum yoğunluğu"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16548,6 +16550,8 @@ msgstr ""
 msgid ""
 "gate material type: 0 = alumina; -1 = same as bulk; 1 = opposite to bulk"
 msgstr ""
+"kapı malzeme çeşidi: 0 = alüminyum; -1 = alttabakayla aynı; 1 = alttabakanın"
+" tersi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16574,7 +16578,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "surface mobility in cm^2/Vs"
-msgstr ""
+msgstr "cm^2/Vs cinsinden yüzey hareketliligi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16595,7 +16599,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "drain and source diffusion sheet resistance in Ohms/square"
-msgstr ""
+msgstr "birim kare başına Ohm cinsinden oluk ve kaynak yayılım tabaka direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16613,7 +16617,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of equivalent drain squares"
-msgstr ""
+msgstr "number of equivalent drain squares"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16631,7 +16635,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of equivalent source squares"
-msgstr ""
+msgstr "number of equivalent source squares"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16651,7 +16655,7 @@ msgstr ""
 msgid ""
 "zero-bias bulk junction bottom capacitance per square meter of junction area"
 " in F/m^2"
-msgstr ""
+msgstr "F/m^2 cinsinden, sıfır-kutuplama alttabaka eklem taban sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16671,6 +16675,7 @@ msgstr ""
 msgid ""
 "bulk junction saturation current per square meter of junction area in A/m^2"
 msgstr ""
+"A/m^2 cinsinden, metre kare eklem alanı basına, alt tabaka eklem doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16688,7 +16693,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "drain diffusion area in m^2"
-msgstr ""
+msgstr "m^2 cinsinden oluk yayılım alanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16706,7 +16711,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "source diffusion area in m^2"
-msgstr ""
+msgstr "m^2 cinsinden kaynak yayılım alanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16739,7 +16744,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "drain junction perimeter"
-msgstr ""
+msgstr "oluk eklemi çevresi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16757,7 +16762,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "source junction perimeter"
-msgstr ""
+msgstr "kaynak eklemi çevresi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16766,7 +16771,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "parameter measurement temperature"
-msgstr ""
+msgstr "değişken ölçüm sıcaklığı"
 
 #: ../../source/component_reference.rst:4080
 #: ../../source/component_reference.rst:4329
@@ -16776,7 +16781,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "p-MOSFET"
-msgstr ""
+msgstr "p-MOSFET"
 
 #: ../../source/component_reference.rst:1
 msgid "pmosfet"
@@ -16797,7 +16802,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "depletion MOSFET"
-msgstr ""
+msgstr "bosaltım MOSFET"
 
 #: ../../source/component_reference.rst:1
 msgid "dmosfet"
@@ -16807,7 +16812,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "MOS field-effect transistor with substrate"
-msgstr ""
+msgstr "Alt tabakalı MOS alan etkili transistör"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16833,11 +16838,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "OpAmp"
-msgstr ""
+msgstr "OpAmp"
 
 #: ../../source/component_reference.rst:1
 msgid "operational amplifier"
-msgstr ""
+msgstr "işlemsel yükselteç (opamp)"
 
 #: ../../source/component_reference.rst:1
 msgid "``OpAmp``"
@@ -16871,16 +16876,16 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "absolute value of maximum and minimum output voltage"
-msgstr ""
+msgstr "en büyük ve en küçük çıkış gerilimi mutlak değerleri"
 
 #: ../../source/component_reference.rst:4536
 #: ../../source/component_reference.rst:1
 msgid "Equation Defined Device"
-msgstr ""
+msgstr "Eşitlikle Tanımlanmış Cihaz"
 
 #: ../../source/component_reference.rst:1
 msgid "equation defined device"
-msgstr ""
+msgstr "eşitlikle tanımlanmış cihaz"
 
 #: ../../source/component_reference.rst:1
 msgid "``EDD``"
@@ -16904,7 +16909,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "number of branches"
-msgstr ""
+msgstr "kol sayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "current equation 1"
@@ -16921,11 +16926,11 @@ msgstr ""
 #: ../../source/component_reference.rst:4579
 #: ../../source/component_reference.rst:1
 msgid "Diac"
-msgstr ""
+msgstr "Diyak"
 
 #: ../../source/component_reference.rst:1
 msgid "diac (bidirectional trigger diode)"
-msgstr ""
+msgstr "diyak (çift-yön tetiklemeli diyot)"
 
 #: ../../source/component_reference.rst:1
 msgid "``Diac``"
@@ -16948,7 +16953,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "(bidirectional) breakover voltage"
-msgstr ""
+msgstr "(çift-yön) kɪrɪlma gerilimi"
 
 #: ../../source/component_reference.rst:1
 msgid "Ibo"
@@ -16962,7 +16967,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "(bidirectional) breakover current"
-msgstr ""
+msgstr "(çift-yön) kɪrɪlma akɪmɪ"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16974,7 +16979,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "parasitic capacitance"
-msgstr ""
+msgstr "asalak sığa"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -16998,7 +17003,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "intrinsic junction resistance"
-msgstr ""
+msgstr "asıl eklem direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17026,16 +17031,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "simulation temperature"
-msgstr ""
+msgstr "benzetim sıcaklığı"
 
 #: ../../source/component_reference.rst:4625
 #: ../../source/component_reference.rst:1
 msgid "Triac"
-msgstr ""
+msgstr "Triyak"
 
 #: ../../source/component_reference.rst:1
 msgid "triac (bidirectional thyristor)"
-msgstr ""
+msgstr "triyak (çift yönlü tristör)"
 
 #: ../../source/component_reference.rst:1
 msgid "``Triac``"
@@ -17057,7 +17062,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "(bidirectional) gate trigger current"
-msgstr ""
+msgstr "(çift-yön) kapı tetikleme akɪmɪ"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17068,16 +17073,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "gate resistance"
-msgstr ""
+msgstr "kapı direnci"
 
 #: ../../source/component_reference.rst:4672
 #: ../../source/component_reference.rst:1
 msgid "Thyristor"
-msgstr ""
+msgstr "Tristör"
 
 #: ../../source/component_reference.rst:1
 msgid "silicon controlled rectifier (SCR)"
-msgstr ""
+msgstr "silikon denetimli doğrultucu (SCR)"
 
 #: ../../source/component_reference.rst:1
 msgid "``SCR``"
@@ -17089,11 +17094,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "breakover voltage"
-msgstr ""
+msgstr "kırılma gerilimi"
 
 #: ../../source/component_reference.rst:1
 msgid "gate trigger current"
-msgstr ""
+msgstr "kapı tetikleme akımı"
 
 #: ../../source/component_reference.rst:4719
 #: ../../source/component_reference.rst:1
@@ -17251,11 +17256,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "HICUM L2 v2.1"
-msgstr ""
+msgstr "HICUM L2 v2.1"
 
 #: ../../source/component_reference.rst:1
 msgid "HICUM Level 2 v2.1 verilog device"
-msgstr ""
+msgstr "HICUM Seviyesi 2 v2.1 verilog devresi"
 
 #: ../../source/component_reference.rst:1
 msgid "``hicumL2V2p1``"
@@ -17320,7 +17325,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "GICCR constant"
-msgstr ""
+msgstr "GICCR sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17336,7 +17341,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Zero-bias hole charge"
-msgstr ""
+msgstr "sıfır-kutuplama oluk yükü"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17352,7 +17357,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "High-current correction for 2D and 3D effects"
-msgstr ""
+msgstr "2B ve 3B etkileri için yüksek akım düzeltmesi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17368,7 +17373,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Emitter minority charge weighting factor in HBTs"
-msgstr ""
+msgstr "HBT' ler için E azınlık taşıyıcı ağırlık çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17388,7 +17393,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Collector minority charge weighting factor in HBTs"
-msgstr ""
+msgstr "HBT' ler için C azınlık taşıyıcı ağırlık çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17408,7 +17413,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "B-E depletion charge weighting factor in HBTs"
-msgstr ""
+msgstr "HBT' ler için B-E tüketim bölgesi taşıyıcı ağırlık çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17428,7 +17433,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "B-C depletion charge weighting factor in HBTs"
-msgstr ""
+msgstr "HBT' ler için B-C arınmış bölge yükü ağırlık çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17444,7 +17449,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal B-E saturation current"
-msgstr ""
+msgstr "İç B-E doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17464,7 +17469,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Internal B-E current ideality factor"
-msgstr ""
+msgstr "İç B-E akımı mükemmellik çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17480,7 +17485,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal B-E recombination saturation current"
-msgstr ""
+msgstr "İç B-E yeniden birleşme doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17496,7 +17501,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Internal B-E recombination current ideality factor"
-msgstr ""
+msgstr "İç B-E yeniden birleşme doyum akımı mükemmellik çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17512,7 +17517,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Peripheral B-E saturation current"
-msgstr ""
+msgstr "Çevresel B-E doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17532,7 +17537,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Peripheral B-E current ideality factor"
-msgstr ""
+msgstr "Çevresel B-E doyum akımı mükemmellik çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17548,7 +17553,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Peripheral B-E recombination saturation current"
-msgstr ""
+msgstr "Çevresel B-E yeniden birleşme doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17564,7 +17569,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Peripheral B-E recombination current ideality factor"
-msgstr ""
+msgstr "Çevresel B-E yeniden birleşme doyum akımı mükemmellik çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17588,7 +17593,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Non-ideality factor for III-V HBTs"
-msgstr ""
+msgstr "III-V HBT' ler için mükemmel olmama (gerçeklik) çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17604,7 +17609,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal B-C saturation current"
-msgstr ""
+msgstr "İç B-C doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17620,7 +17625,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Internal B-C current ideality factor"
-msgstr ""
+msgstr "İç B-C akımı mükemmellik çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17636,7 +17641,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "External B-C saturation current"
-msgstr ""
+msgstr "Harici B-C doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17652,7 +17657,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "External B-C current ideality factor"
-msgstr ""
+msgstr "Harici B-C akımı mükemmellik çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17664,7 +17669,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B-E tunneling saturation current"
-msgstr ""
+msgstr "B-E tünelleme doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17684,7 +17689,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Exponent factor for tunneling current"
-msgstr ""
+msgstr "Tünelleme akımı için üstel çarpan"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17700,7 +17705,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Avalanche current factor"
-msgstr ""
+msgstr "Çığ akım çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17716,7 +17721,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Exponent factor for avalanche current"
-msgstr ""
+msgstr "Çığ akımı için üstel çarpan"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17728,7 +17733,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Relative TC for FAVL"
-msgstr ""
+msgstr "FAVL için göreceli TC"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17740,7 +17745,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Relative TC for QAVL"
-msgstr ""
+msgstr "QAVL için göreceli TC"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17764,7 +17769,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Zero bias internal base resistance"
-msgstr ""
+msgstr "Sıfır kutuplama dahili B (baz) direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17788,7 +17793,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "External base series resistance"
-msgstr ""
+msgstr "Harici baz seri direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17816,7 +17821,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Factor for geometry dependence of emitter current crowding"
-msgstr ""
+msgstr "Emetör akımı kalabalıklaştırma' nın geometriye bağımlılık çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17833,6 +17838,8 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "Correction factor for modulation by B-E and B-C space charge layer"
 msgstr ""
+"B-E ve B-C uzay yük tabakası tarafından gerçekleştirilen \"değiştirme\" "
+"(modülasyon) olayı için düzeltme çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17848,7 +17855,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Ratio of HF shunt to total internal capacitance (lateral NQS effect)"
-msgstr ""
+msgstr "HF paralel' in toplam etkin iç sığa' ya oranı (yanal NQS etkisi)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17864,7 +17871,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Ration of internal to total minority charge"
-msgstr ""
+msgstr "İç azınlık yükün toplama oranı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17888,7 +17895,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Emitter series resistance"
-msgstr ""
+msgstr "E (emetör) seri direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17908,7 +17915,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "External collector series resistance"
-msgstr ""
+msgstr "Harici C (kolektér seri) direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17932,7 +17939,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Substrate transistor transfer saturation current"
-msgstr ""
+msgstr "Alt-tabaka transistör geçiş doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17956,7 +17963,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Forward ideality factor of substrate transfer current"
-msgstr ""
+msgstr "İleri mükemmellik çarpanının alt-tabaka geçiş akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -17980,7 +17987,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "C-S diode saturation current"
-msgstr ""
+msgstr "C-S diyot doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18004,7 +18011,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Ideality factor of C-S diode current"
-msgstr ""
+msgstr "C-S diyot akımı mükemmellik çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18020,7 +18027,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Transit time for forward operation of substrate transistor"
-msgstr ""
+msgstr "Alt-tabaka transistörünün ileri çalışma durumundaki geçiş zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18036,7 +18043,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Substrate series resistance"
-msgstr ""
+msgstr "Alt tabaka seri direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18052,7 +18059,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Substrate shunt capacitance"
-msgstr ""
+msgstr "Alt tabaka paralel sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18068,7 +18075,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal B-E zero-bias depletion capacitance"
-msgstr ""
+msgstr "İç B-E sıfır-kutuplama tüketim sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18084,7 +18091,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal B-E built-in potential"
-msgstr ""
+msgstr "İç B-E eklem gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18118,7 +18125,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Internal B-E grading coefficient"
-msgstr ""
+msgstr "İç B-E değişim katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "aljei"
@@ -18166,6 +18173,8 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "Ratio of maximum to zero-bias value of internal B-E capacitance"
 msgstr ""
+"İç B-E sığasının en yüksek değerinin sıfır kutuplama durumundaki değerine "
+"oranı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18177,7 +18186,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Peripheral B-E zero-bias depletion capacitance"
-msgstr ""
+msgstr "Çevresel B-E sıfır-kutuplama tüketim sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18189,7 +18198,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Peripheral B-E built-in potential"
-msgstr ""
+msgstr "Çevresel B-E eklemi iç gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18215,7 +18224,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Peripheral B-E grading coefficient"
-msgstr ""
+msgstr "Çevresel B-E değişim katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "aljep"
@@ -18228,6 +18237,8 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "Ratio of maximum to zero-bias value of peripheral B-E capacitance"
 msgstr ""
+"Çevresel B-E eklem sığasının en yüksek değerinin sıfır kutuplama durumundaki"
+" değerine oranı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18251,7 +18262,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal B-C zero-bias depletion capacitance"
-msgstr ""
+msgstr "İç B-C sıfır-kutuplama tüketim sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18304,7 +18315,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal B-C built-in potential"
-msgstr ""
+msgstr "İç B-C gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18333,7 +18344,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Internal B-C grading coefficient"
-msgstr ""
+msgstr "İç B-C değişim katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18353,7 +18364,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal B-C punch-through voltage"
-msgstr ""
+msgstr "İç B-C eklemi \"ileri delgi\" (punch-through) gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18377,7 +18388,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "External B-C zero-bias depletion capacitance"
-msgstr ""
+msgstr "Dış B-C sıfır-kutuplama tüketim sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18401,7 +18412,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "External B-C built-in potential"
-msgstr ""
+msgstr "Dış B-C eklemi yerleşik (built-in) gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18429,7 +18440,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "External B-C grading coefficient"
-msgstr ""
+msgstr "Dış B-C eklemi değişim katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18449,7 +18460,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "External B-C punch-through voltage"
-msgstr ""
+msgstr "Dış B-C eklemi \"ileri delgi\" (punch-through) gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18469,7 +18480,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Partitioning factor of parasitic B-C capacitance"
-msgstr ""
+msgstr "Asalak B-C sığası kısımlama çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18493,7 +18504,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "C-S zero-bias depletion capacitance"
-msgstr ""
+msgstr "C-S sıfır-kutuplama tüketim sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18517,7 +18528,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "C-S built-in potential"
-msgstr ""
+msgstr "İç C-S gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18545,7 +18556,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "C-S grading coefficient"
-msgstr ""
+msgstr "C-S değişim katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18569,7 +18580,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "C-S punch-through voltage"
-msgstr ""
+msgstr "C-S \"ileri delgi\" (punch-through) gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18593,7 +18604,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Low current forward transit time at VBC=0V"
-msgstr ""
+msgstr "VBC=0V durumunda düşük akım ileri geçiş zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18618,6 +18629,8 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "Time constant for base and B-C space charge layer width modulation"
 msgstr ""
+"Baz ve B-C uzay yük katmanı en değişimi (genişlik modülasyonu) için zaman "
+"sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18642,6 +18655,8 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "Time constant for modelling carrier jam at low VCE"
 msgstr ""
+"Düşük VCE durumunda taşıyıcı tıkanıklığını modellemek için kullanılan zaman "
+"sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18661,7 +18676,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Neutral emitter storage time"
-msgstr ""
+msgstr "Tarafsız (nötr) emetör saklama (depolama) zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18678,6 +18693,8 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "Exponent factor for current dependence of neutral emitter storage time"
 msgstr ""
+"Tarafsız (nötr) emetör saklama (depolama) zamanının akıma bağlılığı için "
+"üstel çarpan"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18701,7 +18718,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Saturation time constant at high current densities"
-msgstr ""
+msgstr "Yüksek akım yoğunluklarında doyum zaman sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "alhc"
@@ -18719,6 +18736,7 @@ msgstr ""
 msgid ""
 "Smoothing factor for current dependence of base and collector transit time"
 msgstr ""
+"Baz ve kollektör geçiş zamanlarının akıma bağımlılığı için yumuşatma çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18738,7 +18756,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Partitioning factor for base and collector portion"
-msgstr ""
+msgstr "Baz ve kollektör kısımları için kısımlara ayırma çarpan"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18762,7 +18780,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal collector resistance at low electric field"
-msgstr ""
+msgstr "Düşük elektrik alanda iç kollektör direnci"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18782,7 +18800,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Voltage separating ohmic and saturation velocity regime"
-msgstr ""
+msgstr "Omik ve doyum hız rejimlerini ayıran gerilim değeri"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18802,7 +18820,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Internal C-E saturation voltage"
-msgstr ""
+msgstr "İç C-E doyum akımı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18822,7 +18840,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Collector punch-through voltage"
-msgstr ""
+msgstr "Kollektör \"ileri delgi\" (punch-through) gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18846,7 +18864,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Storage time for inverse operation"
-msgstr ""
+msgstr "Ters-çalışma için saklama zamanı"
 
 #: ../../source/component_reference.rst:1
 msgid "ceox"
@@ -18858,7 +18876,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Total parasitic B-E capacitance"
-msgstr ""
+msgstr "Toplam asalak B-E eklem sığası"
 
 #: ../../source/component_reference.rst:1
 msgid "ccox"
@@ -18870,7 +18888,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Total parasitic B-C capacitance"
-msgstr ""
+msgstr "Toplam asalak B-C eklem sığası"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18890,7 +18908,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Factor for additional delay time of minority charge"
-msgstr ""
+msgstr "Azınlık yükü ek gecikme zaman çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18906,7 +18924,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Factor for additional delay time of transfer current"
-msgstr ""
+msgstr "Geçiş akımı ek gecikme zaman çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18934,7 +18952,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flicker noise coefficient"
-msgstr ""
+msgstr "Flicker gürültü sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18958,7 +18976,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flicker noise exponent factor"
-msgstr ""
+msgstr "Flicker gürültüsü üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 msgid "krbi"
@@ -18966,7 +18984,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Noise factor for internal base resistance"
-msgstr ""
+msgstr "İç baz direnci için gürültü çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -18988,6 +19006,7 @@ msgstr ""
 msgid ""
 "Scaling factor for collector minority charge in direction of emitter width"
 msgstr ""
+"Emetör genişliği doğrultusundaki kollektör azınlık yükü büyüklük çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19009,6 +19028,7 @@ msgstr ""
 msgid ""
 "Scaling factor for collector minority charge in direction of emitter length"
 msgstr ""
+"Emetör uzunluğu doğrultusundaki kollektör azınlık yükü büyüklük çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19033,6 +19053,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "Bandgap voltage extrapolated to 0 K"
 msgstr ""
+"0 kelvinde hesaplanmış (ekstrapolasyon) bant genişliği (bandgap) gerilimi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19056,7 +19077,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "First order relative TC of parameter T0"
-msgstr ""
+msgstr "T0 değişkeni için birinci-derece göreceli sıcaklık katsayısı (TC)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19084,7 +19105,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Second order relative TC of parameter T0"
-msgstr ""
+msgstr "T0 değişkeni için ikinci-derece göreceli sıcaklık katsayısı (TC)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19108,7 +19129,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Temperature exponent for RCI0"
-msgstr ""
+msgstr "RCI0 için sıcaklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19124,7 +19145,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Temperature exponent of mobility in substrate transistor transit time"
-msgstr ""
+msgstr "Alt-tabaka transistörü geçiş zamanı yer değiştirme sıcaklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19151,7 +19172,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Relative TC of saturation drift velocity"
-msgstr ""
+msgstr "Doyum durumunda, sürüklenme hızı göreceli sıcaklık katsayısı (TC)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19175,7 +19196,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Relative TC of VCES"
-msgstr ""
+msgstr "VCES için göreceli TC"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19199,7 +19220,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Temperature exponent of internal base resistance"
-msgstr ""
+msgstr "İç baz direncinin sıcaklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19230,7 +19251,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Temperature exponent of external base resistance"
-msgstr ""
+msgstr "Dış baz direncinin sıcaklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19258,7 +19279,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Temperature exponent of external collector resistance"
-msgstr ""
+msgstr "Dış kollektör direnci sıcaklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19282,7 +19303,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Temperature exponent of emitter resistance"
-msgstr ""
+msgstr "Emetör direnci sıcaklık üsteli"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19298,7 +19319,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Relative TC of forward current gain for V2.1 model"
-msgstr ""
+msgstr "V2.1 modeli için ileri akım kazncı göreceli sıcaklık sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19322,7 +19343,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Thermal resistance"
-msgstr ""
+msgstr "Isısal direnç"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19347,7 +19368,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Thermal capacitance"
-msgstr ""
+msgstr "Isısal sığa"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19377,7 +19398,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Temperature at which parameters are specified"
-msgstr ""
+msgstr "Değişkenlerin tanımlandığı sıcaklıik"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19397,7 +19418,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Temperature change w.r.t. chip temperature for particular transistor"
-msgstr ""
+msgstr "Temperature change w.r.t. chip temperature for particular transistor"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19429,11 +19450,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "FBH HBT"
-msgstr ""
+msgstr "FBH HBT"
 
 #: ../../source/component_reference.rst:1
 msgid "HBT model by Ferdinand-Braun-Institut (FBH), Berlin"
-msgstr ""
+msgstr "HBT modeli, Ferdinand-Braun-Institut (FBH) Berlin tarafından yapıldı"
 
 #: ../../source/component_reference.rst:1
 msgid "``HBT_X``"
@@ -19457,7 +19478,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Ignored"
-msgstr ""
+msgstr "Görmezden gelindi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19479,7 +19500,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Device operating temperature, Celsius"
-msgstr ""
+msgstr "Cihaz çalışma sıcaklığı, Selsiyüs"
 
 #: ../../source/component_reference.rst:1
 msgid "Rth"
@@ -19528,7 +19549,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Thermal resistance, K/W"
-msgstr ""
+msgstr "Isısal direnç, K/W"
 
 #: ../../source/component_reference.rst:1
 msgid "Cth"
@@ -19540,7 +19561,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Scaling factor, number of emitter fingers"
-msgstr ""
+msgstr "Boyutlandırma çarpanı, E parmak sayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "30e-6"
@@ -19548,11 +19569,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Length of emitter finger, m"
-msgstr ""
+msgstr "E parmak uzunluğu, m"
 
 #: ../../source/component_reference.rst:1
 msgid "Width of emitter finger, m"
-msgstr ""
+msgstr "E parmak genişliği, m"
 
 #: ../../source/component_reference.rst:1
 msgid "Jsf"
@@ -19564,7 +19585,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Forward saturation current density, A/um^2"
-msgstr ""
+msgstr "İleri doyum akımı yoğunluğu, A/um^2"
 
 #: ../../source/component_reference.rst:1
 msgid "nf"
@@ -19572,7 +19593,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Forward current emission coefficient"
-msgstr ""
+msgstr "İleri akım iletimkatsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "Vg"
@@ -19594,6 +19615,8 @@ msgstr ""
 msgid ""
 "Forward thermal activation energy, V, (0 == disables temperature dependence)"
 msgstr ""
+"İleri ısısal etkinleştirme enerjisi, V, (0 == sıcaklık bağımlılığını "
+"kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "Jse"
@@ -19601,7 +19624,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B-E leakage saturation current density, A/um^2"
-msgstr ""
+msgstr "B-E sızıntı doyum akım yoğunluğu, A/um^2"
 
 #: ../../source/component_reference.rst:1
 msgid "ne"
@@ -19609,7 +19632,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B-E leakage emission coefficient"
-msgstr ""
+msgstr "B-E sızıntı iletim katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "Rbxx"
@@ -19617,7 +19640,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Limiting resistor of B-E leakage diode, Ohm"
-msgstr ""
+msgstr "B-E kaçak diyodunun sınırlama direnci, Ohm"
 
 #: ../../source/component_reference.rst:1
 msgid "Vgb"
@@ -19628,6 +19651,8 @@ msgid ""
 "B-E leakage thermal activation energy, V, (0 == disables temperature "
 "dependence)"
 msgstr ""
+"B-E kaçağı ısısal etkinleştirme enerjisi, V, (0==sıcaklık bağımlılığını "
+"kaldırır)"
 
 #: ../../source/component_reference.rst:1
 msgid "Jsee"
@@ -19635,7 +19660,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "2nd B-E leakage saturation current density, A/um^2"
-msgstr ""
+msgstr "2. B-E kaçak doyum akım yoğunluğu, A/um^2"
 
 #: ../../source/component_reference.rst:1
 msgid "nee"
@@ -19643,7 +19668,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "2nd B-E leakage emission coefficient"
-msgstr ""
+msgstr "2. B-E kaçak yayım sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "Rbbxx"
@@ -19651,7 +19676,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "2nd Limiting resistor of B-E leakage diode, Ohm"
-msgstr ""
+msgstr "B-E kaçak diyodunun 2. sınırlama direnci, Ohm"
 
 #: ../../source/component_reference.rst:1
 msgid "Vgbb"
@@ -19662,6 +19687,8 @@ msgid ""
 "2nd B-E leakage thermal activation energy, V, (0 == disables temperature "
 "dependence)"
 msgstr ""
+"2. B-E kaçak ısısal etkinleştirme enerjisi, V, (0==sıcaklık bağımlılığını "
+"kaldırır)"
 
 #: ../../source/component_reference.rst:1
 msgid "Jsr"
@@ -19673,7 +19700,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Reverse saturation current density, A/um^2"
-msgstr ""
+msgstr "Ters doyum akımı yoğunluğu, A/um^2"
 
 #: ../../source/component_reference.rst:1
 msgid "nr"
@@ -19681,7 +19708,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Reverse current emission coefficient"
-msgstr ""
+msgstr "Ters akım yayılım katsayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "Vgr"
@@ -19691,6 +19718,7 @@ msgstr ""
 msgid ""
 "Reverse thermal activation energy, V, (0 == disables temperature dependence)"
 msgstr ""
+"Ters ısısal etkinleştirme enerjisi, V, (0 == sıcaklık bağımlılığını kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "XCjc"
@@ -19698,7 +19726,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Fraction of Cjc that goes to internal base node"
-msgstr ""
+msgstr "İç baz düğümüne sayılan Cjc kesri"
 
 #: ../../source/component_reference.rst:1
 msgid "Jsc"
@@ -19706,7 +19734,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B-C leakage saturation current density, A/um^2 (0. switches off diode)"
-msgstr ""
+msgstr "B-C kaçak doyum akım yoğunluğu, A/um^2 (0==diyodu kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "nc"
@@ -19714,7 +19742,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B-C leakage emission coefficient (0. switches off diode)"
-msgstr ""
+msgstr "B-C kaçak yayım sabiti (0==diyodu kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "Rcxx"
@@ -19722,7 +19750,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Limiting resistor of B-C leakage diode, Ohm"
-msgstr ""
+msgstr "B-C kaçak diyodunun sınırlama direnci, Ohm"
 
 #: ../../source/component_reference.rst:1
 msgid "Vgc"
@@ -19733,6 +19761,8 @@ msgid ""
 "B-C leakage thermal activation energy, V, (0 == disables temperature "
 "dependence)"
 msgstr ""
+"B-C kaçağı ısısal etkinleştirme enerjisi, V, (0==sıcaklık bağımlılığını "
+"kaldırır)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19754,7 +19784,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Ideal forward beta"
-msgstr ""
+msgstr "Mükemmel ileri beta"
 
 #: ../../source/component_reference.rst:1
 msgid "kBeta"
@@ -19765,10 +19795,12 @@ msgid ""
 "Temperature coefficient of forward current gain, -1/K,  (0 == disables "
 "temperature dependence)"
 msgstr ""
+"ileri akım kazancı sıcaklık sabiti, -1/K,  (0==sıcaklık bağımlılığını "
+"kaldırır)"
 
 #: ../../source/component_reference.rst:1
 msgid "Ideal reverse beta"
-msgstr ""
+msgstr "Mükemmel geri beta"
 
 #: ../../source/component_reference.rst:1
 msgid "VAF"
@@ -19776,7 +19808,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Forward Early voltage, V,  (0 == disables Early Effect)"
-msgstr ""
+msgstr "IIleri Erken gerilimi, V,  (0==Erken etkisini kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "VAR"
@@ -19784,7 +19816,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Reverse Early voltage, V, (0 == disables Early Effect)"
-msgstr ""
+msgstr "Ters Erken gerilimi, V,  (0==Erken etkisini kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "IKF"
@@ -19792,7 +19824,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Forward high-injection knee current, A, (0 == disables Webster Effect)"
-msgstr ""
+msgstr "İleri yüksek injeksiyon büküm akımı, A, (0==Webster etkisini kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "IKR"
@@ -19800,7 +19832,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Reverse high-injection knee current, A, (0 == disables Webster Effect)"
-msgstr ""
+msgstr "Ters yüksek injeksiyon büküm akımı, A, (0==Webster etkisini kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "Mc"
@@ -19808,7 +19840,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "C-E breakdown exponent, (0 == disables collector break-down)"
-msgstr ""
+msgstr "C-E kırılma üsteli, (0==kollektör kırılma özelliğini kapatır)"
 
 #: ../../source/component_reference.rst:1
 msgid "BVceo"
@@ -19816,7 +19848,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "C-E breakdown voltage, V, (0 == disables collector break-down)"
-msgstr ""
+msgstr "C-E kırılma gerilimi, V, (0==kırılma gerilimi etkinliğini kaldırır)"
 
 #: ../../source/component_reference.rst:1
 msgid "kc"
@@ -19824,7 +19856,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "C-E breakdown factor, (0 == disables collector break-down)"
-msgstr ""
+msgstr "C-E kırılma çarpanı, V, (0==kollektör kırılma özelliğini kaldırır)"
 
 #: ../../source/component_reference.rst:1
 msgid "BVebo"
@@ -19832,7 +19864,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B-E breakdown voltage, V, (0 == disables emitter break-down)"
-msgstr ""
+msgstr "B-E kırılma gerilimi, V, (0==emetör kırılma özelliğini kaldırır)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19843,7 +19875,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Ideal reverse transit time, s"
-msgstr ""
+msgstr "Mükemmel ters geçis zamanı, s"
 
 #: ../../source/component_reference.rst:1
 msgid "Trx"
@@ -19851,7 +19883,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Extrinsic BC diffusion capacitance, F"
-msgstr ""
+msgstr "Harici BC yayınma sığası, F"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -19861,7 +19893,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Ideal forward transit time, s"
-msgstr ""
+msgstr "Mükemmel düz geçis zamanı, s"
 
 #: ../../source/component_reference.rst:1
 msgid "Tft"
@@ -19869,7 +19901,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Temperature coefficient of forward transit time"
-msgstr ""
+msgstr "İleri geçiş zamanı sıcaklık sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "Thcs"
@@ -19877,7 +19909,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Excess transit time coefficient at base push-out"
-msgstr ""
+msgstr "Baz dışarı-it olayı sırasında (push-out) aşırı geçiş-zamanı sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "Ahc"
@@ -19885,11 +19917,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Smoothing parameter for Thcs"
-msgstr ""
+msgstr "Thcs için yumuşatma değişkeni"
 
 #: ../../source/component_reference.rst:1
 msgid "B-E zero-bias depletion capacitance, F/um^2"
-msgstr ""
+msgstr "B-E sıfır-kutuplama tüketim sığası, F/um^2"
 
 #: ../../source/component_reference.rst:1
 msgid "mje"
@@ -19897,15 +19929,15 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B-E junction exponential factor"
-msgstr ""
+msgstr "B-E eklemi üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 msgid "B-E junction built-in potential, V"
-msgstr ""
+msgstr "B-E eklem iç gerilimi, V"
 
 #: ../../source/component_reference.rst:1
 msgid "B-C zero-bias depletion capacitance, F/um^2"
-msgstr ""
+msgstr "B-C sıfır-kutuplama tüketim sığası, F/um^2"
 
 #: ../../source/component_reference.rst:1
 msgid "mjc"
@@ -19913,11 +19945,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B-C junction exponential factor"
-msgstr ""
+msgstr "B-C eklemi üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 msgid "B-C junction built-in potential, V"
-msgstr ""
+msgstr "B-C eklem iç gerilimi, V"
 
 #: ../../source/component_reference.rst:1
 msgid "kjc"
@@ -19925,7 +19957,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "not used"
-msgstr ""
+msgstr "kullanılmamış"
 
 #: ../../source/component_reference.rst:1
 msgid "Cmin"
@@ -19937,7 +19969,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Minimum B-C depletion capacitance (Vbc dependence), F/um^2"
-msgstr ""
+msgstr "B-C tüketim sığasının en küçük değeri (Vbc bağımlılığı), F/um^2"
 
 #: ../../source/component_reference.rst:1
 msgid "J0"
@@ -19963,6 +19995,8 @@ msgid ""
 "Collector current where Cbc reaches Cmin, A/um^2 (0 == disables Cbc "
 "reduction)"
 msgstr ""
+"Cbc'nin Cmin'e eşit olduğu kollektör akımı, A/um^2 (0==Cbc azalımını devre "
+"dışı bırakır)"
 
 #: ../../source/component_reference.rst:1
 msgid "XJ0"
@@ -19970,7 +20004,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Fraction of Cmin, lower limit of BC capacitance (Ic dependence)"
-msgstr ""
+msgstr "Cmin kesri, BC sığasının aşağı sınırı (Ic bağımlılığı)"
 
 #: ../../source/component_reference.rst:1
 msgid "Rci0"
@@ -19981,6 +20015,8 @@ msgid ""
 "Onset of base push-out at low voltages, Ohm*um^2 (0 == disables base push-"
 "out)"
 msgstr ""
+"Düşük gerilimler için Baz dışarı-it olayının (push-out) başladığı nokta, "
+"Ohm*um^2 (0==Baz dışarı-it olayını devre dışı bırakır)"
 
 #: ../../source/component_reference.rst:1
 msgid "Jk"
@@ -19991,6 +20027,8 @@ msgid ""
 "Onset of base push-out at high voltages, A/um^2, (0 == disables base push-"
 "out)"
 msgstr ""
+"Yüksek gerilimler için Baz dışarı-it olayının (push-out) başladığı nokta, "
+"A/um^2 (0==Baz dışarı-it olayını devre dışı bırakır)"
 
 #: ../../source/component_reference.rst:1
 msgid "RJk"
@@ -19998,7 +20036,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Slope of Jk at high currents , Ohm*um^2"
-msgstr ""
+msgstr "Yüksek akımlarda Jk' nin eğimi, Ohm*um^2"
 
 #: ../../source/component_reference.rst:1
 msgid "Vces"
@@ -20007,18 +20045,19 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 msgid "Voltage shift of base push-out onset, V"
 msgstr ""
+"Baz dışarı-it (push-out) olayının başlangıcındaki gerilim ötelemesi, V"
 
 #: ../../source/component_reference.rst:1
 msgid "Collector resistance, Ohm/finger"
-msgstr ""
+msgstr "C direnci, Ohm/parmak"
 
 #: ../../source/component_reference.rst:1
 msgid "Emitter resistance, Ohm/finger"
-msgstr ""
+msgstr "E direnci, Ohm/parmak"
 
 #: ../../source/component_reference.rst:1
 msgid "Extrinsic base resistance, Ohm/finger"
-msgstr ""
+msgstr "Harici baz direnci, Ohm/parmak"
 
 #: ../../source/component_reference.rst:1
 msgid "Rb2"
@@ -20026,7 +20065,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Inner Base ohmic resistance, Ohm/finger"
-msgstr ""
+msgstr "İç Baz omik direnci, Ohm/parmak"
 
 #: ../../source/component_reference.rst:1
 msgid "Lc"
@@ -20034,7 +20073,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Collector inductance, H"
-msgstr ""
+msgstr "C sargı etkisi, H"
 
 #: ../../source/component_reference.rst:1
 msgid "Le"
@@ -20042,7 +20081,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Emitter inductance, H"
-msgstr ""
+msgstr "E sargı etkisi, H"
 
 #: ../../source/component_reference.rst:1
 msgid "Lb"
@@ -20050,7 +20089,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Base inductance, H"
-msgstr ""
+msgstr "B sargı etkisi, H"
 
 #: ../../source/component_reference.rst:1
 msgid "Cq"
@@ -20058,7 +20097,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Extrinsic B-C capacitance, F"
-msgstr ""
+msgstr "Harici B-C sığası, F"
 
 #: ../../source/component_reference.rst:1
 msgid "Cpb"
@@ -20066,7 +20105,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Extrinsic base capacitance, F"
-msgstr ""
+msgstr "Harici baz sığası, F"
 
 #: ../../source/component_reference.rst:1
 msgid "Cpc"
@@ -20074,7 +20113,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Extrinsic collector capacitance, F"
-msgstr ""
+msgstr "Harici kollektör sığası, F"
 
 #: ../../source/component_reference.rst:1
 msgid "Kfb"
@@ -20083,7 +20122,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flicker-noise coefficient"
-msgstr ""
+msgstr "Flicker gürültü sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "Afb"
@@ -20092,7 +20131,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flicker-noise exponent"
-msgstr ""
+msgstr "Flicker gürültü üsteli"
 
 #: ../../source/component_reference.rst:1
 msgid "Ffeb"
@@ -20101,19 +20140,19 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flicker-noise frequency exponent"
-msgstr ""
+msgstr "Flicker gürültü sıklık üsteli"
 
 #: ../../source/component_reference.rst:1
 msgid "Burst noise coefficient"
-msgstr ""
+msgstr "Ani gürültü sabiti"
 
 #: ../../source/component_reference.rst:1
 msgid "Burst noise exponent"
-msgstr ""
+msgstr "Ani gürültü üsteli"
 
 #: ../../source/component_reference.rst:1
 msgid "Burst noise corner frequency, Hz"
-msgstr ""
+msgstr "Hertz cinsinden ani gürültü köşe sıklığı"
 
 #: ../../source/component_reference.rst:1
 msgid "Kfe"
@@ -20133,7 +20172,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Ambient temperature at which the parameters were determined"
-msgstr ""
+msgstr "Değişkenlerin elde edildiği ortam sıcaklığı"
 
 #: ../../source/component_reference.rst:5036
 msgid "Modular Opamp"
@@ -20141,11 +20180,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Modular OpAmp"
-msgstr ""
+msgstr "Parçalı OpAmp"
 
 #: ../../source/component_reference.rst:1
 msgid "Modular Operational Amplifier verilog device"
-msgstr ""
+msgstr "Parçalı işlemsel yükselteç verilog cihazı"
 
 #: ../../source/component_reference.rst:1
 msgid "``mod_amp``"
@@ -20166,7 +20205,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Gain bandwidth product (Hz)"
-msgstr ""
+msgstr "Kazanç band genişliği çarpımı (Hz)"
 
 #: ../../source/component_reference.rst:1
 msgid "AOLDC"
@@ -20178,7 +20217,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Open-loop differential gain at DC (dB)"
-msgstr ""
+msgstr "DC' de açık-döngü diferansiyel kazanç (dB)"
 
 #: ../../source/component_reference.rst:1
 msgid "FP2"
@@ -20190,7 +20229,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Second pole frequency (Hz)"
-msgstr ""
+msgstr "İkinci kutup sıklığı (Hz)"
 
 #: ../../source/component_reference.rst:1
 msgid "RO"
@@ -20202,7 +20241,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Output resistance (Ohm)"
-msgstr ""
+msgstr "Çıkış direnci (Ohm)"
 
 #: ../../source/component_reference.rst:1
 msgid "CD"
@@ -20223,7 +20262,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Differential input capacitance (F)"
-msgstr ""
+msgstr "Diferansiyel giriş sığası (F)"
 
 #: ../../source/component_reference.rst:1
 msgid "RD"
@@ -20235,7 +20274,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Differential input resistance (Ohm)"
-msgstr ""
+msgstr "Diferansiyel giriş direnci (Ohm)"
 
 #: ../../source/component_reference.rst:1
 msgid "IOFF"
@@ -20247,7 +20286,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Input offset current (A)"
-msgstr ""
+msgstr "Giriş fark (offset) akımı (A)"
 
 #: ../../source/component_reference.rst:1
 msgid "IB"
@@ -20259,7 +20298,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Input bias current (A)"
-msgstr ""
+msgstr "Giriş kutuplama akımı (A)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -20275,7 +20314,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Input offset voltage (V)"
-msgstr ""
+msgstr "Giriş fark (offset) gerilimi (V)"
 
 #: ../../source/component_reference.rst:1
 msgid "CMRRDC"
@@ -20287,7 +20326,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Common-mode rejection ratio at DC (dB)"
-msgstr ""
+msgstr "DC' de CM (ortalama değer) red oranı (dB)"
 
 #: ../../source/component_reference.rst:1
 msgid "FCM"
@@ -20301,7 +20340,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Common-mode zero corner frequency (Hz)"
-msgstr ""
+msgstr "CM (ortalama değer) sıfır köşe sıklığı (Hz)"
 
 #: ../../source/component_reference.rst:1
 msgid "PSRT"
@@ -20314,7 +20353,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Positive slew rate (V/s)"
-msgstr ""
+msgstr "Pozitif tırmanma hızı (slew-rate) (V/s)"
 
 #: ../../source/component_reference.rst:1
 msgid "NSRT"
@@ -20322,7 +20361,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Negative slew rate (V/s)"
-msgstr ""
+msgstr "Negatif tırmanma hızı (slew-rate) (V/s)"
 
 #: ../../source/component_reference.rst:1
 msgid "VLIMP"
@@ -20334,7 +20373,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Positive output voltage limit (V)"
-msgstr ""
+msgstr "Pozitif çıkış gerilimi sınırı (V)"
 
 #: ../../source/component_reference.rst:1
 msgid "VLIMN"
@@ -20346,7 +20385,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Negative output voltage limit (V)"
-msgstr ""
+msgstr "Negatif çıkış gerilimi sınırı (V)"
 
 #: ../../source/component_reference.rst:1
 msgid "ILMAX"
@@ -20358,7 +20397,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Maximum DC output current (A)"
-msgstr ""
+msgstr "En yüksek DC çıkış akımı (A)"
 
 #: ../../source/component_reference.rst:1
 msgid "CSCALE"
@@ -20366,11 +20405,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "50"
-msgstr ""
+msgstr "50"
 
 #: ../../source/component_reference.rst:1
 msgid "Current limit scale factor"
-msgstr ""
+msgstr "Akım sınırı boyutlama çarpanı"
 
 #: ../../source/component_reference.rst:5092
 msgid "Hicum L2 V2.22"
@@ -20378,11 +20417,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "HICUM L2 v2.22"
-msgstr ""
+msgstr "HICUM L2 v2.22"
 
 #: ../../source/component_reference.rst:1
 msgid "HICUM Level 2 v2.22 verilog device"
-msgstr ""
+msgstr "HICUM Seviyesi 2 v2.22 verilog devre elemanı"
 
 #: ../../source/component_reference.rst:1
 msgid "``hic2_full``"
@@ -20527,7 +20566,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Specifies the base node connection for the tunneling current"
-msgstr ""
+msgstr "Tünelleme akımı için baz ucu bağlantısı tanımlar"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -20774,7 +20813,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Partitioning factor of parasitic B-C cap"
-msgstr ""
+msgstr "Asalak B-C sığası kısımlama çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -20788,7 +20827,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Partitioning factor of parasitic B-E cap"
-msgstr ""
+msgstr "Asalak B-E sığası kısımlama çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -20988,7 +21027,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flag for turning on and off of vertical NQS effect"
-msgstr ""
+msgstr "Dikey NQS etkisi açma kapama bayrağı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21009,7 +21048,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flag for determining where to tag the flicker noise source"
-msgstr ""
+msgstr "Flicker gürüldü kaynağının nereye koyulacağını belirleyen bayrak"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21183,7 +21222,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Coefficient K1 in T-dependent band-gap equation"
-msgstr ""
+msgstr "T-bağımlı bant-genişliği eşitliğindeki K1 sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21220,7 +21259,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Coefficient K2 in T-dependent band-gap equation"
-msgstr ""
+msgstr "T-bağımlı bant-genişliği eşitliğindeki K2 sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21250,7 +21289,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Exponent coefficient in transfer current temperature dependence"
-msgstr ""
+msgstr "Geçiş akımı sıcaklık bağımlığı üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21287,7 +21326,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Exponent coefficient in B-E junction current temperature dependence"
-msgstr ""
+msgstr "B-E eklem akımı sıcaklık bağımlılığı üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21316,7 +21355,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flag for turning on and off self-heating effect"
-msgstr ""
+msgstr "Kendi kendini ısıtma etkisini açma kapama bayrağı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21352,7 +21391,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flag for compatibility with v2.1 model (0=v2.1)"
-msgstr ""
+msgstr "v2.1 modeli ile uyumluluk bayrağı (0=v2.1)"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21372,11 +21411,11 @@ msgstr ""
 #: ../../source/component_reference.rst:5245
 #: ../../source/component_reference.rst:1
 msgid "Logarithmic Amplifier"
-msgstr ""
+msgstr "Üstel Yükselteç"
 
 #: ../../source/component_reference.rst:1
 msgid "Logarithmic Amplifier verilog device"
-msgstr ""
+msgstr "Üstel yükseltici verilog devre elemanı"
 
 #: ../../source/component_reference.rst:1
 msgid "``log_amp``"
@@ -21396,7 +21435,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "scale factor"
-msgstr ""
+msgstr "boyutlama çarpanı"
 
 #: ../../source/component_reference.rst:1
 msgid "Dk"
@@ -21451,7 +21490,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "number of decades"
-msgstr ""
+msgstr "onluk sayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21570,12 +21609,12 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "npn HICUM L0 v1.12"
-msgstr ""
+msgstr "npn HICUM L0 v1.12"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "HICUM Level 0 v1.12 verilog device"
-msgstr ""
+msgstr "HICUM Seviyesi 0 v1.12 verilog devre elemanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21648,7 +21687,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Non-ideality coefficient of forward collector current"
-msgstr ""
+msgstr "İleri kollektör akımının mükemmel olmama katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21670,7 +21709,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Non-ideality coefficient of reverse collector current"
-msgstr ""
+msgstr "Ters kollektör akımının mükemmel olmama katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21843,7 +21882,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "high-injection correction factor"
-msgstr ""
+msgstr "yüksek-zerk düzeltme çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21898,7 +21937,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "BE non-ideality factor"
-msgstr ""
+msgstr "BE mükemmel olmama (gerçeklik) çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21942,7 +21981,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "BE recombination non-ideality factor"
-msgstr ""
+msgstr "BE tekrar-birleşim mükemmel olmama (gerçeklik) çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -21986,7 +22025,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "BC non-ideality factor"
-msgstr ""
+msgstr "BC mükemmel olmama (gerçeklik) çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22087,7 +22126,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "BE exponent factor"
-msgstr ""
+msgstr "BE üstel çarpan"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22109,7 +22148,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Ratio of maximum to zero-bias value"
-msgstr ""
+msgstr "En yüksek değerin sıfır-kutuplama durumundaki değere oranı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22313,7 +22352,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "BC exponent factor"
-msgstr ""
+msgstr "BC üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22357,7 +22396,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "External BC exponent factor"
-msgstr ""
+msgstr "Dış B-C eklemi üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22368,7 +22407,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Split factor = Cjci0/Cjc0"
-msgstr ""
+msgstr "Ayırma çarpanı = Cjci0/Cjc0"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22423,7 +22462,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Geometry factor"
-msgstr ""
+msgstr "Geometri çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22434,7 +22473,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Substrate transistor transfer current non-ideality factor"
-msgstr ""
+msgstr "Alt-tabaka transistör geçiş akımı mükemmel olmama (gerçeklik) çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22456,7 +22495,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "SC non-ideality factor"
-msgstr ""
+msgstr "SC mükemmel olmama (gerçeklik) çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22489,7 +22528,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "External SC exponent factor"
-msgstr ""
+msgstr "Dış SC eklemi üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22544,7 +22583,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Exponent factor"
-msgstr ""
+msgstr "Űstel çarpan"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22566,7 +22605,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Prefactor"
-msgstr ""
+msgstr "Ön çarpan"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22588,7 +22627,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "flicker noise exponent factor"
-msgstr ""
+msgstr "flicker gürültüsü üstel çarpanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22698,7 +22737,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Exponent coefficient in BE junction current temperature dependence"
-msgstr ""
+msgstr "B-E eklem akımı sıcaklık bağımlılığı üstel sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22709,7 +22748,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "TC of epi-collector diffusivity"
-msgstr ""
+msgstr "Kollektör dışındaki dağılmanın (içine işlemenin) sıcaklık sabiti"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22742,7 +22781,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "TC of internal base resistance"
-msgstr ""
+msgstr "İç B (baz) direnci sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22753,7 +22792,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "TC of external base resistance"
-msgstr ""
+msgstr "Dış B (baz) direnci sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22764,7 +22803,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "TC of external collector resistance"
-msgstr ""
+msgstr "Dış kollektör direnci sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22775,7 +22814,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "TC of emitter resistances"
-msgstr ""
+msgstr "Emetör direnci sıcaklık katsayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22826,7 +22865,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Flag for self-heating calculation"
-msgstr ""
+msgstr "Kendi kendine ısınma hesabı için bayrak"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22867,7 +22906,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "pnp HICUM L0 v1.12"
-msgstr ""
+msgstr "pnp HICUM L0 v1.12"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -22880,11 +22919,11 @@ msgstr ""
 #: ../../source/component_reference.rst:5551
 #: ../../source/component_reference.rst:1
 msgid "Potentiometer"
-msgstr ""
+msgstr "Potansiyometre"
 
 #: ../../source/component_reference.rst:1
 msgid "Potentiometer verilog device"
-msgstr ""
+msgstr "Potansiyometre verilog devre elemanı"
 
 #: ../../source/component_reference.rst:1
 msgid "``potentiometer``"
@@ -22928,7 +22967,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "resistive law taper coefficient"
-msgstr ""
+msgstr "resistive law taper coefficient"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -23048,7 +23087,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: ../../source/component_reference.rst:1
 msgid "doping profile parameter (1/V)"
@@ -30072,7 +30111,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "digital source"
-msgstr ""
+msgstr "dijital kaynak"
 
 #: ../../source/component_reference.rst:1
 msgid "``DigiSource``"
@@ -30147,7 +30186,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "list of times for changing output value"
-msgstr ""
+msgstr "Degisen çıkıs degeri için zaman dizelgesi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -30159,16 +30198,16 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "voltage of high level"
-msgstr ""
+msgstr "yüksek seviyenin gerilimi"
 
 #: ../../source/component_reference.rst:8981
 #: ../../source/component_reference.rst:1
 msgid "Inverter"
-msgstr ""
+msgstr "Değilleyici"
 
 #: ../../source/component_reference.rst:1
 msgid "logical inverter"
-msgstr ""
+msgstr "mantıksal değilleyici"
 
 #: ../../source/component_reference.rst:1
 msgid "``Inv``"
@@ -30290,11 +30329,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port OR"
-msgstr ""
+msgstr "n-girişli VEYA"
 
 #: ../../source/component_reference.rst:1
 msgid "logical OR"
-msgstr ""
+msgstr "mantıksal VEYA"
 
 #: ../../source/component_reference.rst:1
 msgid "``OR``"
@@ -30320,7 +30359,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of input ports"
-msgstr ""
+msgstr "giriş uçlarının sayısı"
 
 #: ../../source/component_reference.rst:9068
 msgid "N-Port Nor"
@@ -30328,11 +30367,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port NOR"
-msgstr ""
+msgstr "n-girişli VEYA-DEĞİL"
 
 #: ../../source/component_reference.rst:1
 msgid "logical NOR"
-msgstr ""
+msgstr "mantıksal VEYA-DEĞİL"
 
 #: ../../source/component_reference.rst:1
 msgid "``NOR``"
@@ -30348,11 +30387,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port AND"
-msgstr ""
+msgstr "n-girişli VE"
 
 #: ../../source/component_reference.rst:1
 msgid "logical AND"
-msgstr ""
+msgstr "mantıksal VE"
 
 #: ../../source/component_reference.rst:1
 msgid "``AND``"
@@ -30368,11 +30407,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port NAND"
-msgstr ""
+msgstr "n-girişli VE-DEĞİL"
 
 #: ../../source/component_reference.rst:1
 msgid "logical NAND"
-msgstr ""
+msgstr "mantıksal VE-DEĞİL"
 
 #: ../../source/component_reference.rst:1
 msgid "``NAND``"
@@ -30388,11 +30427,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port XOR"
-msgstr ""
+msgstr "n-girişli X-VEYA"
 
 #: ../../source/component_reference.rst:1
 msgid "logical XOR"
-msgstr ""
+msgstr "mantıksal X-VEYA (XOR)"
 
 #: ../../source/component_reference.rst:1
 msgid "``XOR``"
@@ -30408,11 +30447,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port XNOR"
-msgstr ""
+msgstr "n-girişli X-VEYA-DEĞİL"
 
 #: ../../source/component_reference.rst:1
 msgid "logical XNOR"
-msgstr ""
+msgstr "mantıksal X-VEYA-DEĞİL (XNOR)"
 
 #: ../../source/component_reference.rst:1
 msgid "``XNOR``"
@@ -30751,11 +30790,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "RS-FlipFlop"
-msgstr ""
+msgstr "RS-TetikDevresi"
 
 #: ../../source/component_reference.rst:1
 msgid "RS flip flop"
-msgstr ""
+msgstr "RS tetik devresi"
 
 #: ../../source/component_reference.rst:1
 msgid "``RSFF``"
@@ -30781,11 +30820,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "D-FlipFlop"
-msgstr ""
+msgstr "D-TetikDevresi"
 
 #: ../../source/component_reference.rst:1
 msgid "D flip flop with asynchron reset"
-msgstr ""
+msgstr "Eşzamanlı Olmayan resetli D tipi tetik devresi"
 
 #: ../../source/component_reference.rst:1
 msgid "``DFF``"
@@ -30856,11 +30895,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "JK-FlipFlop"
-msgstr ""
+msgstr "JK-TetikDevresi"
 
 #: ../../source/component_reference.rst:1
 msgid "JK flip flop with asynchron set and reset"
-msgstr ""
+msgstr "Eşzamanlı Olmayan set ve resetli JK tipi tetik devresi"
 
 #: ../../source/component_reference.rst:1
 msgid "``JKFF``"
@@ -31196,7 +31235,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "VHDL file"
-msgstr ""
+msgstr "VHDL kütüğü"
 
 #: ../../source/component_reference.rst:1
 msgid "``VHDL``"
@@ -31213,7 +31252,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Name of VHDL file"
-msgstr ""
+msgstr "VHDL kütüğünün ismi"
 
 #: ../../source/component_reference.rst:10679
 msgid "Verilog File"
@@ -31222,7 +31261,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Verilog file"
-msgstr ""
+msgstr "Verilog kütüğü"
 
 #: ../../source/component_reference.rst:1
 msgid "``Verilog``"
@@ -31234,7 +31273,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Name of Verilog file"
-msgstr ""
+msgstr "Verilog kütüğünün ismi"
 
 #: ../../source/component_reference.rst:10719
 #: ../../source/component_reference.rst:11271
@@ -31246,7 +31285,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "digital simulation"
-msgstr ""
+msgstr "dijital benzetim"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31281,12 +31320,12 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "duration of TimeList simulation"
-msgstr ""
+msgstr "ZamanDizelgesi-TimeList benzetim süresi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "VHDL"
-msgstr ""
+msgstr "VHDL"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31303,11 +31342,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "SPICE netlist"
-msgstr ""
+msgstr "SPICE bağlantı dizelgesi"
 
 #: ../../source/component_reference.rst:1
 msgid "SPICE netlist file"
-msgstr ""
+msgstr "SPICE bağlantı dizelgesi kütüğü"
 
 #: ../../source/component_reference.rst:1
 msgid "``SPICE``"
@@ -31353,13 +31392,13 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "1-port S parameter file"
-msgstr ""
+msgstr "1-port S değişken kütüğü"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "S parameter file"
-msgstr ""
+msgstr "S değişken kütüğü"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31379,13 +31418,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "name of the s parameter file"
-msgstr ""
+msgstr "s değişken kütüğünün ismi"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Data"
-msgstr ""
+msgstr "Veri"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31417,7 +31456,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "2-port S parameter file"
-msgstr ""
+msgstr "2 girişli S değişken kütüğü"
 
 #: ../../source/component_reference.rst:1
 msgid "spfile2"
@@ -31433,7 +31472,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "n-port S parameter file"
-msgstr ""
+msgstr "n-uçlu S değişken kütüğü"
 
 #: ../../source/component_reference.rst:1
 msgid "spfile3"
@@ -31446,12 +31485,12 @@ msgstr ""
 #: ../../source/component_reference.rst:10939
 #: ../../source/component_reference.rst:1
 msgid "Subcircuit"
-msgstr ""
+msgstr "Altdevre"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "subcircuit"
-msgstr ""
+msgstr "alt-devre"
 
 #: ../../source/component_reference.rst:1
 msgid "``Sub``"
@@ -31463,7 +31502,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "name of qucs schematic file"
-msgstr ""
+msgstr "qucs tasarı kütüğünün ismi"
 
 #: ../../source/component_reference.rst:10976
 msgid "Simulations"
@@ -31476,7 +31515,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "dc simulation"
-msgstr ""
+msgstr "dc benzetim"
 
 #: ../../source/component_reference.rst:1
 msgid "``.DC``"
@@ -31511,7 +31550,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "relative tolerance for convergence"
-msgstr ""
+msgstr "yakınsama için göreli hoşgörü"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31528,7 +31567,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "absolute tolerance for currents"
-msgstr ""
+msgstr "akımlar için mutlak hoşgörü"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31545,7 +31584,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "absolute tolerance for voltages"
-msgstr ""
+msgstr "gerilimler için mutlak hoşgörü"
 
 #: ../../source/component_reference.rst:1
 msgid "saveOPs"
@@ -31565,7 +31604,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "maximum number of iterations until error"
-msgstr ""
+msgstr "hataya kadar en çok deneme sayısı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31609,11 +31648,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Transient simulation"
-msgstr ""
+msgstr "Kalımsız benzetim"
 
 #: ../../source/component_reference.rst:1
 msgid "transient simulation"
-msgstr ""
+msgstr "kalımsız benzetim"
 
 #: ../../source/component_reference.rst:1
 msgid "``.TR``"
@@ -31655,7 +31694,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "start time in seconds"
-msgstr ""
+msgstr "saniye cinsinden başlangıç zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31666,7 +31705,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "stop time in seconds"
-msgstr ""
+msgstr "saniye cinsinden durma zamanı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31677,7 +31716,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "number of simulation time steps"
-msgstr ""
+msgstr "benzetim zaman adımlarının sayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "IntegrationMethod"
@@ -31705,7 +31744,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "initial step size in seconds"
-msgstr ""
+msgstr "saniye cinsinden ilk adım"
 
 #: ../../source/component_reference.rst:1
 msgid "MinStep"
@@ -31713,7 +31752,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "minimum step size in seconds"
-msgstr ""
+msgstr "saniye cinsinden en küçük adım"
 
 #: ../../source/component_reference.rst:1
 msgid "LTEreltol"
@@ -31721,7 +31760,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "relative tolerance of local truncation error"
-msgstr ""
+msgstr "yerel kesme hatasının göreli hoşgörüsü"
 
 #: ../../source/component_reference.rst:1
 msgid "LTEabstol"
@@ -31729,7 +31768,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "absolute tolerance of local truncation error"
-msgstr ""
+msgstr "yerel kesme hatasının mutlak hoşgörüsü"
 
 #: ../../source/component_reference.rst:1
 msgid "LTEfactor"
@@ -31737,7 +31776,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "overestimation of local truncation error"
-msgstr ""
+msgstr "yerel kesme hatasının abartısı"
 
 #: ../../source/component_reference.rst:1
 msgid "relaxTSR"
@@ -31761,7 +31800,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "maximum step size in seconds"
-msgstr ""
+msgstr "saniye cinsinden en büyük adım büyüklüğü"
 
 #: ../../source/component_reference.rst:11089
 msgid "Ac Simulation"
@@ -31770,7 +31809,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "ac simulation"
-msgstr ""
+msgstr "ac benzetimi"
 
 #: ../../source/component_reference.rst:1
 msgid "``.AC``"
@@ -31787,7 +31826,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "start frequency in Hertz"
-msgstr ""
+msgstr "Hertz cinsinden başlangıç sıklığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
@@ -31797,13 +31836,13 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "stop frequency in Hertz"
-msgstr ""
+msgstr "Hertz cinsinden bitiş sıklığı"
 
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "number of simulation steps"
-msgstr ""
+msgstr "benzetim adım sayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "calculate noise voltages [yes, no]"
@@ -31815,11 +31854,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "S-parameter simulation"
-msgstr ""
+msgstr "S-değişken benzetimi"
 
 #: ../../source/component_reference.rst:1
 msgid "S parameter simulation"
-msgstr ""
+msgstr "S değişken benzetimi"
 
 #: ../../source/component_reference.rst:1
 msgid "``.SP``"
@@ -31843,7 +31882,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "input port for noise figure"
-msgstr ""
+msgstr "gürültü biçimleme için giriş ucu"
 
 #: ../../source/component_reference.rst:1
 msgid "NoiseOP"
@@ -31851,7 +31890,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "output port for noise figure"
-msgstr ""
+msgstr "gürültü biçimleme için çıkış ucu"
 
 #: ../../source/component_reference.rst:1
 msgid "saveCVs"
@@ -31871,11 +31910,11 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "Harmonic balance"
-msgstr ""
+msgstr "Harmonic (harmonik) denge"
 
 #: ../../source/component_reference.rst:1
 msgid "Harmonic balance simulation"
-msgstr ""
+msgstr "Katsıklık (Harmonik) denge benzetimi"
 
 #: ../../source/component_reference.rst:1
 msgid "``.HB``"
@@ -31895,7 +31934,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "number of harmonics"
-msgstr ""
+msgstr "Katsıklık (harmonik) sayısı"
 
 #: ../../source/component_reference.rst:1
 msgid "iabstol"
@@ -31912,7 +31951,7 @@ msgstr ""
 #: ../../source/component_reference.rst:1
 #: ../../source/component_reference.rst:1
 msgid "Parameter sweep"
-msgstr ""
+msgstr "Değişken Süpürüm"
 
 #: ../../source/component_reference.rst:1
 msgid "``.SW``"
@@ -31928,7 +31967,7 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "simulation to perform parameter sweep on"
-msgstr ""
+msgstr "üzerinde değişken süpürümünün uygulanacağı benzetim"
 
 #: ../../source/component_reference.rst:1
 msgid "Param"
@@ -31936,24 +31975,24 @@ msgstr ""
 
 #: ../../source/component_reference.rst:1
 msgid "parameter to sweep"
-msgstr ""
+msgstr "süpürülecek değişken"
 
 #: ../../source/component_reference.rst:1
 msgid "start value for sweep"
-msgstr ""
+msgstr "süpürüm için başlangıç değeri"
 
 #: ../../source/component_reference.rst:1
 msgid "stop value for sweep"
-msgstr ""
+msgstr "süpürüm için başlangıç değeri"
 
 #: ../../source/component_reference.rst:11313
 #: ../../source/component_reference.rst:1
 msgid "Optimization"
-msgstr ""
+msgstr "iyilestirme"
 
 #: ../../source/component_reference.rst:1
 msgid "optimization"
-msgstr ""
+msgstr "iyilestirme"
 
 #: ../../source/component_reference.rst:1
 msgid "``.Opt``"
