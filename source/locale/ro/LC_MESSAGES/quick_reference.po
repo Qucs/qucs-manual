@@ -1,0 +1,2301 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Qucs Reference Manual 0.0.19\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-28 19:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/quick_reference.rst:9
+msgid "Quick Reference"
+msgstr ""
+
+#: ../../source/quick_reference.rst:11
+msgid ""
+"The table below is a quick summary of the 184 components currently available"
+" in Qucs."
+msgstr ""
+
+#: ../../source/quick_reference.rst:0
+msgid "Schematic Entry Quick Reference"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Schematic Entry"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Netlist Entry"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Description"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Resistor <001Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``R``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "resistor"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Resistor US <002Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Capacitor <003Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``C``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "capacitor"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Inductor <004Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``L``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "inductor"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Ground <005Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``GND``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ground (reference potential)"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Subcircuit Port <006Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Port``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``P``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "port of a subcircuit"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Transformer <007Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``Tr``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal transformer"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`symmetric Transformer <008Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``sTr``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal symmetrical transformer"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`dc Block <009Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``DCBlock``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "dc block"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`dc Feed <010Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``DCFeed``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "dc feed"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Bias T <011Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``BiasT``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``X``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "bias t"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Attenuator <012Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Attenuator``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "attenuator"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Amplifier <013Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Amp``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal amplifier"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Isolator <014Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Isolator``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "isolator"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Circulator <015Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Circulator``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "circulator"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Gyrator <016Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Gyrator``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "gyrator (impedance inverter)"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Phase Shifter <017Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``PShift``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "phase shifter"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coupler <018Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Coupler``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal coupler"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Hybrid <019Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Hybrid``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "hybrid (unsymmetrical 3dB coupler)"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Current Probe <020Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``IProbe``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``Pr``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "current probe"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Voltage Probe <021Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``VProbe``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "voltage probe"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Mutual Inductors <022Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MUT``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "two mutual inductors"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`3 Mutual Inductors <023Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MUT2``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "three mutual inductors"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`N Mutual Inductors <024Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MUTX``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "several mutual inductors"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Switch <025Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Switch``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``S``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "switch (time controlled)"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Relay <026Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Relais``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "relay"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Equation Defined RF Device <027Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``RFEDD``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``RF``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "equation defined RF device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Equation Defined 2-port RF Device <028Lum>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``RFEDD2P``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "equation defined 2-port RF device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`dc Voltage Source <001Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Vdc``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``V``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal dc voltage source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`dc Current Source <002Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Idc``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``I``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal dc current source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`ac Voltage Source <003Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Vac``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal ac voltage source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`ac Current Source <004Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Iac``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal ac current source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Power Source <005Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Pac``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ac power source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Noise Voltage Source <006Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Vnoise``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "noise voltage source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Noise Current Source <007Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Inoise``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "noise current source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Voltage Controlled Current Source <008Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``VCCS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``SRC``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "voltage controlled current source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Current Controlled Current Source <009Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``CCCS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "current controlled current source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Voltage Controlled Voltage Source <010Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``VCVS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "voltage controlled voltage source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Current Controlled Voltage Source <011Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``CCVS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "current controlled voltage source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Voltage Pulse <012Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Vpulse``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal voltage pulse source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Current Pulse <013Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Ipulse``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal current pulse source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Rectangle Voltage <014Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Vrect``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal rectangle voltage source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Rectangle Current <015Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Irect``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal rectangle current source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Correlated Noise Sources <016Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``IInoise``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "correlated current sources"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Correlated Noise Sources <017Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``VVnoise``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Correlated Noise Sources <018Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``IVnoise``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`AM modulated Source <019Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``AM_Mod``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ac voltage source with amplitude modu..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`PM modulated Source <020Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``PM_Mod``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ac voltage source with phase modulato..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Exponential Current Pulse <021Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Iexp``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "exponential current source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Exponential Voltage Pulse <022Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Vexp``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "exponential voltage source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`File Based Voltage Source <023Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Vfile``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "file based voltage source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`File Based Current Source <024Sou>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Ifile``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "file based current source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Current Probe <001Pro>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Voltage Probe <002Pro>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Transmission Line <001Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``TLIN``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``Line``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal transmission line"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4-Terminal Transmission Line <002Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``TLIN4P``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ideal 4-terminal transmission line"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coupled Transmission Line <003Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``CTLIN``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "coupled transmission lines"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Twisted-Pair <004Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``TWIST``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "twisted pair transmission line"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coaxial Line <005Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``COAX``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "coaxial transmission line"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Rectangular Waveguide <006Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``RECTLINE``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Rectangular Waveguide"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`RLCG Transmission Line <007Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``RLCG``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "RLCG transmission line"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Substrate <008Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``SUBST``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Subst``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "substrate definition"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Line <009Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MLIN``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``MS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip line"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coupled Microstrip Line <010Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MCOUPLED``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "coupled microstrip line"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Lange Coupler <011Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MLANGE``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip lange coupler"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Corner <012Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MCORN``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip corner"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Mitered Bend <013Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MMBEND``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip mitered bend"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Step <014Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MSTEP``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip impedance step"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Tee <015Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MTEE``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip tee"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Cross <016Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MCROSS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip cross"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Open <017Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MOPEN``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip open"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Gap <018Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MGAP``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip gap"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Via <019Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MVIA``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip via"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Microstrip Radial Stub <020Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MRSTUB``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "microstrip radial stub"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coplanar Line <021Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``CLIN``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``CL``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "coplanar line"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coplanar Open <022Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``COPEN``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "coplanar open"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coplanar Short <023Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``CSHORT``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "coplanar short"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coplanar Gap <024Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``CGAP``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "coplanar gap"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Coplanar Step <025Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``CSTEP``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "coplanar step"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Bond Wire <026Tra>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``BOND``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "bond wire"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Diode <001Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Diode``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``D``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "diode"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`npn transistor <002Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``_BJT``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``T``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "bipolar junction transistor"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`pnp transistor <003Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`npn transistor <004Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``BJT``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "bipolar junction transistor with subs..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`pnp transistor <005Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-JFET <006Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``JFET``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "junction field-effect transistor"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`p-JFET <007Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-MOSFET <008Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``_MOSFET``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "MOS field-effect transistor"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`p-MOSFET <009Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`depletion MOSFET <010Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-MOSFET <011Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``MOSFET``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "MOS field-effect transistor with subs..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`p-MOSFET <012Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`depletion MOSFET <013Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`OpAmp <014Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``OpAmp``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``OP``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "operational amplifier"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Equation Defined Device <015Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``EDD``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "equation defined device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Diac <016Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Diac``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "diac (bidirectional trigger diode)"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Triac <017Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Triac``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "triac (bidirectional thyristor)"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Thyristor <018Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``SCR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "silicon controlled rectifier (SCR)"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Tunnel Diode <019Non>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``RTD``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "resonance tunnel diode"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`HICUM L2 v2.1 <001Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``hicumL2V2p1``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "HICUM Level 2 v2.1 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`FBH HBT <002Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``HBT_X``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "HBT model by Ferdinand-Braun-Institut..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Modular OpAmp <003Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``mod_amp``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Modular Operational Amplifier verilog..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`HICUM L2 v2.22 <004Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``hic2_full``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "HICUM Level 2 v2.22 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Logarithmic Amplifier <005Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``log_amp``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``LA``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Logarithmic Amplifier verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`npn HICUM L0 v1.12 <006Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``hic0_full``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "HICUM Level 0 v1.12 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`pnp HICUM L0 v1.12 <007Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Potentiometer <008Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``potentiometer``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``POT``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Potentiometer verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`MESFET <009Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``MESFET``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "MESFET verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`EPFL-EKV NMOS 2.6 <010Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``EKV26MOS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``M``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "EPFL-EKV MOS 2.6 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`EPFL-EKV PMOS 2.6 <011Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`bsim3v34nMOS <012Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``bsim3v34nMOS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``BSIM3_``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "bsim3v34nMOS verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`bsim3v34pMOS <013Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``bsim3v34pMOS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "bsim3v34pMOS verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`bsim4v30nMOS <014Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``bsim4v30nMOS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``BSIM4_``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "bsim4v30nMOS verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`bsim4v30pMOS <015Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``bsim4v30pMOS``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "bsim4v30pMOS verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`npn HICUM L0 v1.2 <016Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``hicumL0V1p2``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "HICUM Level 0 v1.2 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`pnp HICUM L0 v1.2 <017Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`npn HICUM L0 v1.2g <018Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``hicumL0V1p2g``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "HICUM Level 0 v1.2g verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`pnp HICUM L0 v1.2g <019Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`npn HICUM L0 v1.3 <020Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``hicumL0V1p3``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "HICUM Level 0 v1.3 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`pnp HICUM L0 v1.3 <021Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`HICUM L2 v2.23 <022Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``hicumL2V2p23``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "HICUM Level 2 v2.23 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`HICUM L2 v2.24 <023Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``hicumL2V2p24``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "HICUM Level 2 v2.24 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`HICUM L2 V2.31 <024Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``hicumL2V2p31n``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "hicumL2V2p31n verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Photodiode <025Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``photodiode``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``PD``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Photodiode verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Phototransistor <026Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``phototransistor``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``PT``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Phototransistor verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`NIGBT <027Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``nigbt``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "NIGBT verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Voltage Controlled Resistor <028Ver>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``vcresistor``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``VCR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`digital source <001Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``DigiSource``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "digital source"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Inverter <002Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Inv``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``Y``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logical inverter"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-port OR <003Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``OR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logical OR"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-port NOR <004Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``NOR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logical NOR"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-port AND <005Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``AND``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logical AND"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-port NAND <006Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``NAND``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logical NAND"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-port XOR <007Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``XOR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logical XOR"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-port XNOR <008Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``XNOR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logical XNOR"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Buffer <009Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Buf``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logical buffer"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4x2 AndOr <010Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``andor4x2``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4x2 andor verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4x3 AndOr <011Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``andor4x3``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4x3 andor verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4x4 AndOr <012Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``andor4x4``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4x4 andor verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`2to1 Mux <013Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``mux2to1``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "2to1 multiplexer verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4to1 Mux <014Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``mux4to1``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4to1 multiplexer verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`8to1 Mux <015Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``mux8to1``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "8to1 multiplexer verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`2to4 Demux <016Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``dmux2to4``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "2to4 demultiplexer verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`3to8 Demux <017Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``dmux3to8``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "3to8 demultiplexer verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4to16 Demux <018Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``dmux4to16``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4to16 demultiplexer verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`1Bit HalfAdder <019Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``ha1b``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "1bit half adder verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`1Bit FullAdder <020Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``fa1b``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "1bit full adder verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`2Bit FullAdder <021Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``fa2b``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "2bit full adder verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`RS-FlipFlop <022Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``RSFF``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "RS flip flop"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`D-FlipFlop <023Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``DFF``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "D flip flop with asynchron reset"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`D-FlipFlop w/ SR <024Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``dff_SR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "D flip flop with set and reset verilo..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`JK-FlipFlop <025Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``JKFF``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "JK flip flop with asynchron set and r..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`JK-FlipFlop w/ SR <026Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``jkff_SR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "jk flip flop with set and reset veril..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`T-FlipFlop w/ SR <027Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``tff_SR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "T flip flop with set and reset verilo..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Gated D-Latch <028Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``gatedDlatch``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "gated D latch verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Logic 0 <029Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``logic_0``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logic 0 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Logic 1 <030Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``logic_1``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "logic 1 verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`2Bit Pattern <031Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``pad2bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "2bit pattern generator verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`3Bit Pattern <032Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``pad3bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "3bit pattern generator verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4Bit Pattern <033Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``pad4bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4bit pattern generator verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`A2D Level Shifter <034Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``DLS_nto1``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "data voltage level shifter (analogue ..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`D2A Level Shifter <035Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``DLS_1ton``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "data voltage level shifter (digital t..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4Bit Bin2Grey <036Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``binarytogrey4bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4bit binary to grey converter verilog..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4Bit Grey2Bin <037Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``greytobinary4bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4bit grey to binary converter verilog..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`1Bit Comparator <038Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``comp_1bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "1bit comparator verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`2Bit Comparator <039Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``comp_2bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "2bit comparator verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4Bit Comparator <040Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``comp_4bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4bit comparator verilog device"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`4Bit HPRI-Bin <041Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``hpribin4bit``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "4bit highest priority encoder (binary..."
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`VHDL file <042Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``VHDL``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "VHDL file"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Verilog file <043Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Verilog``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Verilog file"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`digital simulation <044Dig>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``.Digi``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "``Digi``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+msgid "digital simulation"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`SPICE netlist <001Fil>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``SPICE``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "SPICE netlist file"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`1-port S parameter file <002Fil>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "``SPfile``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1 ../../source/quick_reference.rst:1
+#: ../../source/quick_reference.rst:1
+msgid "S parameter file"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`2-port S parameter file <003Fil>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`n-port S parameter file <004Fil>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Subcircuit <005Fil>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Sub``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``SUB``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "subcircuit"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`dc simulation <001Sim>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``.DC``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``DC``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "dc simulation"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Transient simulation <002Sim>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``.TR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``TR``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "transient simulation"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`ac simulation <003Sim>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``.AC``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``AC``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "ac simulation"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`S-parameter simulation <004Sim>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``.SP``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``SP``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "S parameter simulation"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Harmonic balance <005Sim>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``.HB``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``HB``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Harmonic balance simulation"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`Parameter sweep <006Sim>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``.SW``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``SW``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Parameter sweep"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`digital simulation <007Sim>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid ":ref:`optimization <008Sim>`"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``.Opt``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "``Opt``"
+msgstr ""
+
+#: ../../source/quick_reference.rst:1
+msgid "Optimization"
+msgstr ""
