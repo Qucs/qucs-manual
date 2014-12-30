@@ -1,0 +1,1229 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Quick Reference &mdash; Qucs Reference Manual 0.0.19 - dokumentacja</title>
+  
+
+  
+  
+
+  
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="static/css/theme.css" type="text/css" />
+  
+
+  
+    <link rel="top" title="Qucs Reference Manual 0.0.19 - dokumentacja" href="index.html"/>
+        <link rel="next" title="Component Reference" href="component_reference.html"/>
+        <link rel="prev" title="Component Description" href="component_description.html"/> 
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-nav-search">
+        <a href="index.html" class="fa fa-home"> Qucs Reference Manual</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+        
+        
+            <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="component_description.html">Component Description</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="component_description.html#schematic-component">Schematic Component</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_description.html#netlist-component">Netlist Component</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="current reference internal" href="">Quick Reference</a></li>
+<li class="toctree-l1"><a class="reference internal" href="component_reference.html">Component Reference</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#lumped-components">Lumped Components</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#sources">Sources</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#probes">Probes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#transmission-lines">Transmission Lines</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#nonlinear-components">Nonlinear Components</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#verilog-a-devices">Verilog-A Devices</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#digital-components">Digital Components</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#file-components">File Components</a></li>
+<li class="toctree-l2"><a class="reference internal" href="component_reference.html#simulations">Simulations</a></li>
+</ul>
+</li>
+</ul>
+
+        
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="index.html">Qucs Reference Manual</a>
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+      
+    <li>Quick Reference</li>
+      <li class="wy-breadcrumbs-aside">
+        
+          <a href="sources/quick_reference.txt" rel="nofollow"> View page source</a>
+        
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            
+  <div class="section" id="quick-reference">
+<h1>Quick Reference<a class="headerlink" href="#quick-reference" title="Stały odnośnik do tego nagłówka">¶</a></h1>
+<p>The table below is a quick summary of the 184 components currently available in Qucs.</p>
+<table border="1" class="docutils">
+<caption>Schematic Entry Quick Reference</caption>
+<colgroup>
+<col width="30%" />
+<col width="15%" />
+<col width="15%" />
+<col width="40%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Device</th>
+<th class="head">Schematic Entry</th>
+<th class="head">Netlist Entry</th>
+<th class="head"><p class="first last">Opis</p>
+</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#lum"><em>Resistor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">R</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">R</span></tt></td>
+<td><p class="first last">opornik</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id1"><em>Resistor US</em></a></td>
+<td><tt class="docutils literal"><span class="pre">R</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">R</span></tt></td>
+<td><p class="first last">opornik</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id5"><em>Capacitor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">C</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">C</span></tt></td>
+<td><p class="first last">kondensator</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id9"><em>Inductor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">L</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">L</span></tt></td>
+<td><p class="first last">cewka</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id13"><em>Ground</em></a></td>
+<td><tt class="docutils literal"><span class="pre">GND</span></tt></td>
+<td>&nbsp;</td>
+<td><p class="first last">masa (potencjał odniesienia)</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id16"><em>Subcircuit Port</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Port</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">P</span></tt></td>
+<td><p class="first last">port podukładu</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id20"><em>Transformer</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Tr</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Tr</span></tt></td>
+<td><p class="first last">idealny transformator</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id24"><em>symmetric Transformer</em></a></td>
+<td><tt class="docutils literal"><span class="pre">sTr</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Tr</span></tt></td>
+<td><p class="first last">idealny transformator symetryczny</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id28"><em>dc Block</em></a></td>
+<td><tt class="docutils literal"><span class="pre">DCBlock</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">C</span></tt></td>
+<td><p class="first last">zapora dc</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id32"><em>dc Feed</em></a></td>
+<td><tt class="docutils literal"><span class="pre">DCFeed</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">L</span></tt></td>
+<td><p class="first last">dławik</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id36"><em>Bias T</em></a></td>
+<td><tt class="docutils literal"><span class="pre">BiasT</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">Trójnik zasilający</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id40"><em>Attenuator</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Attenuator</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">tłumik</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id44"><em>Amplifier</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Amp</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">idealny wzmacniacz</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id48"><em>Isolator</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Isolator</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">izolator</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id52"><em>Circulator</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Circulator</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">cyrkulator</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id56"><em>Gyrator</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Gyrator</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">żyrator (odwracacz impedancji)</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id60"><em>Phase Shifter</em></a></td>
+<td><tt class="docutils literal"><span class="pre">PShift</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">przesuwnik fazy</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id64"><em>Coupler</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Coupler</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">sprzęgacz idealny</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id68"><em>Hybrid</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Hybrid</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td>hybrid (unsymmetrical 3dB coupler)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id72"><em>Current Probe</em></a></td>
+<td><tt class="docutils literal"><span class="pre">IProbe</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Pr</span></tt></td>
+<td><p class="first last">miernik prądu</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id75"><em>Voltage Probe</em></a></td>
+<td><tt class="docutils literal"><span class="pre">VProbe</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Pr</span></tt></td>
+<td><p class="first last">próbnik napięcia</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id78"><em>Mutual Inductors</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MUT</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Tr</span></tt></td>
+<td><p class="first last">dwie indukcyjności wzajemnie sprzężone</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id82"><em>3 Mutual Inductors</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MUT2</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Tr</span></tt></td>
+<td><p class="first last">trzy indukcyjności wzajemnie sprzężone</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id87"><em>N Mutual Inductors</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MUTX</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Tr</span></tt></td>
+<td>several mutual inductors</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id91"><em>Switch</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Switch</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">S</span></tt></td>
+<td><p class="first last">przełącznik (kontrolowany czasowo)</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id95"><em>Relay</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Relais</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">S</span></tt></td>
+<td><p class="first last">przekażnik</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id99"><em>Equation Defined RF Device</em></a></td>
+<td><tt class="docutils literal"><span class="pre">RFEDD</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">RF</span></tt></td>
+<td>equation defined RF device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id103"><em>Equation Defined 2-port RF Device</em></a></td>
+<td><tt class="docutils literal"><span class="pre">RFEDD2P</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">RF</span></tt></td>
+<td>equation defined 2-port RF device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#sou"><em>dc Voltage Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Vdc</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td><p class="first last">idealne źródło napięciowe dc</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id110"><em>dc Current Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Idc</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">I</span></tt></td>
+<td><p class="first last">idealne źródło prądowe dc</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id114"><em>ac Voltage Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Vac</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td><p class="first last">idealne źródło napięciowe ac</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id118"><em>ac Current Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Iac</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">I</span></tt></td>
+<td><p class="first last">idealne źródło prądowe ac</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id122"><em>Power Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Pac</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">P</span></tt></td>
+<td><p class="first last">źródło mocy ac</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id126"><em>Noise Voltage Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Vnoise</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td><p class="first last">szumowe źródło napięcia</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id130"><em>Noise Current Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Inoise</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">I</span></tt></td>
+<td><p class="first last">źródło prądów szumowych</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id134"><em>Voltage Controlled Current Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">VCCS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SRC</span></tt></td>
+<td><p class="first last">źródło prądowe sterowane napięciem</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id138"><em>Current Controlled Current Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">CCCS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SRC</span></tt></td>
+<td><p class="first last">źródło prądowe sterowane prądem</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id142"><em>Voltage Controlled Voltage Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">VCVS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SRC</span></tt></td>
+<td><p class="first last">źródło napięciowe sterowane napięciem</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id146"><em>Current Controlled Voltage Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">CCVS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SRC</span></tt></td>
+<td><p class="first last">źródło napięciowe sterowane prądem</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id150"><em>Voltage Pulse</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Vpulse</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td><p class="first last">idealne napięciowe źródło impulsowe</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id154"><em>Current Pulse</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Ipulse</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">I</span></tt></td>
+<td><p class="first last">idealne prądowe źródło impulsowe</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id158"><em>Rectangle Voltage</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Vrect</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td><p class="first last">idealne prostokątne źródło napięciowe</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id162"><em>Rectangle Current</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Irect</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">I</span></tt></td>
+<td><p class="first last">idealne prostokątne źródło prądowe</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id166"><em>Correlated Noise Sources</em></a></td>
+<td><tt class="docutils literal"><span class="pre">IInoise</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SRC</span></tt></td>
+<td><p class="first last">skorelowane źródła prądowe</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id170"><em>Correlated Noise Sources</em></a></td>
+<td><tt class="docutils literal"><span class="pre">VVnoise</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SRC</span></tt></td>
+<td><p class="first last">skorelowane źródła prądowe</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id175"><em>Correlated Noise Sources</em></a></td>
+<td><tt class="docutils literal"><span class="pre">IVnoise</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SRC</span></tt></td>
+<td><p class="first last">skorelowane źródła prądowe</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id180"><em>AM modulated Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">AM_Mod</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td>ac voltage source with amplitude modu...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id184"><em>PM modulated Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">PM_Mod</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td>ac voltage source with phase modulato...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id188"><em>Exponential Current Pulse</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Iexp</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">I</span></tt></td>
+<td><p class="first last">wykładniczne źródło prądowe</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id192"><em>Exponential Voltage Pulse</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Vexp</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td><p class="first last">wykładnicze źródło napięciowe</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id196"><em>File Based Voltage Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Vfile</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">V</span></tt></td>
+<td>file based voltage source</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id200"><em>File Based Current Source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Ifile</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">I</span></tt></td>
+<td>file based current source</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#pro"><em>Current Probe</em></a></td>
+<td><tt class="docutils literal"><span class="pre">IProbe</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Pr</span></tt></td>
+<td><p class="first last">miernik prądu</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id207"><em>Voltage Probe</em></a></td>
+<td><tt class="docutils literal"><span class="pre">VProbe</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Pr</span></tt></td>
+<td><p class="first last">próbnik napięcia</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#tra"><em>Transmission Line</em></a></td>
+<td><tt class="docutils literal"><span class="pre">TLIN</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Line</span></tt></td>
+<td><p class="first last">idealna linia transmisyjna</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id214"><em>4-Terminal Transmission Line</em></a></td>
+<td><tt class="docutils literal"><span class="pre">TLIN4P</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Line</span></tt></td>
+<td><p class="first last">idealna 4-wrotowa linia transmsyjna</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id218"><em>Coupled Transmission Line</em></a></td>
+<td><tt class="docutils literal"><span class="pre">CTLIN</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Line</span></tt></td>
+<td>coupled transmission lines</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id222"><em>Twisted-Pair</em></a></td>
+<td><tt class="docutils literal"><span class="pre">TWIST</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Line</span></tt></td>
+<td><p class="first last">Linia transmisyjna - skrętka dwużyłowa</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id226"><em>Coaxial Line</em></a></td>
+<td><tt class="docutils literal"><span class="pre">COAX</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Line</span></tt></td>
+<td><p class="first last">koncentryczna linia transmisyjna</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id230"><em>Rectangular Waveguide</em></a></td>
+<td><tt class="docutils literal"><span class="pre">RECTLINE</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Line</span></tt></td>
+<td><p class="first last">Falowód prostokątny</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id234"><em>RLCG Transmission Line</em></a></td>
+<td><tt class="docutils literal"><span class="pre">RLCG</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Line</span></tt></td>
+<td>RLCG transmission line</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id238"><em>Substrate</em></a></td>
+<td><tt class="docutils literal"><span class="pre">SUBST</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Subst</span></tt></td>
+<td><p class="first last">nazwa podłoża</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id242"><em>Microstrip Line</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MLIN</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">linia mikropaskowa</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id246"><em>Coupled Microstrip Line</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MCOUPLED</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">linia mikropaskowa sprzężona</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id250"><em>Microstrip Lange Coupler</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MLANGE</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td>microstrip lange coupler</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id254"><em>Microstrip Corner</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MCORN</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">narożnik mikropaskowy</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id258"><em>Microstrip Mitered Bend</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MMBEND</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">fazowany narożnik mikropaskowy</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id262"><em>Microstrip Step</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MSTEP</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">skok impedancji linii mikropaskowej</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id266"><em>Microstrip Tee</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MTEE</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">trójnik mikropaskowy</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id270"><em>Microstrip Cross</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MCROSS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">mikropaskowe połączenie krzyżowe</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id274"><em>Microstrip Open</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MOPEN</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">rozwarcie mikropaskowe</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id278"><em>Microstrip Gap</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MGAP</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">przerwa mikropaskowa</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id282"><em>Microstrip Via</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MVIA</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td><p class="first last">przelotka linii mikropaskowej</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id286"><em>Microstrip Radial Stub</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MRSTUB</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">MS</span></tt></td>
+<td>microstrip radial stub</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id290"><em>Coplanar Line</em></a></td>
+<td><tt class="docutils literal"><span class="pre">CLIN</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">CL</span></tt></td>
+<td><p class="first last">linia koplanarna</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id294"><em>Coplanar Open</em></a></td>
+<td><tt class="docutils literal"><span class="pre">COPEN</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">CL</span></tt></td>
+<td><p class="first last">rozwarcie koplanarne</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id298"><em>Coplanar Short</em></a></td>
+<td><tt class="docutils literal"><span class="pre">CSHORT</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">CL</span></tt></td>
+<td><p class="first last">zwarcie koplanarne</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id302"><em>Coplanar Gap</em></a></td>
+<td><tt class="docutils literal"><span class="pre">CGAP</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">CL</span></tt></td>
+<td><p class="first last">przerwa koplanarna</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id306"><em>Coplanar Step</em></a></td>
+<td><tt class="docutils literal"><span class="pre">CSTEP</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">CL</span></tt></td>
+<td><p class="first last">koplanarna skokowa zmiana impedancji</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id310"><em>Bond Wire</em></a></td>
+<td><tt class="docutils literal"><span class="pre">BOND</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Line</span></tt></td>
+<td>bond wire</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#non"><em>Diode</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Diode</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">D</span></tt></td>
+<td><p class="first last">dioda</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id317"><em>npn transistor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">_BJT</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td><p class="first last">tranzystor złączowy bipolarny</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id321"><em>pnp transistor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">_BJT</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td><p class="first last">tranzystor złączowy bipolarny</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id325"><em>npn transistor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">BJT</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>bipolar junction transistor with subs...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id330"><em>pnp transistor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">BJT</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>bipolar junction transistor with subs...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id335"><em>n-JFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">JFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td><p class="first last">tranyzstor polowy złączowy</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id339"><em>p-JFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">JFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td><p class="first last">tranyzstor polowy złączowy</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id343"><em>n-MOSFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">_MOSFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td><p class="first last">tranzystor polowy MOS</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id347"><em>p-MOSFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">_MOSFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td><p class="first last">tranzystor polowy MOS</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id351"><em>depletion MOSFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">_MOSFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td><p class="first last">tranzystor polowy MOS</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id355"><em>n-MOSFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MOSFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>MOS field-effect transistor with subs...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id360"><em>p-MOSFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MOSFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>MOS field-effect transistor with subs...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id365"><em>depletion MOSFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MOSFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>MOS field-effect transistor with subs...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id370"><em>OpAmp</em></a></td>
+<td><tt class="docutils literal"><span class="pre">OpAmp</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">OP</span></tt></td>
+<td><p class="first last">wzmacniacz operacyjny</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id374"><em>Equation Defined Device</em></a></td>
+<td><tt class="docutils literal"><span class="pre">EDD</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">D</span></tt></td>
+<td><p class="first last">element opisany równaniem</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id378"><em>Diac</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Diac</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">D</span></tt></td>
+<td>diac (bidirectional trigger diode)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id382"><em>Triac</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Triac</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">D</span></tt></td>
+<td>triac (bidirectional thyristor)</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id386"><em>Thyristor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">SCR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">D</span></tt></td>
+<td>silicon controlled rectifier (SCR)</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id390"><em>Tunnel Diode</em></a></td>
+<td><tt class="docutils literal"><span class="pre">RTD</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">D</span></tt></td>
+<td>resonance tunnel diode</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#ver"><em>HICUM L2 v2.1</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL2V2p1</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td><p class="first last">komponent HICUM Level 2 v2.1 veriloga</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id397"><em>FBH HBT</em></a></td>
+<td><tt class="docutils literal"><span class="pre">HBT_X</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HBT model by Ferdinand-Braun-Institut...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id401"><em>Modular OpAmp</em></a></td>
+<td><tt class="docutils literal"><span class="pre">mod_amp</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">OP</span></tt></td>
+<td>Modular Operational Amplifier verilog...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id405"><em>HICUM L2 v2.22</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hic2_full</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 2 v2.22 verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id409"><em>Logarithmic Amplifier</em></a></td>
+<td><tt class="docutils literal"><span class="pre">log_amp</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">LA</span></tt></td>
+<td>Logarithmic Amplifier verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id413"><em>npn HICUM L0 v1.12</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hic0_full</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 0 v1.12 verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id417"><em>pnp HICUM L0 v1.12</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hic0_full</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 0 v1.12 verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id421"><em>Potentiometer</em></a></td>
+<td><tt class="docutils literal"><span class="pre">potentiometer</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">POT</span></tt></td>
+<td>Potentiometer verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id425"><em>MESFET</em></a></td>
+<td><tt class="docutils literal"><span class="pre">MESFET</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>MESFET verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id429"><em>EPFL-EKV NMOS 2.6</em></a></td>
+<td><tt class="docutils literal"><span class="pre">EKV26MOS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">M</span></tt></td>
+<td>EPFL-EKV MOS 2.6 verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id433"><em>EPFL-EKV PMOS 2.6</em></a></td>
+<td><tt class="docutils literal"><span class="pre">EKV26MOS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">M</span></tt></td>
+<td>EPFL-EKV MOS 2.6 verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id437"><em>bsim3v34nMOS</em></a></td>
+<td><tt class="docutils literal"><span class="pre">bsim3v34nMOS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">BSIM3_</span></tt></td>
+<td>bsim3v34nMOS verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id441"><em>bsim3v34pMOS</em></a></td>
+<td><tt class="docutils literal"><span class="pre">bsim3v34pMOS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">BSIM3_</span></tt></td>
+<td>bsim3v34pMOS verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id445"><em>bsim4v30nMOS</em></a></td>
+<td><tt class="docutils literal"><span class="pre">bsim4v30nMOS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">BSIM4_</span></tt></td>
+<td>bsim4v30nMOS verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id449"><em>bsim4v30pMOS</em></a></td>
+<td><tt class="docutils literal"><span class="pre">bsim4v30pMOS</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">BSIM4_</span></tt></td>
+<td>bsim4v30pMOS verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id453"><em>npn HICUM L0 v1.2</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL0V1p2</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 0 v1.2 verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id457"><em>pnp HICUM L0 v1.2</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL0V1p2</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 0 v1.2 verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id461"><em>npn HICUM L0 v1.2g</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL0V1p2g</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 0 v1.2g verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id465"><em>pnp HICUM L0 v1.2g</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL0V1p2g</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 0 v1.2g verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id469"><em>npn HICUM L0 v1.3</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL0V1p3</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 0 v1.3 verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id473"><em>pnp HICUM L0 v1.3</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL0V1p3</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 0 v1.3 verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id477"><em>HICUM L2 v2.23</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL2V2p23</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 2 v2.23 verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id481"><em>HICUM L2 v2.24</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL2V2p24</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>HICUM Level 2 v2.24 verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id485"><em>HICUM L2 V2.31</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hicumL2V2p31n</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>hicumL2V2p31n verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id489"><em>Photodiode</em></a></td>
+<td><tt class="docutils literal"><span class="pre">photodiode</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">PD</span></tt></td>
+<td>Photodiode verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id493"><em>Phototransistor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">phototransistor</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">PT</span></tt></td>
+<td>Phototransistor verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id497"><em>NIGBT</em></a></td>
+<td><tt class="docutils literal"><span class="pre">nigbt</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">T</span></tt></td>
+<td>NIGBT verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id501"><em>Voltage Controlled Resistor</em></a></td>
+<td><tt class="docutils literal"><span class="pre">vcresistor</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">VCR</span></tt></td>
+<td><p class="first last">źródło napięciowe sterowane napięciem</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#dig"><em>digital source</em></a></td>
+<td><tt class="docutils literal"><span class="pre">DigiSource</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">S</span></tt></td>
+<td><p class="first last">źródło cyfrowe</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id508"><em>Inverter</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Inv</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">inverter logiczny</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id512"><em>n-port OR</em></a></td>
+<td><tt class="docutils literal"><span class="pre">OR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">bramka OR</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id516"><em>n-port NOR</em></a></td>
+<td><tt class="docutils literal"><span class="pre">NOR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">bramka NOR</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id520"><em>n-port AND</em></a></td>
+<td><tt class="docutils literal"><span class="pre">AND</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">bramka AND</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id524"><em>n-port NAND</em></a></td>
+<td><tt class="docutils literal"><span class="pre">NAND</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">bramka NAND</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id528"><em>n-port XOR</em></a></td>
+<td><tt class="docutils literal"><span class="pre">XOR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">bramka XOR</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id532"><em>n-port XNOR</em></a></td>
+<td><tt class="docutils literal"><span class="pre">XNOR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">bramka XNOR</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id536"><em>Buffer</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Buf</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>logical buffer</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id540"><em>4x2 AndOr</em></a></td>
+<td><tt class="docutils literal"><span class="pre">andor4x2</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4x2 andor verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id544"><em>4x3 AndOr</em></a></td>
+<td><tt class="docutils literal"><span class="pre">andor4x3</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4x3 andor verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id548"><em>4x4 AndOr</em></a></td>
+<td><tt class="docutils literal"><span class="pre">andor4x4</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4x4 andor verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id552"><em>2to1 Mux</em></a></td>
+<td><tt class="docutils literal"><span class="pre">mux2to1</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>2to1 multiplexer verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id556"><em>4to1 Mux</em></a></td>
+<td><tt class="docutils literal"><span class="pre">mux4to1</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4to1 multiplexer verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id561"><em>8to1 Mux</em></a></td>
+<td><tt class="docutils literal"><span class="pre">mux8to1</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>8to1 multiplexer verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id566"><em>2to4 Demux</em></a></td>
+<td><tt class="docutils literal"><span class="pre">dmux2to4</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>2to4 demultiplexer verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id570"><em>3to8 Demux</em></a></td>
+<td><tt class="docutils literal"><span class="pre">dmux3to8</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>3to8 demultiplexer verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id574"><em>4to16 Demux</em></a></td>
+<td><tt class="docutils literal"><span class="pre">dmux4to16</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4to16 demultiplexer verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id578"><em>1Bit HalfAdder</em></a></td>
+<td><tt class="docutils literal"><span class="pre">ha1b</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>1bit half adder verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id582"><em>1Bit FullAdder</em></a></td>
+<td><tt class="docutils literal"><span class="pre">fa1b</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>1bit full adder verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id586"><em>2Bit FullAdder</em></a></td>
+<td><tt class="docutils literal"><span class="pre">fa2b</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>2bit full adder verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id591"><em>RS-FlipFlop</em></a></td>
+<td><tt class="docutils literal"><span class="pre">RSFF</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">przerzutnik RS</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id595"><em>D-FlipFlop</em></a></td>
+<td><tt class="docutils literal"><span class="pre">DFF</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td><p class="first last">przerzutnik D z asynchronicznym resetem</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id599"><em>D-FlipFlop w/ SR</em></a></td>
+<td><tt class="docutils literal"><span class="pre">dff_SR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>D flip flop with set and reset verilo...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id603"><em>JK-FlipFlop</em></a></td>
+<td><tt class="docutils literal"><span class="pre">JKFF</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>JK flip flop with asynchron set and r...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id607"><em>JK-FlipFlop w/ SR</em></a></td>
+<td><tt class="docutils literal"><span class="pre">jkff_SR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>jk flip flop with set and reset veril...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id611"><em>T-FlipFlop w/ SR</em></a></td>
+<td><tt class="docutils literal"><span class="pre">tff_SR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>T flip flop with set and reset verilo...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id615"><em>Gated D-Latch</em></a></td>
+<td><tt class="docutils literal"><span class="pre">gatedDlatch</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>gated D latch verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id619"><em>Logic 0</em></a></td>
+<td><tt class="docutils literal"><span class="pre">logic_0</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">S</span></tt></td>
+<td>logic 0 verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id623"><em>Logic 1</em></a></td>
+<td><tt class="docutils literal"><span class="pre">logic_1</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">S</span></tt></td>
+<td>logic 1 verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id627"><em>2Bit Pattern</em></a></td>
+<td><tt class="docutils literal"><span class="pre">pad2bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>2bit pattern generator verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id631"><em>3Bit Pattern</em></a></td>
+<td><tt class="docutils literal"><span class="pre">pad3bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>3bit pattern generator verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id636"><em>4Bit Pattern</em></a></td>
+<td><tt class="docutils literal"><span class="pre">pad4bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4bit pattern generator verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id641"><em>A2D Level Shifter</em></a></td>
+<td><tt class="docutils literal"><span class="pre">DLS_nto1</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>data voltage level shifter (analogue ...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id645"><em>D2A Level Shifter</em></a></td>
+<td><tt class="docutils literal"><span class="pre">DLS_1ton</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>data voltage level shifter (digital t...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id649"><em>4Bit Bin2Grey</em></a></td>
+<td><tt class="docutils literal"><span class="pre">binarytogrey4bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4bit binary to grey converter verilog...</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id653"><em>4Bit Grey2Bin</em></a></td>
+<td><tt class="docutils literal"><span class="pre">greytobinary4bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4bit grey to binary converter verilog...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id657"><em>1Bit Comparator</em></a></td>
+<td><tt class="docutils literal"><span class="pre">comp_1bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>1bit comparator verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id661"><em>2Bit Comparator</em></a></td>
+<td><tt class="docutils literal"><span class="pre">comp_2bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>2bit comparator verilog device</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id666"><em>4Bit Comparator</em></a></td>
+<td><tt class="docutils literal"><span class="pre">comp_4bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4bit comparator verilog device</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id671"><em>4Bit HPRI-Bin</em></a></td>
+<td><tt class="docutils literal"><span class="pre">hpribin4bit</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Y</span></tt></td>
+<td>4bit highest priority encoder (binary...</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id675"><em>VHDL file</em></a></td>
+<td><tt class="docutils literal"><span class="pre">VHDL</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">Plik VHDL</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id679"><em>Verilog file</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Verilog</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">Plik Verliog</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id683"><em>digital simulation</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.Digi</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Digi</span></tt></td>
+<td><p class="first last">symulacja cyfrowa</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#fil"><em>SPICE netlist</em></a></td>
+<td><tt class="docutils literal"><span class="pre">SPICE</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">plik netlisty SPICE</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id690"><em>1-port S parameter file</em></a></td>
+<td><tt class="docutils literal"><span class="pre">SPfile</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">plik z parametrami S</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id694"><em>2-port S parameter file</em></a></td>
+<td><tt class="docutils literal"><span class="pre">SPfile</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">plik z parametrami S</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id699"><em>n-port S parameter file</em></a></td>
+<td><tt class="docutils literal"><span class="pre">SPfile</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">X</span></tt></td>
+<td><p class="first last">plik z parametrami S</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id703"><em>Subcircuit</em></a></td>
+<td><tt class="docutils literal"><span class="pre">Sub</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SUB</span></tt></td>
+<td><p class="first last">podukład</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#sim"><em>dc simulation</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.DC</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">DC</span></tt></td>
+<td><p class="first last">symulacja dc</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id710"><em>Transient simulation</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.TR</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">TR</span></tt></td>
+<td><p class="first last">symulacja czasowa</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id714"><em>ac simulation</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.AC</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">AC</span></tt></td>
+<td><p class="first last">Symulacja ac</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id718"><em>S-parameter simulation</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.SP</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SP</span></tt></td>
+<td><p class="first last">symulacja parametrów S</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id722"><em>Harmonic balance</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.HB</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">HB</span></tt></td>
+<td><p class="first last">Symulacja bilansu harmonicznych</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id726"><em>Parameter sweep</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.SW</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">SW</span></tt></td>
+<td><p class="first last">Przemiatanie parametrów</p>
+</td>
+</tr>
+<tr class="row-even"><td><a class="reference internal" href="component_reference.html#id730"><em>digital simulation</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.Digi</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Digi</span></tt></td>
+<td><p class="first last">symulacja cyfrowa</p>
+</td>
+</tr>
+<tr class="row-odd"><td><a class="reference internal" href="component_reference.html#id735"><em>optimization</em></a></td>
+<td><tt class="docutils literal"><span class="pre">.Opt</span></tt></td>
+<td><tt class="docutils literal"><span class="pre">Opt</span></tt></td>
+<td><p class="first last">Optymalizacja</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="component_reference.html" class="btn btn-neutral float-right" title="Component Reference"/>Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="component_description.html" class="btn btn-neutral" title="Component Description"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2014, Qucs Team (2014).
+    </p>
+  </div>
+
+  <a href="https://github.com/snide/sphinx_rtd_theme">Sphinx theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'./',
+            VERSION:'0.0.19',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true
+        };
+    </script>
+      <script type="text/javascript" src="static/jquery.js"></script>
+      <script type="text/javascript" src="static/underscore.js"></script>
+      <script type="text/javascript" src="static/doctools.js"></script>
+      <script type="text/javascript" src="static/translations.js"></script>
+      <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>
