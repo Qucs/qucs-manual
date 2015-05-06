@@ -17,16 +17,12 @@ The generated files are included into a Sphinx documentation generation project 
 
 ## Preview (This might change at any time)
 
-The `html` documentation: http://qucs.sourceforge.net/doc/0.0.19/html/index.html
-
-The `pdf` documentation : http://qucs.sourceforge.net/doc/0.0.19/pdf/QucsReferenceManual.pdf
-
 **New** with translations: http://guitorri.github.io/qucs-manual/
 
 
 ## How it works
 
-Qucs received two new commands, currently on the branch `generate-doc` [1]:
+Qucs executable has two commands:
 
 - `qucs -icon` (based on the work of cnovak)
 - `qucs -doc`
@@ -82,5 +78,4 @@ See scripts:
 - `gen_html.sh`	: generate the HTML pages
 
 
-[1] https://github.com/guitorri/qucs/tree/qucs-generate-doc
 
