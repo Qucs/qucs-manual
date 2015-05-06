@@ -24,12 +24,13 @@ The generated files are included into a Sphinx documentation generation project 
 
 Qucs executable has two commands:
 
-- `qucs -icon` (based on the work of cnovak)
-- `qucs -doc`
+- `$ qucs -icon`:
 
-The first generates all the icons of the registered components as `.png` into the `./bitmaps_generated/` directory.
+The command generates all the icons of the registered components as `.png` into the `./bitmaps_generated/` directory.
 
-The second generares the following:
+- `$ qucs -doc`
+
+The command generares the following text files:
 
 - `caterories.txt` containig the name of the caterories (same order as in Qucs)
   - `./[first category]/`
