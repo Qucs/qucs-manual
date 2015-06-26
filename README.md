@@ -17,7 +17,7 @@ The generated files are included into a Sphinx documentation generation project 
 
 ## Preview (This might change at any time)
 
-**New** with translations: http://guitorri.github.io/qucs-manual/
+**New** with translations: http://qucs.github.io/qucs-manual/
 
 
 ## How it works
